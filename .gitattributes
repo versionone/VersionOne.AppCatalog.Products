@@ -1,0 +1,12 @@
+# Text files
+# Normalize crlf => lf
+*.json		text
+*.config	text
+*.md		text
+
+# *nix only
+*.sh			eol=lf
+*.properties	eol=lf
+
+# Binary files
+*.png		binary
