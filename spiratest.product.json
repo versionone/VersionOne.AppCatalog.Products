@@ -1,0 +1,45 @@
+{
+    "id": "Inflectra.SpiraTest.RequirementsManagement.VersionOne",
+    "titleSection": {
+        "name": "SpiraTest Importer for VersionOne",
+        "shortDescription": "Synchronizes epics and stories/backlog items in VersionOne with requirements in SpiraTest.",
+        "pricing": "Free",
+        "support": {
+            "text": "Inflectra",
+            "href": "http://inflectra.com/Support/External.aspx"
+        }
+    },
+    "descriptionSection": {
+        "description": "SpiraTest Importer for VersionOne synchronizes epics and stories/backlog items in VersionOne with requirements in SpiraTest."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://inflectra.com/Downloads/VersionOneAdapter_Setup.msi"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://inflectra.com/Documents/SpiraTestPlanTeam%20Requirements%20Management%20Integration%20Guide.pdf"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-01T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "3.2.0",
+                "releaseNotes": "Compatible with SpiraTest v3.0+ and VersionOne v13+",
+                "qualityBand": "commercial",
+                "downloadUrl": "http://inflectra.com/Downloads/VersionOneAdapter_Setup.msi"
+            }
+        ],
+        "qualityBands": [
+            {
+                "name": "commercial",
+                "shortDesc": "The product is stable and supported."
+            }
+        ]
+    }
+}
