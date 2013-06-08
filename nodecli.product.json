@@ -20,6 +20,11 @@
             "href": "https://github.com/29decibel/versionone-cli"
         },
         {
+            "type": "hyperlink",
+            "title": "VersionOne CLI on Gemnasium",
+            "href": "https://gemnasium.com/npms/versionone-cli"
+        },
+        {
             "type": "documentation",
             "title": "Documentation",
             "href": "https://github.com/29decibel/versionone-cli/blob/master/README.md"
