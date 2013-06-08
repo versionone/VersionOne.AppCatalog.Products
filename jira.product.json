@@ -1,7 +1,7 @@
 {
-    "id": "VersionOne.JIRA",
+    "id": "VersionOne.Integration.JIRA",
     "titleSection": {
-        "name": "VersionOne JIRA Integration",
+        "name": "VersionOne Integration for JIRA",
         "shortDescription": "Triage defects and include them in the planning process to balance new work and maintenance.",
         "pricing": "Free",
         "support": {
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne JIRA Integration (V1JIRA) creates defects in VersionOne based on issues in JIRA. Using this integration your organization can manage and triage issues reported by customers and promote them to VersionOne once you determine a fix is necessary."
+        "description": "VersionOne Integration for JIRA creates defects in VersionOne based on issues in JIRA. Using this integration your organization can manage and triage issues reported by customers and promote them to VersionOne once you determine a fix is necessary."
     },
     "linksSection": [
         {
@@ -102,21 +102,21 @@
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
-
+        ]
+    },
     "mediaSection": [
         {
             "title": "JIRA",
@@ -125,6 +125,5 @@
             "href": "http://vtv.v1host.com/permalink/?title=Defect%3A%20JIRA&category=Integrations&edition=enterprise&release=undefined",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
-        ]
-
+    ]
 }
