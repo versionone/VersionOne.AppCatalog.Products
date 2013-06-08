@@ -1,8 +1,8 @@
 {
-    "id": "VersionOne.Git",
+    "id": "VersionOne.LDAPSync",
     "titleSection": {
-        "name": "VersionOne Git Integration",
-        "shortDescription": "View code changes for a story or defect quickly by integrating VersionOne with your source code manager.",
+        "name": "VersionOne LDAPSync Integration",
+        "shortDescription": "The LDAP synchronization tool allows an organization to synchronize their VersionOne Member list with users that belong to a specified LDAP group. ",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -10,41 +10,41 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Git Integration (V1Git) creates a record of Git commits in VersionOne, so the development team can quickly view all of the code changes for a story or defect. This visibility can be useful when tracking down defects or performing code reviews."
+        "description": "The LDAP synchronization tool allows an organization to synchronize their VersionOne Member list with users that belong to a specified LDAP group. The tool assumes that the list of users in the LDAP group is the master list, and adds or removes users from VersionOne accordingly. When users are added they are sent an email with VersionOne connection information and, if VersionOne is configured for VersionOne Authentication, a randomly generated password."
     },
     "linksSection": [
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1GitIntegration.9.0.zip"
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Provisioning.zip"
         },
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://community.versionone.com/sdk/DetailedDocumentation/Git/index.html"
+            "href": "http://community.versionone.com/sdk/DetailedDocumentation/VersionOne.Provisioning/VersionOne%20LDAP%20Provisioning%20Tool.html"
         }
     ],
     "updatesSection": {
         "updates": [
             {
-                "date": "2012-05-31T00:00:00.000Z",
-                "description": "Spring 2012",
-                "version": "116",
-                "releaseNotes": "Fixed: Support for linking to multiple repositories.",
-                "qualityBand": "mature",
-                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1GitIntegration.9.0.zip"
-            },
-            {
-                "date": "2012-05-15T00:00:00.000Z",
-                "description": "Spring 2012",
-                "version": "110",
-                "releaseNotes": "Added: Support for multiple repositories.",
-                "qualityBand": "mature",
-            },
-            {
                 "date": "2011-07-01T00:00:00.000Z",
                 "description": "Summer 2011",
-                "version": "91",
+                "version": "62",
+                "releaseNotes": "Updated: Integration depends on the latest SDK",
+                "qualityBand": "mature",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Provisioning.zip"
+            },
+            {
+                "date": "2010-12-06T00:00:00.000Z",
+                "description": "Winter 2010",
+                "version": "53",
+                "releaseNotes": "Fixed: VersionOne username matching should be case insensitive",
+                "qualityBand": "mature",
+            },
+            {
+                "date": "2010-08-10T00:00:00.000Z",
+                "description": "Summer 2010",
+                "version": "49",
                 "releaseNotes": "Initial Release",
                 "qualityBand": "mature",
             }
