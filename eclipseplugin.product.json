@@ -1,7 +1,7 @@
 {
-    "id": "VersionOne.EclipsePlugin",
+    "id": "VersionOne.Integration.Eclipse",
     "titleSection": {
-        "name": "VersionOne EclipsePlugin Integration",
+        "name": "VersionOne Integration for Eclipse",
         "shortDescription": "View and update VersionOne work items directly from your IDE.",
         "pricing": "Free",
         "support": {
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "This Plugin extends the Eclipse IDE by providing a view that allows Eclipse users to view and update VersionOne Stories, Defects, Task, and Test. The integration provides access workitems own by the configured user, or any other workitem in an active sprint/iteration. This allows Eclipse users to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
+        "description": "VersionOne Integration for Eclipse extends the Eclipse IDE by providing a view that allows users to view and update VersionOne Stories, Defects, Task, and Test. The integration provides access workitems own by the configured user, or any other workitem in an active sprint/iteration. This allows Eclipse users to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
     },
     "linksSection": [
         {
@@ -67,24 +67,24 @@
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.Eclipse/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Integration.Eclipse/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Integration.Eclipse/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
-
+        ]
+    },
     "mediaSection": [
         {
-            "title": "Eclipse Plugin Integration",
+            "title": "Eclipse Plugin",
             "caption": "View and update VersionOne work items directly from your IDE.",
             "mimetype": "video/x-flv",
             "href": "http://vtv.v1host.com/permalink/?title=IDE%3A%20Eclipse&category=Integrations&edition=enterprise&release=undefined",
