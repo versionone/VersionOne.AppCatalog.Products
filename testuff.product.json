@@ -1,0 +1,38 @@
+{
+    "id": "Testuff.Integration.VersionOne",
+    "titleSection": {
+        "name": "Testuff Integration for VersionOne",
+        "shortDescription": "Send defects reported during testing to VersionOne for on-going tracking and planning.",
+        "pricing": "Free",
+        "support": {
+            "text": "Testuff",
+            "href": "http://www.testuff.com/help/"
+        }
+    },
+    "descriptionSection": {
+        "description": "Although Testuff is a hosted service it can automatically send every reported defect to your VersionOne account. You can run your manual tests with Testuff and continue to use VersionOne for bug tracking. The integration is done by the desktop client. Therefore, it should also work if you host VersionOne on an internal server. Our server doesn’t need to access your bug tracker server and you don’t need to change anything in your security or firewall configuration to make it work."
+    },
+    "linksSection": [
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://www.testuff.com/help/versionone/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-06-08T00:00:00.000Z",
+                "description": "Summer 2013",
+                "releaseNotes": "Integration announcement.",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": [
+            {
+                "name": "commercial",
+                "shortDesc": "The product is stable and supported."
+            }
+        ]
+    }
+}
