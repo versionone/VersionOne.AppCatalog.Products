@@ -1,7 +1,7 @@
 {
-    "id": "VersionOne.V1Hudson",
+    "id": "VersionOne.Integration.Hudson",
     "titleSection": {
-        "name": "V1Hudson",
+        "name": "VersionOne Integration for Hudson",
         "shortDescription": "Link agile workitems to tangible, working software in the form of builds.",
         "pricing": "Free",
         "support": {
@@ -58,15 +58,18 @@
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code."
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.Hudson/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
-                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes."
+                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.Hudson/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
-                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes."
+                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.Hudson/blob/master/CONTRIBUTING.md#mature"
             }
         ]
     }
