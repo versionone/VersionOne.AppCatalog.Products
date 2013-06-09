@@ -1,8 +1,8 @@
 {
-    "id": "VersionOne.SDKNETAPICLient",
+    "id": "VersionOne.SDK.NET.APICLient",
     "titleSection": {
-        "name": "VersionOne SDK NET API Client Integration",
-        "shortDescription": "The APIClient is best suited for course-grained and bulk access.",
+        "name": "VersionOne SDK NET APIClient",
+        "shortDescription": "a library for custom .NET development against the VersionOne Platform's REST-based API",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -15,7 +15,7 @@
     "linksSection": [
         {
             "type": "download",
-            "title": "Download Latest Stable Build",
+            "title": "APIClient in the NuGet Gallery",
             "href": "http://nuget.org/packages/VersionOne.SDK.APIClient"
         },
         {
@@ -31,29 +31,19 @@
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.SDK.NET.APIClient/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.SDK.NET.APIClient/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.SDK.NET.APIClient/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
-
-    "mediaSection": [
-        {
-            "title": "",
-            "caption": "",
-            "mimetype": "video/x-flv",
-            "href": "",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
         ]
-
+    }
 }
