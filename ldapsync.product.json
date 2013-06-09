@@ -1,8 +1,8 @@
 {
-    "id": "VersionOne.LDAPSync",
+    "id": "VersionOne.Integration.LDAPSync",
     "titleSection": {
-        "name": "VersionOne LDAPSync Integration",
-        "shortDescription": "The LDAP synchronization tool allows an organization to synchronize their VersionOne Member list with users that belong to a specified LDAP group. ",
+        "name": "VersionOne Integration for LDAP",
+        "shortDescription": "synchronize VersionOne Members with LDAP users.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -48,35 +48,23 @@
                 "releaseNotes": "Initial Release",
                 "qualityBand": "mature",
             }
-            
-            
         ],
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.LDAPSync/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Integration.LDAPSync/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Integration.LDAPSync/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
-
-    "mediaSection": [
-        {
-            "title": "",
-            "caption": "",
-            "mimetype": "video/x-flv",
-            "href": "",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
         ]
-
+    }
 }
