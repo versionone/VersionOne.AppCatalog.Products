@@ -1,8 +1,8 @@
 {
-    "id": "VersionOne.Requestor",
+    "id": "VersionOne.Requestor.ASP",
     "titleSection": {
-        "name": "VersionOne Requestor Integration",
-        "shortDescription": "The VersionOne Requestor allows stakeholders across your organization to submit requests to your VersionOne projects. ",
+        "name": "VersionOne Requestor",
+        "shortDescription": "accept requests to your VersionOne projects from anyone",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Requestor allows stakeholders across your organization to submit requests to your VersionOne projects. This standalone web application is a simple way for any user to submit a request for a new feature or report a defect without having access to the full VersionOne application or knowledge of your VersionOne project structure. Check out VersionOne Ideas for a more full-featured way to capture customer input."
+        "description": "VersionOne Requestor allows stakeholders across your organization to submit requests to your VersionOne projects. This standalone web application is a simple way for any user to submit a request for a new feature or report a defect without having access to the full VersionOne application or knowledge of your VersionOne project structure. Check out VersionOne Ideas for a more full-featured way to capture customer input."
     },
     "linksSection": [
         {
@@ -26,36 +26,24 @@
     ],
     "updatesSection": {
         "updates": [
-        
-            
+
         ],
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Requestor/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Requestor/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Requestor/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
-
-    "mediaSection": [
-        {
-            "title": "",
-            "caption": "",
-            "mimetype": "video/x-flv",
-            "href": "",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
-        
         ]
-
+    }
 }
