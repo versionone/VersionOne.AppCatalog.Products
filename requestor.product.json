@@ -1,0 +1,61 @@
+{
+    "id": "VersionOne.Requestor",
+    "titleSection": {
+        "name": "VersionOne Requestor Integration",
+        "shortDescription": "The VersionOne Requestor allows stakeholders across your organization to submit requests to your VersionOne projects. ",
+        "pricing": "Free",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "The VersionOne Requestor allows stakeholders across your organization to submit requests to your VersionOne projects. This standalone web application is a simple way for any user to submit a request for a new feature or report a defect without having access to the full VersionOne application or knowledge of your VersionOne project structure. Check out VersionOne Ideas for a more full-featured way to capture customer input."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Requestor-7.1.zip"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://community.versionone.com/Downloads/Documentation/Requestor.aspx"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+        
+            
+        ],
+        "qualityBands": [
+            {
+                "name": "seed",
+                "shortDesc": "The initial idea of a product. No working code.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+            },
+            {
+                "name": "sapling",
+                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+            },
+            {
+                "name": "mature",
+                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+            }
+        ],
+
+    "mediaSection": [
+        {
+            "title": "",
+            "caption": "",
+            "mimetype": "video/x-flv",
+            "href": "",
+            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        }
+        
+        ]
+
+}

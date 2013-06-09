@@ -1,0 +1,61 @@
+{
+    "id": "VersionOne.UrbanCode",
+    "titleSection": {
+        "name": "VersionOne UrbanCode Integration",
+        "shortDescription": "Link agile workitems to tangible, working software in the form of builds.",
+        "pricing": "Free",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "UrbanCode provides integration as as part of their Anthill Pro and UBuild products. It provides steps for the build to comment, create, and resolve defects found in VersionOne and publish defects that were addressed in the build to the Issues tab. Please contact UrbanCode with questions."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://plugins.urbancode.com/anthill3/integration/VersionOne"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://plugins.urbancode.com/anthill3/integration/VersionOne"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+        
+            
+        ],
+        "qualityBands": [
+            {
+                "name": "seed",
+                "shortDesc": "The initial idea of a product. No working code.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+            },
+            {
+                "name": "sapling",
+                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+            },
+            {
+                "name": "mature",
+                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+            }
+        ],
+
+    "mediaSection": [
+        {
+            "title": "",
+            "caption": "",
+            "mimetype": "video/x-flv",
+            "href": "",
+            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        }
+        
+        ]
+
+}

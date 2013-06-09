@@ -1,7 +1,7 @@
 {
-    "id": "VersionOne.VisualStudioPlugin",
+    "id": "VersionOne.VisualStudio2010",
     "titleSection": {
-        "name": "VersionOne VisualStudio Integration",
+        "name": "VersionOne VisualStudio2010 Integration",
         "shortDescription": "View code changes for a story or defect quickly by integrating VersionOne with your source code manager.",
         "pricing": "Free",
         "support": {
@@ -10,18 +10,18 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Visual Studio Plugin extends Microsoft’s Visual Studio IDE by providing a view that allows Visual Studio users to view and update VersionOne Stories, Defects, Task, and Test. The integration provides access workitems own by the configured user, or any other workitem in an active sprint/iteration. This allows Visual Studio users to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
+        "description": "VersionOne's integration with Microsoft Team Foundation Server provides your organization with visibility into change while freeing the development team to focus on deliverables. This is accomplished by associating TFS builds and changesets with workitems in VersionOne.  This visibility can be useful when tracking down defects or performing code reviews.  It can also help with selecting a build to release or generating release notes. The TFS Check-in policy ensures that each check-in contains the information necessary to make this association. This package works with both TFS 2010 and 2012 but contains the policy for VS 2010."
     },
     "linksSection": [
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.VisualStudio.VSPackage.zip"
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1TFS2010.zip"
         },
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://community.versionone.com/sdk/DetailedDocumentation/VisualStudio/VSAddin.index.html"
+            "href": "https://github.com/versionone/V1TFS/blob/master/README.md"
         }
     ],
     "updatesSection": {
@@ -29,46 +29,32 @@
         {
                 "date": "2012-11-01T00:00:00.000Z",
                 "description": "Winter 2012",
-                "version": "115",
-                "releaseNotes": "Added: Support for installing into Visual Studio 2012",
+                "version": "97",
+                "releaseNotes": "Added: Support for TFS 2012.",
                 "qualityBand": "mature",
-                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.VisualStudio.VSPackage.zip"
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1TFS2010.zip"
             },
             {
-                "date": "2012-03-06T00:00:00.000Z",
-                "description": "Spring 2012",
-                "version": "101",
-                "releaseNotes": " * Fixed: Honor effort tracking settings from server \n * Fixed: Refresh data after changing VersionOne instance \n * Fixed: Closing and quick closing require manual data refresh \n * Fixed: ToDo not updating after edit \n * Fixed: Owner editor combobox with multi-select",
-                "qualityBand": "mature",
-            },
-            {
-                "date": "2011-12-01T00:00:00.000Z",
-                "description": "Winter 2011",
-                "version": "85",
-                "releaseNotes": " * Added: Asynchronous server calls to reduce UI locking. \n * Added: Refresh project tree on demand to reduce network latency. \n * Added: Add tests via context menu. \n * Fixed: Proxy settings.",
+                "date": "2012-08-08T00:00:00.000Z",
+                "description": "Summer 2012",
+                "version": "96",
+                "releaseNotes": "Fixed: Performance problems exacerbated by unclosed sprints.",
                 "qualityBand": "mature",
             },
             {
                 "date": "2011-07-01T00:00:00.000Z",
                 "description": "Summer 2011",
-                "version": "41",
-                "releaseNotes": "Added: Support for connecting to VersionOne through a proxy.",
+                "version": "64",
+                "releaseNotes": " * Added: Support for connecting to VersionOne through a proxy. \n * Added: Support for TFS 2010 SP1",
                 "qualityBand": "mature",
             },
             {
-                "date": "2010-11-15T00:00:00.000Z",
+                "date": "2010-11-14T00:00:00.000Z",
                 "description": "Winter 2010",
-                "version": "30",
-                "releaseNotes": "Fixed: Task and Test order match VersionOne UI",
+                "version": "52",
+                "releaseNotes": "Initial Release",
                 "qualityBand": "mature",
-            },
-            {
-                "date": "2010-03-07T00:00:00.000Z",
-                "description": "Spring 2010",
-                "version": "28",
-                "releaseNotes": "Support for Winter 2010",
-                "qualityBand": "mature",
-            }
+            }            
                         
             
             }
