@@ -1,8 +1,8 @@
 {
-    "id": "VersionOne.QuickTestPro",
+    "id": "VersionOne.Integration.QuickTestPro",
     "titleSection": {
-        "name": "VersionOne HP Quick Test Professional Integration",
-        "shortDescription": "The VersionOne HP Quick Test Professional Integration (V1QuickTestPro) imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne.",
+        "name": "VersionOne Integration for HP Quick Test Professional",
+        "shortDescription": "import the results of tests defined HP's Quick Test Professional (QTP) into VersionOne.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -55,35 +55,23 @@
                 "releaseNotes": " * Removed dependency on the older APIClient library.  Integration now depends on APIClient library from SDK \n * Added support for QTP 10.0",
                 "qualityBand": "mature",
             }
-            
-            
         ],
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
-
-    "mediaSection": [
-        {
-            "title": "",
-            "caption": "",
-            "mimetype": "video/x-flv",
-            "href": "",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
         ]
-
+    }
 }
