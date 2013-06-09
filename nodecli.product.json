@@ -1,0 +1,58 @@
+{
+    "id": "29decibel.VersionOne-CLI",
+    "titleSection": {
+        "name": "VersionOne CLI (in Node.js)",
+        "shortDescription": "Command Line Interface for VersionOne written in Node.js.",
+        "pricing": "Free"
+    },
+    "descriptionSection": {
+        "description": "Command Line Interface for VersionOne written in Node.js."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "NPM Registry Entry",
+            "href": "https://npmjs.org/package/versionone-cli"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Repository",
+            "href": "https://github.com/29decibel/versionone-cli"
+        },
+        {
+            "type": "hyperlink",
+            "title": "VersionOne CLI on Gemnasium",
+            "href": "https://gemnasium.com/npms/versionone-cli"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "https://github.com/29decibel/versionone-cli/blob/master/README.md"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-05-23T00:00:00.000Z",
+                "description": "Summer 2013",
+                "version": "0.2.4",
+                "releaseNotes": "move where filter clause to option",
+                "qualityBand": "seed"
+            }
+        ],
+        "qualityBands": [
+            {
+                "name": "seed",
+                "shortDesc": "The initial idea of a product. May not be stable code."
+            },
+            {
+                "name": "sapling",
+                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes."
+            },
+            {
+                "name": "mature",
+                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes."
+            }
+        ]
+    }
+}

@@ -1,7 +1,7 @@
 {
-    "id": "VersionOne.IdeaPlugin",
+    "id": "VersionOne.Integration.IntelliJ-IDEA",
     "titleSection": {
-        "name": "VersionOne Plugin IntelliJ IDEA Integration",
+        "name": "VersionOne Integration for IntelliJ IDEA",
         "shortDescription": "View and update VersionOne work items directly from your IDE.",
         "pricing": "Free",
         "support": {
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Plugin for IntelliJ IDEA (V1IdeaPlugin) provides direct interaction with development task in VersionOne within the IntelliJ IDEA IDE. This enables Java developers to update VersionOne task status, estimates, remaining effort, etc., without leaving the confines of the IntelliJ IDEA environment."
+        "description": "VersionOne Integration for IntelliJ IDEA provides direct interaction with development task in VersionOne within the IDE. This enables Java developers to update VersionOne task status, estimates, remaining effort, etc., without leaving the confines of the IntelliJ IDEA environment."
     },
     "linksSection": [
         {
@@ -60,29 +60,19 @@
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.IntelliJ-IDEA/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Integration.IntelliJ-IDEA/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Integration.IntelliJ-IDEA/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
-
-    "mediaSection": [
-        {
-            "title": "",
-            "caption": "",
-            "mimetype": "video/x-flv",
-            "href": "",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
         ]
-
+    }
 }

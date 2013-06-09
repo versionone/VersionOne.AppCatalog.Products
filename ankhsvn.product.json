@@ -1,0 +1,42 @@
+{
+    "id": "simoneb.AnkhVersionOneConnector",
+    "titleSection": {
+        "name": "VersionOne CLI (in Node.js)",
+        "shortDescription": "Provides issue tracking integration in Visual Studio between AnkhSVN and VersionOne",
+        "pricing": "Free"
+    },
+    "descriptionSection": {
+        "description": "Provides issue tracking integration in Visual Studio between AnkhSVN and VersionOne"
+    },
+    "linksSection": [
+        {
+            "type": "source",
+            "title": "GitHub Repository",
+            "href": "https://github.com/simoneb/AnkhVersionOneConnector"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2012-05-22T00:00:00.000Z",
+                "description": "Summer 2012",
+                "releaseNotes": "Browse to WI page",
+                "qualityBand": "seed"
+            }
+        ],
+        "qualityBands": [
+            {
+                "name": "seed",
+                "shortDesc": "The initial idea of a product. May not be stable code."
+            },
+            {
+                "name": "sapling",
+                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes."
+            },
+            {
+                "name": "mature",
+                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes."
+            }
+        ]
+    }
+}
