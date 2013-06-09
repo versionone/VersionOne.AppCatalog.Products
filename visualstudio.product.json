@@ -1,0 +1,106 @@
+{
+    "id": "VersionOne.VisualStudioPlugin",
+    "titleSection": {
+        "name": "VersionOne VisualStudio Integration",
+        "shortDescription": "View code changes for a story or defect quickly by integrating VersionOne with your source code manager.",
+        "pricing": "Free",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "The VersionOne Visual Studio Plugin extends Microsoft’s Visual Studio IDE by providing a view that allows Visual Studio users to view and update VersionOne Stories, Defects, Task, and Test. The integration provides access workitems own by the configured user, or any other workitem in an active sprint/iteration. This allows Visual Studio users to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.VisualStudio.VSPackage.zip"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://community.versionone.com/sdk/DetailedDocumentation/VisualStudio/VSAddin.index.html"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+        {
+                "date": "2012-11-01T00:00:00.000Z",
+                "description": "Winter 2012",
+                "version": "115",
+                "releaseNotes": "Added: Support for installing into Visual Studio 2012",
+                "qualityBand": "mature",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.VisualStudio.VSPackage.zip"
+            },
+            {
+                "date": "2012-03-06T00:00:00.000Z",
+                "description": "Spring 2012",
+                "version": "101",
+                "releaseNotes": " * Fixed: Honor effort tracking settings from server \n * Fixed: Refresh data after changing VersionOne instance \n * Fixed: Closing and quick closing require manual data refresh \n * Fixed: ToDo not updating after edit \n * Fixed: Owner editor combobox with multi-select",
+                "qualityBand": "mature",
+            },
+            {
+                "date": "2011-12-01T00:00:00.000Z",
+                "description": "Winter 2011",
+                "version": "85",
+                "releaseNotes": " * Added: Asynchronous server calls to reduce UI locking. \n * Added: Refresh project tree on demand to reduce network latency. \n * Added: Add tests via context menu. \n * Fixed: Proxy settings.",
+                "qualityBand": "mature",
+            },
+            {
+                "date": "2011-07-01T00:00:00.000Z",
+                "description": "Summer 2011",
+                "version": "41",
+                "releaseNotes": "Added: Support for connecting to VersionOne through a proxy.",
+                "qualityBand": "mature",
+            },
+            {
+                "date": "2010-11-15T00:00:00.000Z",
+                "description": "Winter 2010",
+                "version": "30",
+                "releaseNotes": "Fixed: Task and Test order match VersionOne UI",
+                "qualityBand": "mature",
+            },
+            {
+                "date": "2010-03-07T00:00:00.000Z",
+                "description": "Spring 2010",
+                "version": "28",
+                "releaseNotes": "Support for Winter 2010",
+                "qualityBand": "mature",
+            }
+                        
+            
+            }
+
+            
+        ],
+        "qualityBands": [
+            {
+                "name": "seed",
+                "shortDesc": "The initial idea of a product. No working code.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+            },
+            {
+                "name": "sapling",
+                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+            },
+            {
+                "name": "mature",
+                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+            }
+        ],
+
+    "mediaSection": [
+        {
+            "title": "Visual Studios",
+            "caption": "View code changes for a story or defect quickly by integrating VersionOne with your source code manager.",
+            "mimetype": "video/x-flv",
+            "href": "http://vtv.v1host.com/permalink/?title=Configuring%20Visual%20Studio&category=Integrations&edition=enterprise&release=undefined",
+            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        }
+        ]
+
+}
