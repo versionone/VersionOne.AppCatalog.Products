@@ -1,7 +1,7 @@
 {
-    "id": "VersionOne.QualityCenter",
+    "id": "VersionOne.Integration.QualityCenter",
     "titleSection": {
-        "name": "VersionOne HP Quality Center Integration",
+        "name": "VersionOne Integration for HP Quality Center",
         "shortDescription": "Triage defects and include them in the planning process to balance new work and maintenance.",
         "pricing": "Free",
         "support": {
@@ -94,21 +94,21 @@
         "qualityBands": [
             {
                 "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "shortDesc": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.QualityCenter/blob/master/CONTRIBUTING.md#seed"
             },
             {
                 "name": "sapling",
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Integration.QualityCenter/blob/master/CONTRIBUTING.md#sapling"
             },
             {
                 "name": "mature",
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Integration.QualityCenter/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
-
+        ]
+    }
     "mediaSection": [
         {
             "title": "Quality Center",
@@ -117,6 +117,5 @@
             "href": "http://vtv.v1host.com/permalink/?title=Defect%20%26%20Test%3A%20Quality%20Center&category=Integrations&edition=enterprise&release=undefined",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
-        ]
-
+    ]
 }
