@@ -1,7 +1,7 @@
 {
-    "id": "VersionOne.SDKNETObjectModel",
+    "id": "VersionOne.SDK.NET.ObjectModel",
     "titleSection": {
-        "name": "VersionOne SDK NET Object Model Integration",
+        "name": "VersionOne SDK.NET Object Model Integration",
         "shortDescription": "The ObjectModel is suitable for fine-grained access, such as creating new VersionOne assets.",
         "pricing": "Free",
         "support": {
@@ -30,31 +30,18 @@
             
         ],
         "qualityBands": [
-            {
-                "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
+            "seed": {
+                "shortDescription": "The initial idea of a product. No working code.",
                 "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
             },
-            {
-                "name": "sapling",
-                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
                 "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
             },
-            {
-                "name": "mature",
-                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
                 "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
             }
         ],
-
-    "mediaSection": [
-        {
-            "title": "",
-            "caption": "",
-            "mimetype": "video/x-flv",
-            "href": "",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
-        ]
-
+    }
 }

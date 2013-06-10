@@ -1,7 +1,7 @@
 {
-    "id": "VersionOne.VisualStudio2012",
+    "id": "VersionOne.Integration.VisualStudio2012",
     "titleSection": {
-        "name": "VersionOne VisualStudio2012 Integration",
+        "name": "VersionOne Integration for Visual Studio 2012",
         "shortDescription": "View code changes for a story or defect quickly by integrating VersionOne with your source code manager.",
         "pricing": "Free",
         "support": {
@@ -26,7 +26,7 @@
     ],
     "updatesSection": {
         "updates": [
-        {
+            {
                 "date": "2012-11-01T00:00:00.000Z",
                 "description": "Winter 2012",
                 "version": "97",
@@ -54,31 +54,23 @@
                 "version": "52",
                 "releaseNotes": "Initial Release",
                 "qualityBand": "mature",
-            }            
-                        
-            
             }
-
-            
         ],
         "qualityBands": [
-            {
-                "name": "seed",
-                "shortDesc": "The initial idea of a product. No working code.",
+            "seed": {
+                "shortDescription": "The initial idea of a product. No working code.",
                 "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
             },
-            {
-                "name": "sapling",
-                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
                 "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
             },
-            {
-                "name": "mature",
-                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
                 "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
             }
         ],
-
+    }
     "mediaSection": [
         {
             "title": "Configuring Visual Studios",
@@ -94,6 +86,5 @@
             "href": "http://vtv.v1host.com/permalink/?title=IDE%3A%20Visual%20Studio&category=Integrations&edition=enterprise&release=undefined",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
-        ]
-
+    ]
 }

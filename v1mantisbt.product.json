@@ -50,9 +50,8 @@
             }
         ],
         "qualityBands": [
-            {
-                "name": "commercial",
-                "shortDesc": "The product is stable and supported."
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
             }
         ]
     },

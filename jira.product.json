@@ -97,21 +97,17 @@
                 "releaseNotes": " * Fixed: Issue when Integration and VersionOne are in different timezones \n * Fixed: Issue when Jira description contained a CRLF. \n * Removed dependency on the older APIClient library.  Integration now depends on APIClient library from SDK \n * Integration uses the APIClient library that ships with the SDK \n * Added support for Jira 3.13.4-#354",
                 "qualityBand": "mature",
             }
-            
         ],
         "qualityBands": [
-            {
-                "name": "seed",
+            "seed": {
                 "shortDesc": "The initial idea of a product. May not be stable code.",
                 "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#seed"
             },
-            {
-                "name": "sapling",
+            "sapling": {
                 "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes.",
                 "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#sapling"
             },
-            {
-                "name": "mature",
+            "mature": {
                 "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes.",
                 "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#mature"
             }

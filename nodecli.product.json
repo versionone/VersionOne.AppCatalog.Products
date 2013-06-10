@@ -41,17 +41,14 @@
             }
         ],
         "qualityBands": [
-            {
-                "name": "seed",
-                "shortDesc": "The initial idea of a product. May not be stable code."
+            "seed": {
+                "shortDescription": "The initial idea of a product. May not be stable code."
             },
-            {
-                "name": "sapling",
-                "shortDesc": "The product is undergoing rapid growth. The code works but expect major changes."
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes."
             },
-            {
-                "name": "mature",
-                "shortDesc": "The product is stable. The code will continue to evolve with minimum breaking changes."
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes."
             }
         ]
     }
