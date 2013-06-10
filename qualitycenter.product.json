@@ -2,7 +2,7 @@
     "id": "VersionOne.Integration.QualityCenter",
     "titleSection": {
         "name": "VersionOne Integration for HP Quality Center",
-        "shortDescription": "Triage defects and include them in the planning process to balance new work and maintenance.",
+        "shortDescription": "include acceptance tests from stories in test plans and triage defects for inclusion in agile planning",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne HP Quality Center Integration (V1QualityCenter) provides a two-way flow of information, allowing an organization to leverage its investment in HP Quality Center as part of an integrated platform for agile development. This integration will send tests from VersionOne to Quality Center and update test pass/fail results from Quality Center to VersionOne. When new defects are created in Quality Center, it will also send those defects to VersionOne and update Quality Center once the defect is fixed in VersionOne"
+        "description": "VersionOne Integration for HP Quality Center provides a two-way flow of information for tests and defects. The flow of test data makes it possible to monitor the quality of your projects more easily by making the latest test results visible in VersionOne. Teams can leverage existing test plans and test reporting, while creating new tests based on current user stories/backlog items. This integration will send tests from VersionOne to Quality Center and update test pass/fail results from Quality Center to VersionOne. \n The flow of defect data makes it possible to triage defects and include them in the planning process to balance new work and maintenance. You can leverage existing automated workflows and defect reporting in HP Quality Center, while adding the practice of agile project management. This integration will send specified defects from Quality Center to VersionOne and update defect status from VersionOne to Quality Center."
     },
     "linksSection": [
         {
@@ -111,10 +111,17 @@
     }
     "mediaSection": [
         {
-            "title": "Quality Center",
-            "caption": "Triage defects and include them in the planning process to balance new work and maintenance.",
+            "title": "Integrating Tests and Defects",
+            "caption": "See the integration in action",
             "mimetype": "video/x-flv",
             "href": "http://vtv.v1host.com/permalink/?title=Defect%20%26%20Test%3A%20Quality%20Center&category=Integrations&edition=enterprise&release=undefined",
+            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        },
+        {
+            "title": "Configuration",
+            "caption": "Installing and configuring the integration",
+            "mimetype": "video/x-flv",
+            "href": "https://vtv.v1host.com/permalink/?title=Configuring%20Quality%20Center&category=Integrations&edition=enterprise&release=undefined",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
     ]
