@@ -1,0 +1,57 @@
+{
+    "id": "OpsHub.VersionOne.TaskTop",
+    "titleSection": {
+        "name": "VersionOne Integration with SilkCentral",
+        "shortDescription": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
+        "pricing": "Paid",
+        "support": {
+            "text": "",
+            "href": ""
+        }
+    },
+    "descriptionSection": {
+        "description": "This integration is provided by Micro Focus as part of their SilkCentral Test Manager product. It allows an organization to leverage its investment with SilkCentral as part of an integrated platform for agile development. With this integration, agile teams can generate tests in SilkCentral Test Manager from tests that are defined in VersionOne. The VersionOne test status is then updated based on status changes in SilkCentral. Please contact Micro Focus directly with questions."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About OpsHub Integration Manager",
+            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the IBM/Rational Requisite Pro Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
+        },
+        {
+            "type": "documentation",
+            "title": "OpsHub Integration Manager Datasheet",
+            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about OpsHub",
+            "href": "http://opshub.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": [
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "OpsHub.VersionOne.TaskTop",
+    "titleSection": {
+        "name": "VersionOne Mylyn Connector Integration with TaskTop",
+        "shortDescription": "View and update VersionOne work items directly from your IDE. Stories, defects, tasks and tests can be tracked, updated and closed without ever needing to leave the IDE.",
+        "pricing": "Paid",
+        "support": {
+            "text": "",
+            "href": ""
+        }
+    },
+    "descriptionSection": {
+        "description": "The VersionOne Mylyn Connector integrates VersionOne's agile planning and project management platform with any Tasktop-enabled Eclipse-based IDE. Through integration with Tasktop Dev Pro, the VersionOne Connector also provides a standalone rich client application with offline access to VersionOne stories, defects and tasks."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About OpsHub Integration Manager",
+            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the IBM/Rational Requisite Pro Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
+        },
+        {
+            "type": "documentation",
+            "title": "OpsHub Integration Manager Datasheet",
+            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about OpsHub",
+            "href": "http://opshub.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": [
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        ]
+    }
+}

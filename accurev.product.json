@@ -1,0 +1,57 @@
+{
+    "id": "OpsHub.VersionOne.AccuBridge",
+    "titleSection": {
+        "name": "VersionOne Integration with AccuBridge",
+        "shortDescription": "View code changes for a story or defect quickly by integrating VersionOne with your source code manager.",
+        "pricing": "Paid",
+        "support": {
+            "text": "",
+            "href": ""
+        }
+    },
+    "descriptionSection": {
+        "description": "AccuBridge for VersionOne provides integration through an easy-to-use field mapping and bi-directional integration for issues, defects, tasks, and stories. With this integration, users have full traceability between stories and defects, and the source code changes are fully automated. By automating manual error-prone processes, the integration makes team collaboration more efficient AccuBridge for VersionOne Benefits Include: * Synchronize VersionOne defects/issues, tasks, and stories with AccuRev directly, to ensure data integrity and easy reporting * Supports bi-directional AccuRev Change Package integration for issue-based engineering utilizing VersionOne * Delivers visibility of source code changes within VersionOne, providing comprehensive integrated reporting * Easy to customize, configure, and extend"
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About OpsHub Integration Manager",
+            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the IBM/Rational Requisite Pro Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
+        },
+        {
+            "type": "documentation",
+            "title": "OpsHub Integration Manager Datasheet",
+            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about OpsHub",
+            "href": "http://opshub.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": [
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        ]
+    }
+}

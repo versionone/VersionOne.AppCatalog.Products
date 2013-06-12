@@ -1,0 +1,57 @@
+{
+    "id": "OpsHub.VersionOne.QTrace",
+    "titleSection": {
+        "name": "VersionOne Integration with QTrace",
+        "shortDescription": "Triage defects and include them in the planning process to balance new work and maintenance.",
+        "pricing": "Paid",
+        "support": {
+            "text": "",
+            "href": ""
+        }
+    },
+    "descriptionSection": {
+        "description": "The VersionOne integration with qTrace allows you to capture screens and submit them as defects directly to VersionOne via a rich desktop UI which supports all VersionOne methodologies and fields, including custom fields. For complicated defects that involve multiple steps to reproduce, qTrace automatically captures all involved screens, mouse and keyboard actions in order to generate intelligent defect records. These are attached to the defect in VersionOne as a PDF, Word or JPG file. You can also include additional test notes and system information."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About OpsHub Integration Manager",
+            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the IBM/Rational Requisite Pro Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
+        },
+        {
+            "type": "documentation",
+            "title": "OpsHub Integration Manager Datasheet",
+            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about OpsHub",
+            "href": "http://opshub.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": [
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        ]
+    }
+}
