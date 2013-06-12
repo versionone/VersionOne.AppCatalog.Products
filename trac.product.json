@@ -1,0 +1,57 @@
+{
+    "id": "OpsHub.VersionOne.Trac",
+    "titleSection": {
+        "name": "OpsHub Integration Manager for VersionOne and Trac Integration",
+        "shortDescription": "Integrating VersionOne and Trac helps you leverage your existing tool chain and reach more people.",
+        "pricing": "Paid",
+        "support": {
+            "text": "OpsHub",
+            "href": "http://www.opshub.com/main/index.php/2012-08-31-18-28-21"
+        }
+    },
+    "descriptionSection": {
+        "description": "Integrating VersionOne and Trac helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of defects, enabling teams to leverage existing automated workflows and defect reporting while adding the practice of agile project management. This integration is provided by OpsHub. Please contact info@versionone.com for more information."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About OpsHub Integration Manager",
+            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the Trac Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/trac"
+        },
+        {
+            "type": "documentation",
+            "title": "OpsHub Integration Manager Datasheet",
+            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about OpsHub",
+            "href": "http://opshub.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": [
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        ]
+    }
+}
