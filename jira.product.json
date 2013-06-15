@@ -118,14 +118,14 @@
             "title": "Using Integration",
             "caption": "Triage defects and include them in the planning process to balance new work and maintenance.",
             "mimetype": "video/x-flv",
-            "href": "http://vtv.v1host.com/permalink/?title=Defect%3A%20JIRA&category=Integrations&edition=enterprise&release=undefined",
+            "href": "http://www.versionone.tv.s3.amazonaws.com/JIRA/JIRA.flv",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         },
         {
             "title": "Installation and Configuration",
             "caption": "Get integration up and running quickly",
             "mimetype": "video/x-flv",
-            "href": "https://vtv.v1host.com/permalink/?title=Configuring%20JIRA&category=Integrations&edition=enterprise&release=undefined",
+            "href": "http://www.versionone.tv.s3.amazonaws.com/JIRAConfigurationIntegration/JIRAConfigurationIntegration.flv",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
     ]
