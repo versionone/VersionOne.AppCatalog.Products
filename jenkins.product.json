@@ -69,5 +69,14 @@
                 "href": "https://github.com/versionone/VersionOne.Integration.Jenkins/blob/master/CONTRIBUTING.md#mature"
             }
         }
-    }
+    },
+    "mediaSection": [
+        {
+            "title": "Build Integration",
+            "caption": "Integrate your build system to make it clear which workitems are contained in which builds.",
+            "mimetype": "video/x-flv",
+            "href": "http://www.versionone.tv.s3.amazonaws.com/BuildIntegration/BuildIntegration.flv",
+            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        }
+    ]
 }
