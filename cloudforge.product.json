@@ -3,10 +3,10 @@
     "titleSection": {
         "name": "CloudForge Ticket Integration with VersionOne",
         "shortDescription": "update a VersionOne Workitem directly from your commit with a simple to use syntax",
-        "pricing": "Paid",
+        "pricing": "Free",
         "support": {
-            "text": "",
-            "href": ""
+            "text": "CloudForge",
+            "href": "https://help.cloudforge.com/home"
         }
     },
     "descriptionSection": {
