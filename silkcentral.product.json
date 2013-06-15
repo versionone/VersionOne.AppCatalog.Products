@@ -1,7 +1,7 @@
 {
-    "id": "Borland.SilkCentralTestManager.VersionOne",
+    "id": "Borland.SilkCentral.VersionOne",
     "titleSection": {
-        "name": "SilkCentral Test Manager Integration with VersionOne",
+        "name": "SilkCentral Integration with VersionOne",
         "shortDescription": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
         "pricing": "Free",
         "support": {
