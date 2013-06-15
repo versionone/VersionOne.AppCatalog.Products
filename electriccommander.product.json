@@ -39,7 +39,7 @@
                 "description": "Summer 2011",
                 "version": "101",
                 "releaseNotes": "Initial Release",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             }
         ],
         "qualityBands": {
