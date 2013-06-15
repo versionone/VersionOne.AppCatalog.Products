@@ -84,14 +84,14 @@
             "title": "Eclipse as VersionOne Client",
             "caption": "View and update VersionOne work items directly from your IDE",
             "mimetype": "video/x-flv",
-            "href": "http://vtv.v1host.com/permalink/?title=IDE%3A%20Eclipse&category=Integrations&edition=enterprise&release=undefined",
+            "href": "http://www.versionone.tv.s3.amazonaws.com/Eclipse/Eclipse.flv",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         },
         {
             "title": "Installing the Eclipse Plugin",
             "caption": "Get up and running quickly",
             "mimetype": "video/x-flv",
-            "href": "https://vtv.v1host.com/permalink/?title=Configuring%20Eclipse&category=Integrations&edition=enterprise&release=undefined",
+            "href": "http://www.versionone.tv.s3.amazonaws.com/EclipseIntegrationConfiguration/EclipseIntegrationConfiguration.flv",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
     ]
