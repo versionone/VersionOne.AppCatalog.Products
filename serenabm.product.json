@@ -1,5 +1,5 @@
 {
-    "id": "OpsHub.VersionOne.SerenaBM",
+    "id": "OpsHub.VersionOne.SBM",
     "titleSection": {
         "name": "OpsHub Integration Manager for VersionOne and Serena Business Mashups Integration",
         "shortDescription": "Integrating VersionOne and Serena Business Mashups helps you leverage your existing tool chain and reach more people.",
@@ -48,10 +48,10 @@
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

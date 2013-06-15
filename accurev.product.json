@@ -1,12 +1,12 @@
 {
-    "id": "OpsHub.VersionOne.AccuBridge",
+    "id": "AccuRev.AccuBridge.VersionOne",
     "titleSection": {
-        "name": "VersionOne Integration with AccuBridge",
-        "shortDescription": "View code changes for a story or defect quickly by integrating VersionOne with your source code manager.",
-        "pricing": "Paid",
+        "name": "AccuRev AccuBridge for VersionOne",
+        "shortDescription": "view code changes for a story or defect quickly by integrating VersionOne with your source code manager",
+        "pricing": "Free",
         "support": {
-            "text": "",
-            "href": ""
+            "text": "AccuRev",
+            "href": "http://www.accurev.com/customer-support-resources"
         }
     },
     "descriptionSection": {
@@ -15,43 +15,33 @@
     "linksSection": [
         {
             "type": "hyperlink",
-            "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+            "title": "Integration Details",
+            "href": "http://www.accurev.com/products/integrations/integration-details#apm"
         },
         {
             "type": "hyperlink",
-            "title": "About the VersionOne Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
+            "title": "About the AccuBridge",
+            "href": "http://www.accurev.com/products/integrations/integration-details#it"
         },
         {
             "type": "hyperlink",
-            "title": "About the IBM/Rational Requisite Pro Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
-        },
-        {
-            "type": "documentation",
-            "title": "OpsHub Integration Manager Datasheet",
-            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
-        },
-        {
-            "type": "hyperlink",
-            "title": "Learn more about OpsHub",
-            "href": "http://opshub.com/"
+            "title": "Learn more about AccuRev",
+            "href": "http://www.accurev.com/"
         }
     ],
     "updatesSection": {
         "updates": [
             {
-                "date": "2013-03-20T00:00:00.000Z",
-                "description": "Spring 2013",
-                "version": "5.3",
+                "date": "2009-12-23T00:00:00.000Z",
+                "description": "Winter 2009",
+                "version": "4.7",
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "id": "OpsHub.VersionOne.Accept 360",
+    "id": "OpsHub.VersionOne.Accept360",
     "titleSection": {
         "name": "OpsHub Integration Manager for VersionOne and Accept 360 Integration",
         "shortDescription": "Integrating VersionOne and Accept360 helps you leverage your existing tool chain and reach more people.",
@@ -48,10 +48,10 @@
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

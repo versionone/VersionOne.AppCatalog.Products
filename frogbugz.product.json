@@ -1,7 +1,7 @@
 {
-    "id": "OpsHub.VersionOne.FrogBugz",
+    "id": "OpsHub.VersionOne.FogBugz",
     "titleSection": {
-        "name": "OpsHub Integration Manager for VersionOne and FrogBugz Integration",
+        "name": "OpsHub Integration Manager for VersionOne and FogBugz Integration",
         "shortDescription": "Integrating VersionOne and FogBugz helps you leverage your existing tool chain and reach more people.",
         "pricing": "Paid",
         "support": {
@@ -25,7 +25,7 @@
         },
         {
             "type": "hyperlink",
-            "title": "About the FrogBugz Connector",
+            "title": "About the FogBugz Connector",
             "href": "http://www.opshub.com/main/index.php/alm-systems/fogbugz"
         },
         {
@@ -48,10 +48,10 @@
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

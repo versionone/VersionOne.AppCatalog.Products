@@ -2,7 +2,7 @@
     "id": "OpsHub.VersionOne.IBMRationalRequisitePro",
     "titleSection": {
         "name": "OpsHub Integration Manager for VersionOne and IBM/Rational Requisite Pro Integration",
-        "shortDescription": "Integrating VersionOne and IBM Rational RequisitePro helps you leverage your existing tool chain and reach more people. ",
+        "shortDescription": "leverage existing requirements documentation and traceability, while adding the practice of agile project management",
         "pricing": "Paid",
         "support": {
             "text": "OpsHub",
@@ -48,10 +48,10 @@
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

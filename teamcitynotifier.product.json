@@ -39,36 +39,36 @@
                 "description": "Summer 2011",
                 "version": "83",
                 "releaseNotes": "Added: Support for connecting to VersionOne through a proxy.",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             },
             {
                 "date": "2010-05-12T00:00:00.000Z",
                 "description": "Spring 2010",
                 "version": "67",
-                "releaseNotes": " * Resolved issue with configuration save that prevented values from being saved \n * Resolved issue with "Test Connection" that caused the test to always pass once it passed regardless of configuration changes.",
-                "qualityBand": "mature",
+                "releaseNotes": " * Resolved issue with configuration save that prevented values from being saved \n * Resolved issue with Test Connection that caused the test to always pass once it passed regardless of configuration changes.",
+                "qualityBand": "mature"
             },
             {
                 "date": "2009-04-21T00:00:00.000Z",
                 "description": "Spring 2009",
                 "version": "52",
                 "releaseNotes": "TeamCity Integration Released",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "seed": {
                 "shortDescription": "The initial idea of a product. No working code.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+                "href": "https://github.com/versionone/VersionOne.Integration.TeamCity/blob/master/CONTRIBUTING.md#seed"
             },
             "sapling": {
                 "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Integration.TeamCity/blob/master/CONTRIBUTING.md#sapling"
             },
             "mature": {
                 "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Integration.TeamCity/blob/master/CONTRIBUTING.md#mature"
             }
-        ],
+        }
     }
 }

@@ -1,57 +1,42 @@
 {
-    "id": "OpsHub.VersionOne.TaskTop",
+    "id": "Borland.SilkCentralTestManager.VersionOne",
     "titleSection": {
-        "name": "VersionOne Integration with SilkCentral",
+        "name": "SilkCentral Test Manager Integration with VersionOne",
         "shortDescription": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
-        "pricing": "Paid",
+        "pricing": "Free",
         "support": {
-            "text": "",
-            "href": ""
+            "text": "Borland (Micro Focus)",
+            "href": "http://supportline.microfocus.com/"
         }
     },
     "descriptionSection": {
-        "description": "This integration is provided by Micro Focus as part of their SilkCentral Test Manager product. It allows an organization to leverage its investment with SilkCentral as part of an integrated platform for agile development. With this integration, agile teams can generate tests in SilkCentral Test Manager from tests that are defined in VersionOne. The VersionOne test status is then updated based on status changes in SilkCentral. Please contact Micro Focus directly with questions."
+        "description": "This integration is provided by Micro Focus as part of their SilkCentral Test Manager product. It allows an organization to leverage its investment with SilkCentral as part of an integrated platform for agile development. With this integration, agile teams can generate tests in SilkCentral Test Manager from tests that are defined in VersionOne. The VersionOne test status is then updated based on status changes in SilkCentral."
     },
     "linksSection": [
         {
-            "type": "hyperlink",
-            "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the VersionOne Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the IBM/Rational Requisite Pro Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
-        },
-        {
             "type": "documentation",
-            "title": "OpsHub Integration Manager Datasheet",
-            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
+            "title": "Integrating VersionOne in Silk Central",
+            "href": "http://documentation.microfocus.com/help/index.jsp?topic=%2Fcom.microfocus.sctm.doc%2FSCTM-E7BD1F8A-INTEGRATINGVERSIONONE-TSK.html"
         },
         {
             "type": "hyperlink",
-            "title": "Learn more about OpsHub",
-            "href": "http://opshub.com/"
+            "title": "About Silk Central",
+            "href": "http://www.borland.com/products/SilkCentral"
         }
     ],
     "updatesSection": {
         "updates": [
             {
-                "date": "2013-03-20T00:00:00.000Z",
-                "description": "Spring 2013",
-                "version": "5.3",
+                "date": "2009-07-20T00:00:00.000Z",
+                "description": "Summer 2009",
+                "version": "2009",
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

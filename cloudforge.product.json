@@ -1,8 +1,8 @@
 {
-    "id": "OpsHub.VersionOne.CloudForge",
+    "id": "CollabNet.CloudForge.VersionOne",
     "titleSection": {
-        "name": "VersionOne Integration with CloudForge",
-        "shortDescription": "This integration is provided by CloudForge (formerly Codesion) as part of their Version Control Platform.",
+        "name": "CloudForge Ticket Integration with VersionOne",
+        "shortDescription": "update a VersionOne Workitem directly from your commit with a simple to use syntax",
         "pricing": "Paid",
         "support": {
             "text": "",
@@ -10,48 +10,38 @@
         }
     },
     "descriptionSection": {
-        "description": "This integration is provided by CloudForge (formerly Codesion) as part of their Version Control Platform. Please contact CloudForge directly with questions."
+        "description": "Ticket Integration in CloudForge allows you to update a Ticket (or bug) directly from your commit with a simple to use syntax."
     },
     "linksSection": [
         {
-            "type": "hyperlink",
-            "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the VersionOne Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the IBM/Rational Requisite Pro Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
-        },
-        {
             "type": "documentation",
-            "title": "OpsHub Integration Manager Datasheet",
-            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
+            "title": "About Ticket Integration",
+            "href": "https://help.cloudforge.com/entries/22298336-Commit-Ticket-Integration"
         },
         {
             "type": "hyperlink",
-            "title": "Learn more about OpsHub",
-            "href": "http://opshub.com/"
+            "title": "Integration Announcement",
+            "href": "http://blogs.collab.net/subversion/integrate-codesion-subversion-and-project-management"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about CloudForge by CollabNet",
+            "href": "http://www.cloudforge.com/"
         }
     ],
     "updatesSection": {
         "updates": [
             {
-                "date": "2013-03-20T00:00:00.000Z",
-                "description": "Spring 2013",
-                "version": "5.3",
+                "date": "2009-10-20T00:00:00.000Z",
+                "description": "Fall 2009",
+                "version": "2008",
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

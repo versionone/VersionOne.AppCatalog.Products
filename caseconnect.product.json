@@ -1,12 +1,12 @@
 {
-    "id": "OpsHub.VersionOne.CaseConnect",
+    "id": "VersionOne.Integration.CaseConnect",
     "titleSection": {
         "name": "VersionOne Integration with CaseConnect",
-        "shortDescription": "CaseConnect affords the ability to link VersionOne Defects with salesforce.com Cases.",
-        "pricing": "Paid",
+        "shortDescription": "link VersionOne Defects with salesforce.com Cases",
+        "pricing": "Free",
         "support": {
-            "text": "",
-            "href": ""
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
         }
     },
     "descriptionSection": {
@@ -15,28 +15,13 @@
     "linksSection": [
         {
             "type": "hyperlink",
-            "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the VersionOne Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the IBM/Rational Requisite Pro Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
+            "title": "VersionOne CaseConnect on AppExchange",
+            "href": "https://appexchange.salesforce.com/listingDetail?listingId=a0N30000003IkE1EAK"
         },
         {
             "type": "documentation",
-            "title": "OpsHub Integration Manager Datasheet",
-            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
-        },
-        {
-            "type": "hyperlink",
-            "title": "Learn more about OpsHub",
-            "href": "http://opshub.com/"
+            "title": "Documentation",
+            "href": "https://appexchange.salesforce.com/servlet/servlet.FileDownload?file=00P30000006BLYwEAO"
         }
     ],
     "updatesSection": {
@@ -48,10 +33,19 @@
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
-    }
+        }
+    },
+    "mediaSection": [
+        {
+            "title": "Demonstration",
+            "caption": "link VersionOne Defects with salesforce.com Cases",
+            "mimetype": "video/x-flv",
+            "href": "http://demos.versionone.com/video/CaseConnect/CaseConnect.html",
+            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        }
+    ]
 }

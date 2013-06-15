@@ -39,32 +39,32 @@
                 "description": "Winter 2010",
                 "version": "2.1.1",
                 "releaseNotes": "Fixed: Task and Test order match VersionOne UI",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             },
             {
                 "date": "2010-03-07T00:00:00.000Z",
                 "description": "Spring 2010",
                 "version": "2.1.0",
                 "releaseNotes": " * Added the ability to create new Task, Test, and Defects \n * Support for VersionOne Winter 2010",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             },
             {
                 "date": "2009-11-17T00:00:00.000Z",
                 "description": "Winter 2009",
                 "version": "2.0.0",
                 "releaseNotes": "Added ability to edit Stories, Defects, Task, and Test",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             },
             {
                 "date": "2009-05-27T00:00:00.000Z",
                 "description": "Spring 2009",
                 "version": "1.6.0",
                 "releaseNotes": " * Support for Eclipse Version: 3.4.2 \n * Updated APIClient library from the SDK",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             }
 
         ],
-        "qualityBands": [
+        "qualityBands": {
             "seed": {
                 "shortDescription": "The initial idea of a product. May not be stable code.",
                 "href": "https://github.com/versionone/VersionOne.Integration.Eclipse/blob/master/CONTRIBUTING.md#seed"
@@ -77,16 +77,22 @@
                 "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
                 "href": "https://github.com/versionone/VersionOne.Integration.Eclipse/blob/master/CONTRIBUTING.md#mature"
             }
-        ]
+        }
     },
     "mediaSection": [
         {
-            "title": "Eclipse Plugin",
-            "caption": "View and update VersionOne work items directly from your IDE.",
+            "title": "Eclipse as VersionOne Client",
+            "caption": "View and update VersionOne work items directly from your IDE",
             "mimetype": "video/x-flv",
             "href": "http://vtv.v1host.com/permalink/?title=IDE%3A%20Eclipse&category=Integrations&edition=enterprise&release=undefined",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        },
+        {
+            "title": "Installing the Eclipse Plugin",
+            "caption": "Get up and running quickly",
+            "mimetype": "video/x-flv",
+            "href": "https://vtv.v1host.com/permalink/?title=Configuring%20Eclipse&category=Integrations&edition=enterprise&release=undefined",
+            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
-        ]
-
+    ]
 }

@@ -1,12 +1,12 @@
 {
-    "id": "OpsHub.VersionOne.QTrace",
+    "id": "QASymphony.qTrace.VersionOne",
     "titleSection": {
-        "name": "VersionOne Integration with QTrace",
-        "shortDescription": "Triage defects and include them in the planning process to balance new work and maintenance.",
-        "pricing": "Paid",
+        "name": "QASymphony qTrace Integration with VersionOne",
+        "shortDescription": "create new defects and share detailed steps to reproduce",
+        "pricing": "Free",
         "support": {
-            "text": "",
-            "href": ""
+            "text": "QASymphony",
+            "href": "http://support.qasymphony.com/home"
         }
     },
     "descriptionSection": {
@@ -15,43 +15,28 @@
     "linksSection": [
         {
             "type": "hyperlink",
-            "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+            "title": "About qTrace",
+            "href": "http://www.qasymphony.com/qtrace-overview.html"
         },
         {
             "type": "hyperlink",
-            "title": "About the VersionOne Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the IBM/Rational Requisite Pro Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
-        },
-        {
-            "type": "documentation",
-            "title": "OpsHub Integration Manager Datasheet",
-            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
-        },
-        {
-            "type": "hyperlink",
-            "title": "Learn more about OpsHub",
-            "href": "http://opshub.com/"
+            "title": "Integration Annoucement",
+            "href": "http://www.qasymphony.com/qasymphony-to-partner-with-versionone-to-help-teams-speed-agile-adoption-via-qa-collaboration.html"
         }
     ],
     "updatesSection": {
         "updates": [
             {
-                "date": "2013-03-20T00:00:00.000Z",
-                "description": "Spring 2013",
-                "version": "5.3",
+                "date": "2012-08-13T00:00:00.000Z",
+                "description": "Summer 2012",
+                "version": "2012",
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

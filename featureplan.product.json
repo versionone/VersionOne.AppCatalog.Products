@@ -1,57 +1,42 @@
 {
-    "id": "OpsHub.VersionOne.FeaturePlan",
+    "id": "Ryma.FeaturePlan.VersionOne",
     "titleSection": {
-        "name": "VersionOne Integration with FeaturePlan",
-        "shortDescription": "This integration is available directly from Ryma Technologies who developed and offers the Feature Plan product.",
-        "pricing": "Paid",
+        "name": "FeaturePlan Application Connector for VersionOne",
+        "shortDescription": "ensure product innovation is based on and supports the right market requirements",
+        "pricing": "Free",
         "support": {
-            "text": "",
-            "href": ""
+            "text": "Ryma",
+            "href": "http://rymatech.com/"
         }
     },
     "descriptionSection": {
-        "description": "This integration is available directly from Ryma Technologies who developed and offers the Feature Plan product. Please contact Ryma Technologies directly for questions."
+        "description": "The FeaturePlan-VersionOne Connector facilitates collaboration between product management and software delivery teams to ensure product innovation is based on and supports the right market requirements. The application connector enables product managers to gain visibility and ongoing development status of product requirements, known as user stories in agile, being managed within the VersionOne Agile project management tool. It also provides visibility to the market-driven requirements managed by the product management community within FeaturePlan."
     },
     "linksSection": [
         {
             "type": "hyperlink",
-            "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+            "title": "Integration Announcement",
+            "href": "http://rymatech.com/en/about-us/press-releases-and-news/10-press-releases-2008/64-ryma-technology-solutions-and-versionone-announce-application-connector.html"
         },
         {
             "type": "hyperlink",
-            "title": "About the VersionOne Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the IBM/Rational Requisite Pro Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/reqpro"
-        },
-        {
-            "type": "documentation",
-            "title": "OpsHub Integration Manager Datasheet",
-            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
-        },
-        {
-            "type": "hyperlink",
-            "title": "Learn more about OpsHub",
-            "href": "http://opshub.com/"
+            "title": "Learn more about FeaturePlan",
+            "href": "http://rymatech.com/en/products/featureplan.html"
         }
     ],
     "updatesSection": {
         "updates": [
             {
-                "date": "2013-03-20T00:00:00.000Z",
-                "description": "Spring 2013",
-                "version": "5.3",
+                "date": "2008-09-23T00:00:00.000Z",
+                "description": "Fall 2008",
+                "version": "2008",
                 "qualityBand": "commercial"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
-        ]
+        }
     }
 }

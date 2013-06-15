@@ -40,7 +40,7 @@
                 "qualityBand": "seed"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "seed": {
                 "shortDescription": "The initial idea of a product. May not be stable code."
             },
@@ -50,6 +50,6 @@
             "mature": {
                 "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes."
             }
-        ]
+        }
     }
 }

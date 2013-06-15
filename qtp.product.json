@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne HP Quick Test Professional Integration (V1QuickTestPro) imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne. The results of an individual QTP test can be linked to a Test Artifact in VersionOne, so that development, and you organization, will receive quick feedback on which tests are passing and failing. VersionOne finds most customers who want integration with QuickTest Pro (QTP) also use HP Quality Center (QC). They use the integration between QTP and QC, then integrate QC with VersionOne. Therefore, customers have effective VersionOne and QTP integration via the existing V1QC integration. As such, there is not sufficient value in this integration to continue updating it against new versions of QTP and we have decided to sunset this integration. The last version of QTP that has been tested with the integration is QTP 11.0. Source code will remain available so customers may apply their own development efforts or hire VersionOne services as a custom development engagement."
+        "description": "VersionOne Integration for HP Quick Test Professional imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne. The results of an individual QTP test can be linked to a Test Artifact in VersionOne, so that development, and you organization, will receive quick feedback on which tests are passing and failing. VersionOne finds most customers who want integration with QuickTest Pro (QTP) also use HP Quality Center (QC). They use the integration between QTP and QC, then integrate QC with VersionOne. Therefore, customers have effective VersionOne and QTP integration via the existing V1QC integration. As such, there is not sufficient value in this integration to continue updating it against new versions of QTP and we have decided to sunset this integration. The last version of QTP that has been tested with the integration is QTP 11.0. Source code will remain available so customers may apply their own development efforts or hire VersionOne services as a custom development engagement."
     },
     "linksSection": [
         {
@@ -39,24 +39,24 @@
                 "description": "Fall 2010",
                 "version": "888",
                 "releaseNotes": "Updated package to include missing library",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             },
             {
                 "date": "2010-08-10T00:00:00.000Z",
                 "description": "Summer 2010",
                 "version": "872",
                 "releaseNotes": " * Added GUI Tool for configuration \n * Updated Documentation",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             },
             {
                 "date": "2009-05-27T00:00:00.000Z",
                 "description": "Spring 2009",
                 "version": "468",
                 "releaseNotes": " * Removed dependency on the older APIClient library.  Integration now depends on APIClient library from SDK \n * Added support for QTP 10.0",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "seed": {
                 "shortDescription": "The initial idea of a product. May not be stable code.",
                 "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro/blob/master/CONTRIBUTING.md#seed"
@@ -69,6 +69,6 @@
                 "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
                 "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro/blob/master/CONTRIBUTING.md#mature"
             }
-        ]
+        }
     }
 }

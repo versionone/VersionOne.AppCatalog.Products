@@ -39,17 +39,17 @@
                 "description": "Winter 2010",
                 "version": "53",
                 "releaseNotes": "Fixed: VersionOne username matching should be case insensitive",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             },
             {
                 "date": "2010-08-10T00:00:00.000Z",
                 "description": "Summer 2010",
                 "version": "49",
                 "releaseNotes": "Initial Release",
-                "qualityBand": "mature",
+                "qualityBand": "mature"
             }
         ],
-        "qualityBands": [
+        "qualityBands": {
             "seed": {
                 "shortDescription": "The initial idea of a product. May not be stable code.",
                 "href": "https://github.com/versionone/VersionOne.Integration.LDAPSync/blob/master/CONTRIBUTING.md#seed"
@@ -62,6 +62,6 @@
                 "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
                 "href": "https://github.com/versionone/VersionOne.Integration.LDAPSync/blob/master/CONTRIBUTING.md#mature"
             }
-        ]
+        }
     }
 }
