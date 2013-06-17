@@ -1,8 +1,8 @@
 {
     "id": "VersionOne.Integration.TeamCity",
     "titleSection": {
-        "name": "VersionOne TeamCity Notifier Integration",
-        "shortDescription": "This package contains the TeamCity Notificator binaries and documentation for installation, configuration and usage.",
+        "name": "VersionOne Integration for TeamCity",
+        "shortDescription": "link agile workitems to tangible, working software in the form of builds",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "This package contains the TeamCity Notificator binaries and documentation for installation, configuration and usage."
+        "description": "VersionOne Integration for TeamCity helps developers link agile workitems to tangible, working software in the form of builds. This enables teams to measure progress in terms of working software and to identify problems sooner. This publisher creates a record of Hudson builds in VersionOne, so the development teams can quickly view builds associated with a story or defect. This visibility is useful when identifying what build to use for verification or when generating release notes."
     },
     "linksSection": [
         {
