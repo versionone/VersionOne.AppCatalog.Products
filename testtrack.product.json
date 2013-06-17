@@ -2,7 +2,7 @@
     "id": "OpsHub.VersionOne.TestTrack",
     "titleSection": {
         "name": "OpsHub Integration Manager for VersionOne and TestTrack Integration",
-        "shortDescription": "Integrating VersionOne and Seapine TestTrack helps you leverage your existing tool chain and reach more people.",
+        "shortDescription": "leverage existing test plans and test reporting, while adding the practice of agile project management",
         "pricing": "Paid",
         "support": {
             "text": "OpsHub",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "Integrating VersionOne and Seapine TestTrack helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of tests so that teams can leverage existing test plans and test reporting, while adding the practice of agile project management. This integration is provided by OpsHub. Please contact info@versionone.com for more information."
+        "description": "Integrating VersionOne and Seapine TestTrack helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of tests so that teams can leverage existing test plans and test reporting, while adding the practice of agile project management."
     },
     "linksSection": [
         {
