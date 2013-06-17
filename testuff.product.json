@@ -24,6 +24,7 @@
             {
                 "date": "2013-06-08T00:00:00.000Z",
                 "description": "Summer 2013",
+                "version": "1.0",
                 "releaseNotes": "Integration announcement.",
                 "qualityBand": "commercial"
             }
