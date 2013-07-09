@@ -1,8 +1,8 @@
 {
     "id": "OpsHub.VersionOne.ChiliProject",
     "titleSection": {
-        "name": "OpsHub Integration Manager for VersionOne and Chili Project Integration",
-        "shortDescription": "Integrating VersionOne and ChiliProject helps you leverage your existing tool chain and reach more people.",
+        "name": "OpsHub Integration Manager for VersionOne and ChiliProject Integration",
+        "shortDescription": "leverage existing project plans and status reporting, while adding the practice of agile project management",
         "pricing": "Paid",
         "support": {
             "text": "OpsHub",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "Integrating VersionOne and ChiliProject helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of work items so that teams can leverage existing project plans and status reporting, while adding the practice of agile project management. This integration is provided by OpsHub. Please contact info@versionone.com for more information."
+        "description": "Integrating VersionOne and ChiliProject helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of work items so that teams can leverage existing project plans and status reporting, while adding the practice of agile project management."
     },
     "linksSection": [
         {
