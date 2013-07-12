@@ -21,7 +21,7 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://community.versionone.com/sdk/DetailedDocumentation/ClearQuest/index.html"
+            "href": "http://legacy.community.versionone.com/sdk/DetailedDocumentation/ClearQuest/index.html"
         }
     ],
     "updatesSection": {
@@ -98,7 +98,7 @@
             "caption": "Triage defects and include them in the planning process to balance new work and maintenance.",
             "mimetype": "video/x-flv",
             "href": "http://www.versionone.tv.s3.amazonaws.com/ClearQuest/ClearQuest.flv",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
     ]
 }

@@ -21,7 +21,7 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://community.versionone.com/sdk/DetailedDocumentation/Fitnesse/index.html"
+            "href": "http://legacy.community.versionone.com/sdk/DetailedDocumentation/Fitnesse/index.html"
         }
     ],
     "updatesSection": {
@@ -77,7 +77,7 @@
             "caption": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
             "mimetype": "video/x-flv",
             "href": "http://www.versionone.tv.s3.amazonaws.com/FitNesse/FitNesse.flv",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
     ]
 }

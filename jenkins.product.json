@@ -21,7 +21,7 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://community.versionone.com/sdk/DetailedDocumentation/Hudson/index.html"
+            "href": "http://legacy.community.versionone.com/sdk/DetailedDocumentation/Hudson/index.html"
         }
     ],
     "updatesSection": {
@@ -76,7 +76,7 @@
             "caption": "Integrate your build system to make it clear which workitems are contained in which builds.",
             "mimetype": "video/x-flv",
             "href": "http://www.versionone.tv.s3.amazonaws.com/BuildIntegration/BuildIntegration.flv",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
     ]
 }
