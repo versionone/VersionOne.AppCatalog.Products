@@ -1,8 +1,8 @@
 {
-    "id": "VersionOne.Integration.LDAPSync",
+    "id": "VersionOne.Provisioning.LDAPSync",
     "titleSection": {
-        "name": "VersionOne Integration for LDAP",
-        "shortDescription": "synchronize VersionOne Members with LDAP users.",
+        "name": "VersionOne Provisioning for LDAP",
+        "shortDescription": "Provision VersionOne Members from LDAP",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
