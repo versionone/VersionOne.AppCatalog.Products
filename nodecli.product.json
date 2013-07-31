@@ -3,7 +3,11 @@
     "titleSection": {
         "name": "VersionOne CLI (in Node.js)",
         "shortDescription": "Command Line Interface for VersionOne written in Node.js.",
-        "pricing": "Free"
+        "pricing": "Free",
+        "support": {
+            "text": "Open Source",
+            "href": "https://github.com/29decibel/versionone-cli"
+        }
     },
     "descriptionSection": {
         "description": "Command Line Interface for VersionOne written in Node.js."

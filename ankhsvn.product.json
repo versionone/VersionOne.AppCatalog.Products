@@ -3,7 +3,11 @@
     "titleSection": {
         "name": "AnkhSVN VersionOne Connector",
         "shortDescription": "Issue tracking integration in Visual Studio between AnkhSVN and VersionOne",
-        "pricing": "Free"
+        "pricing": "Free",
+        "support": {
+            "text": "Open Source",
+            "href": "https://github.com/simoneb/AnkhVersionOneConnector"
+        }        
     },
     "descriptionSection": {
         "description": "AnkhSVN VersionOne Connector provides issue tracking integration in Visual Studio between AnkhSVN and VersionOne."
