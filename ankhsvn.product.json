@@ -7,7 +7,7 @@
         "support": {
             "text": "Open Source",
             "href": "https://github.com/simoneb/AnkhVersionOneConnector"
-        }        
+        }
     },
     "descriptionSection": {
         "description": "AnkhSVN VersionOne Connector provides issue tracking integration in Visual Studio between AnkhSVN and VersionOne."
