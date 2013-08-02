@@ -1,8 +1,8 @@
 {
-    "id": "OpsHub.VersionOne.Trac",
+    "id": "OpsHub.VersionOne.TestTrack",
     "titleSection": {
-        "name": "OpsHub Integration Manager for VersionOne and Trac Integration",
-        "shortDescription": "leverage existing automated workflows and defect reporting while adding the practice of agile project management",
+        "name": "OpsHub Integration Manager for VersionOne and TestTrack Integration",
+        "shortDescription": "leverage existing test plans and test reporting, while adding the practice of agile project management",
         "pricing": "Paid",
         "support": {
             "text": "OpsHub",
@@ -10,13 +10,13 @@
         }
     },
     "descriptionSection": {
-        "description": "Integrating VersionOne and Trac helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of defects, enabling teams to leverage existing automated workflows and defect reporting while adding the practice of agile project management."
+        "description": "Integrating VersionOne and Seapine TestTrack helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of tests so that teams can leverage existing test plans and test reporting, while adding the practice of agile project management."
     },
     "linksSection": [
         {
             "type": "hyperlink",
             "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+            "href": "http://www.opshub.com/main/index.php/products/oim"
         },
         {
             "type": "hyperlink",
@@ -25,8 +25,8 @@
         },
         {
             "type": "hyperlink",
-            "title": "About the Trac Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/trac"
+            "title": "About the Test Track Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/testtrack"
         },
         {
             "type": "documentation",

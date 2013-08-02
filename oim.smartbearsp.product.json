@@ -1,8 +1,8 @@
 {
-    "id": "OpsHub.VersionOne.SBM",
+    "id": "OpsHub.VersionOne.SmartBearSoftwarePlanner",
     "titleSection": {
-        "name": "OpsHub Integration Manager for VersionOne and Serena Business Mashups Integration",
-        "shortDescription": "Integrating VersionOne and Serena Business Mashups helps you leverage your existing tool chain and reach more people.",
+        "name": "OpsHub Integration Manager for VersionOne and SmartBear Software Planner Integration",
+        "shortDescription": "Integrating VersionOne and SmartBear Software Planner helps you leverage your existing tool chain and reach more people.",
         "pricing": "Paid",
         "support": {
             "text": "OpsHub",
@@ -10,13 +10,13 @@
         }
     },
     "descriptionSection": {
-        "description": "Integrating VersionOne and Serena Business Mashups helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of work items so that teams can leverage existing project plans and status reporting, while adding the practice of agile project management. This integration is provided by OpsHub. Please contact info@versionone.com for more information."
+        "description": "Integrating VersionOne and SmartBear Software Planner helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of work items so that teams can leverage existing project plans and status reporting, while adding the practice of agile project management. This integration is provided by OpsHub. Please contact info@versionone.com for more information."
     },
     "linksSection": [
         {
             "type": "hyperlink",
             "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+            "href": "http://www.opshub.com/main/index.php/products/oim"
         },
         {
             "type": "hyperlink",
@@ -25,8 +25,8 @@
         },
         {
             "type": "hyperlink",
-            "title": "About the Serena Business Mashups Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/sbm"
+            "title": "About the SmartBear Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/smartbear"
         },
         {
             "type": "documentation",

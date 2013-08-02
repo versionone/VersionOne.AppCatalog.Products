@@ -1,7 +1,7 @@
 {
-    "id": "OpsHub.VersionOne.RationalTeamConcert",
+    "id": "OpsHub.VersionOne.Redmine",
     "titleSection": {
-        "name": "OpsHub Integration Manager for VersionOne and IBM/Rational Team Concert Integration",
+        "name": "OpsHub Integration Manager for VersionOne and Redmine Integration",
         "shortDescription": "leverage existing project plans and status reporting, while adding the practice of agile project management",
         "pricing": "Paid",
         "support": {
@@ -10,13 +10,13 @@
         }
     },
     "descriptionSection": {
-        "description": "Integrating VersionOne and IBM Rational Team Concert helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of work items so that teams can leverage existing project plans and status reporting, while adding the practice of agile project management."
+        "description": "Integrating VersionOne and Redmine helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of work items so that teams can leverage existing project plans and status reporting, while adding the practice of agile project management."
     },
     "linksSection": [
         {
             "type": "hyperlink",
             "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+            "href": "http://www.opshub.com/main/index.php/products/oim"
         },
         {
             "type": "hyperlink",
@@ -25,8 +25,8 @@
         },
         {
             "type": "hyperlink",
-            "title": "About the IBM RTC Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/rtc"
+            "title": "About the Red Mine Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/redmine"
         },
         {
             "type": "documentation",

@@ -1,8 +1,8 @@
 {
-    "id": "OpsHub.VersionOne.IBMRationalDOORS",
+    "id": "OpsHub.VersionOne.RationalTeamConcert",
     "titleSection": {
-        "name": "OpsHub Integration Manager for VersionOne and IBM/Rational DOORS Integration",
-        "shortDescription": "Integrating VersionOne and IBM Rational DOORS helps you leverage your existing tool chain and reach more people.",
+        "name": "OpsHub Integration Manager for VersionOne and IBM/Rational Team Concert Integration",
+        "shortDescription": "leverage existing project plans and status reporting, while adding the practice of agile project management",
         "pricing": "Paid",
         "support": {
             "text": "OpsHub",
@@ -10,13 +10,13 @@
         }
     },
     "descriptionSection": {
-        "description": "Integrating VersionOne and IBM Rational DOORS helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of requirements so that teams can leverage existing requirements documentation and traceability, while adding the practice of agile project management. This integration is provided by OpsHub. Please contact info@versionone.com for more information."
+        "description": "Integrating VersionOne and IBM Rational Team Concert helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of work items so that teams can leverage existing project plans and status reporting, while adding the practice of agile project management."
     },
     "linksSection": [
         {
             "type": "hyperlink",
             "title": "About OpsHub Integration Manager",
-            "href": "http://www.opshub.com/main/index.php/2013-03-18-09-27-49/oim-alias"
+            "href": "http://www.opshub.com/main/index.php/products/oim"
         },
         {
             "type": "hyperlink",
@@ -25,8 +25,8 @@
         },
         {
             "type": "hyperlink",
-            "title": "About the IBM/Rational DOORS Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/doors"
+            "title": "About the IBM RTC Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/ibm/rtc"
         },
         {
             "type": "documentation",
