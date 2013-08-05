@@ -1,0 +1,37 @@
+{
+    "id": "Tandemseven.UX360.VersionOne",
+    "titleSection": {
+        "name": "Tandemseven UX360 Integration for VersionOne",
+        "shortDescription": "Build agile project plans from user experience research",
+        "pricing": "Free",
+        "support": {
+            "text": "Tandemseven",
+            "href": "http://www.tandemseven.com/"
+        }
+    },
+    "descriptionSection": {
+        "description": "The Tandemseven UX360 Integration for VersionOne helps UX professionals work with agile teams."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "Learn more about Tandemseven UX360",
+            "href": "http://www.tandemseven.com/enterprise-ux-tools/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-08-05T14:00:00.000Z",
+                "description": "Summer 2013",
+                "version": "1.0",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
