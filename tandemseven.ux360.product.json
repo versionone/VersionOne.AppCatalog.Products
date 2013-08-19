@@ -32,7 +32,7 @@
         "qualityBands": {
             "announced": {
                 "shortDescription": "The product is not currently available but will be commercially supported."
-            }
+            },
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
