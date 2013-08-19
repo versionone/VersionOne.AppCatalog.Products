@@ -2,7 +2,7 @@
     "id": "Tandemseven.UX360.VersionOne",
     "titleSection": {
         "name": "Tandemseven UX360 Integration for VersionOne",
-        "shortDescription": "Build agile project plans from user experience research",
+        "shortDescription": "Harmonize user experience research with agile project plans.",
         "pricing": "Free",
         "support": {
             "text": "Tandemseven",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The Tandemseven UX360 Integration for VersionOne helps UX professionals work with agile teams."
+        "description": "## Solving the Hard Problems in Agile Software Development\nThe integration of TandemSeven’s UX360 with VersionOne's industry-leading Agile Management tool enables VersionOne customers to use UX360 to solve one of the hardest problems in agile software development: maximizing the value of UX design to improve story quality and accelerate velocity.\n## The Problem\nMost companies now conduct extensive customer and user research, but have challenges translating this data into measurable application value. Traditional research and design methods do not produce the organized, prioritized, and packaged deliverables agile development teams need to become more productive. Therefore, UX value and talent are often sub-optimized, operating only within tactical sprint teams. While this definitely improves product usability, larger concerns about branded experience and orchestrating flows across epics, across channels, and within product themes cannot be communicated effectively with a purely tactical approach.\n## The Solution\nTandemSeven's Enterprise UX platform UX360 overcomes these issues by organizing research and design activities in one agile-friendly framework, and taking advantage of VersionOne's native APIs to integrate design deliverables seamlessly into Iteration Zero and downstream sprint team activities."
     },
     "linksSection": [
         {
@@ -23,12 +23,16 @@
         "updates": [
             {
                 "date": "2013-08-05T14:00:00.000Z",
-                "description": "Summer 2013",
-                "version": "1.0",
-                "qualityBand": "commercial"
+                "description": "Announcement",
+                "version": "0",
+                "qualityBand": "announced",
+                "releaseNotes": "Comming soon."
             }
         ],
         "qualityBands": {
+            "announced": {
+                "shortDescription": "The product is not currently available but will be commercially supported."
+            }
             "commercial": {
                 "shortDescription": "The product is stable and supported."
             }
