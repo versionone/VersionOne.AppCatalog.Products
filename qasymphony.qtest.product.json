@@ -1,0 +1,42 @@
+{
+    "id": "QASymphony.qTest.VersionOne",
+    "titleSection": {
+        "name": "QASymphony qTest Integration with VersionOne",
+        "shortDescription": "Create new defects and trace defects back to executed test runs",
+        "pricing": "Free",
+        "support": {
+            "text": "QASymphony",
+            "href": "http://support.qasymphony.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "The qTest integration with VersionOne provides a complete test management solution. Users can cover requirements, execute test cases, and determine testing outcomes by submitting defects to VersionOne. In short, users can perform test execution in qTest and manage test results in VersionOne simultaneously.\n\n ## Defects Integration\n\n * Submit defects to VersionOne using a fully customizable submission form directly within qTest without the need to login to VersionOne\n * Supports auto-filling to quickly transfer crucial testing data into VersionOne defects, thus improve tracking quality of the testing progress\n * The integrated defects will be attached to the executed test runs to provide a complete testing traceability to help improve your testing experience"
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About qTest",
+            "href": "http://www.qasymphony.com/qtest.html"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Integration Description",
+            "href": "http://www.qasymphony.com/qtest-versionone.html"
+        }        
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-02-28T00:00:00.000Z",
+                "description": "Winter 2013",
+                "version": "2013",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
