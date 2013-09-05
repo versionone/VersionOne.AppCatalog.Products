@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The qTest integration with VersionOne provides a complete test management solution. Users can cover requirements, execute test cases, and determine testing outcomes by submitting defects to VersionOne. In short, users can perform test execution in qTest and manage test results in VersionOne simultaneously.\n\n ## Defects Integration\n\n * Submit defects to VersionOne using a fully customizable submission form directly within qTest without the need to login to VersionOne\n * Supports auto-filling to quickly transfer crucial testing data into VersionOne defects, thus improve tracking quality of the testing progress\n * The integrated defects will be attached to the executed test runs to provide a complete testing traceability to help improve your testing experience"
+        "description": "The qTest integration with VersionOne provides a complete test management solution. Users can cover requirements, execute test cases, and determine testing outcomes by submitting defects to VersionOne. In short, users can perform test execution in qTest and manage test results in VersionOne simultaneously.\n\n## Defects Integration\n\n * Submit defects to VersionOne using a fully customizable submission form directly within qTest without the need to login to VersionOne\n * Supports auto-filling to quickly transfer crucial testing data into VersionOne defects, thus improve tracking quality of the testing progress\n * The integrated defects will be attached to the executed test runs to provide a complete testing traceability to help improve your testing experience"
     },
     "linksSection": [
         {
