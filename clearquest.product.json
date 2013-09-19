@@ -93,12 +93,5 @@
         }
     },
     "mediaSection": [
-        {
-            "title": "Clear Quest",
-            "caption": "Triage defects and include them in the planning process to balance new work and maintenance.",
-            "mimetype": "video/x-flv",
-            "href": "http://www.versionone.tv.s3.amazonaws.com/ClearQuest/ClearQuest.flv",
-            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
     ]
 }

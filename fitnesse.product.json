@@ -72,12 +72,5 @@
         }
     },
     "mediaSection": [
-        {
-            "title": "FitNesse",
-            "caption": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
-            "mimetype": "video/x-flv",
-            "href": "http://www.versionone.tv.s3.amazonaws.com/FitNesse/FitNesse.flv",
-            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
     ]
 }
