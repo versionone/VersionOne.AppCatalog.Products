@@ -15,18 +15,28 @@
     "linksSection": [
         {
             "type": "hyperlink",
-            "title": "Learn more about Tandemseven UX360",
+            "title": "Learn more about Tandemseven",
+            "href": "http://www.tandemseven.com/"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about UX360",
             "href": "http://www.tandemseven.com/enterprise-ux-tools/"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Webinar on Adding UX Value to Agile Development, Featuring Forrester Research",
+            "href": "http://www.tandemseven.com/featuring-forrester-research-2/"
         }
     ],
     "updatesSection": {
         "updates": [
             {
-                "date": "2013-08-05T14:00:00.000Z",
-                "description": "Announcement",
-                "version": "0",
-                "qualityBand": "announced",
-                "releaseNotes": "Comming soon."
+                "date": "2013-11-19T14:00:00.000Z",
+                "description": "Released",
+                "version": "1",
+                "qualityBand": "commercial",
+                "releaseNotes": "Initial availability of the integration."
             }
         ],
         "qualityBands": {
