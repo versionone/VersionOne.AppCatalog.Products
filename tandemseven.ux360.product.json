@@ -1,11 +1,11 @@
 {
-    "id": "Tandemseven.UX360.VersionOne",
+    "id": "TandemSeven.UX360.VersionOne",
     "titleSection": {
-        "name": "Tandemseven UX360 Integration for VersionOne",
+        "name": "TandemSeven UX360 Integration for VersionOne",
         "shortDescription": "Harmonize user experience research with agile project plans.",
         "pricing": "Free",
         "support": {
-            "text": "Tandemseven",
+            "text": "TandemSeven",
             "href": "http://www.tandemseven.com/"
         }
     },
@@ -15,7 +15,7 @@
     "linksSection": [
         {
             "type": "hyperlink",
-            "title": "Learn more about Tandemseven",
+            "title": "Learn more about TandemSeven",
             "href": "http://www.tandemseven.com/"
         },
         {
