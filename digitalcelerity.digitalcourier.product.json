@@ -1,0 +1,46 @@
+{
+    "id": "DigitalCelerity.DigitalCourier.VersionOne",
+    "titleSection": {
+        "name": "Digital Celerity Agile PPM Adapter for CA Clarity PPM and VersionOne",
+        "shortDescription": "Harmonize user experience research with agile project plans.",
+        "pricing": "Free",
+        "support": {
+            "text": "Digital Celerity",
+            "href": "http://digitalcelerity.com/"
+        }
+    },
+    "descriptionSection": {
+        "description": "## Introducing The Digital Enterprise Courier\n\n### Business Challenges\n\nWhile the benefits of agile thinking, planning, and development are strickingly clear, the real challenge is scaling agile development to support critical enterprise-wide activities such as Resource Capacity Planning and Financial Capitalization. The Project Management Office must capture accurate time from their agile development teams to enable these governance activities, but this often leads to duplicate time entry and tension between Development and the PMO... and this can result in poor data analysis due to weak adoption of tracking systems. The PMO and Agile Development teams must collaborate effectively to achieve their synergistic goals.\n\n### The Solution\n\nDigital Celerity's Agile PPM Adapter for CA Clarity PPM and VersionOne Agile Software captures team capacity, and Story progress information in VersionOne and automatically sends this information to Clarity as Time Entry, which enables Resource Capacity Planning and Financial Capitization. The solution utilizes the data captured from the natural Agile Development process of running an Agile project and transforms the data into meaningful information to address common PMO concerns including:\n\n* How much does a Project Cost?\n* Are Strategic Objectives getting the attention they deserve?\n* How to Capitalize Developed Software?\n* How to manage the Time Tracking, and Financial Capitalization processes?\n* How to implement an extensible Agile PPM integration solution that works with existing CA Clarity and VersionOne data that is easily installed, with minimum infrastructure requirements and is simple to administer?"
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "Learn more about Digital Courier",
+            "href": "http://digitalcelerity.com/Pages.aspx/Agile-PPM-Adapter-"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about Digital Celerity",
+            "href": "http://digitalcelerity.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-12-18T14:00:00.000Z",
+                "description": "Announced",
+                "version": "1",
+                "qualityBand": "announced",
+                "releaseNotes": "Early access availability of the integration."
+            }
+        ],
+        "qualityBands": {
+            "announced": {
+                "shortDescription": "The product is not currently available but will be commercially supported."
+            },
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
