@@ -42,5 +42,13 @@
                 "shortDescription": "The product is stable and supported."
             }
         }
-    }
+    },
+    "mediaSection": [
+        {
+            "title": "Integration Flow",
+            "caption": "Determining Actual Hours from VersionOne Story Points and Capacity Allocation",
+            "mimetype": "image/jpeg",
+            "href": "http://digitalcelerity.com/Resources/Image/CA%20Clarity%20PPM%20VersionOne%20Integration%20Adapter.jpg"
+        }
+    ]
 }
