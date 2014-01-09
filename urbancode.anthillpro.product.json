@@ -5,8 +5,8 @@
         "shortDescription": "Link agile workitems to tangible, working software in the form of builds from AnthillPro.",
         "pricing": "Free",
         "support": {
-            "text": "UrbanCode",
-            "href": "http://www.urbancode.com/html/support/"
+            "text": "UrbanCode (now a part of IBM Rational)",
+            "href": "http://www-01.ibm.com/software/rational/support/urbancode/"
         }
     },
     "descriptionSection": {
