@@ -1,0 +1,50 @@
+{
+    "id": "timothyprately.vone",
+    "titleSection": {
+        "name": "VersionOne Report Gathering",
+        "shortDescription": "Custom reporting for VersionOne in Clojure.",
+        "pricing": "Free",
+        "support": {
+            "text": "Open Source",
+            "href": "https://github.com/timothypratley/vone"
+        }
+    },
+    "descriptionSection": {
+        "description": "The principle is to expose an API of webservices that consume VersionOne webservices, process the data, and spit out data. All the services can spit out json, csv, or google charts datasource format, depending on the url you access them with. So the frontend is doing requests to the vone API – usually by a chart datasource."
+    },
+    "linksSection": [
+        {
+            "type": "source",
+            "title": "GitHub Repository",
+            "href": "https://github.com/timothypratley/vone"
+        },
+        {
+            "type": "documentation",
+            "title": "Blog: Custom reporting of VersionOne data in Clojure",
+            "href": "http://timothypratley.blogspot.com/2014/02/custom-reporting-of-versionone-data-in.html"
+        }
+
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2014-02-24T12:00:00.000Z",
+                "description": "Blog Entry",
+                "version": "d81d44a76f",
+                "releaseNotes": "Initial Blog Post",
+                "qualityBand": "seed"
+            }
+        ],
+        "qualityBands": {
+            "seed": {
+                "shortDescription": "Early access build. Use with caution."
+            },
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes."
+            },
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes."
+            }
+        }
+    }
+}
