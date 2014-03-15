@@ -1,0 +1,53 @@
+{
+    "id": "VersionOne.CodeStream",
+    "titleSection": {
+        "name": "VersionOne CodeStream",
+        "shortDescription": "The channel to agile code traceability",
+        "pricing": "Freemium",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "## VersionOne CodeStream solution for version control systems\n\n* A new way to connect to your preferred version control tools\n* Flexibility to support multiple version control tools without point-to-point integrations\n* Simply activate it and VersionOne takes care of the rest\n* Simultaneous code check in support"
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "Start using CodeStream",
+            "href": "http://www.v1host.com/codestream/"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about pricing",
+            "href": "http://www.versionone.com/"
+        },
+        {
+            "type": "documentation",
+            "title": "Read documentation",
+            "href": "http://community.versionone.com/"
+        },
+        {
+            "type": "source",
+            "title": "Codevelop CodeStream or CodeStream Plugins",
+            "href": "https://github.com/versionone/VersionOne.CommitService"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2014-03-15T14:00:00.000Z",
+                "description": "Initial Early Access Release",
+                "version": "1",
+                "qualityBand": "earlyaccess",
+                "releaseNotes": "Initial availability of CodeStream."
+            }
+        ],
+        "qualityBands": {
+            "earlyaccess": {
+                "shortDescription": "Early access build. Use with caution."
+            }
+        }
+    }
+}
