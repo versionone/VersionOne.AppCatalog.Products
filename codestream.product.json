@@ -16,7 +16,12 @@
         {
             "type": "hyperlink",
             "title": "Start using CodeStream",
-            "href": "http://codestream.v1host.com/"
+            "href": "https://codestream.v1host.com/"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Find an existing digest on CodeStream",
+            "href": "https://codestream.v1host.com/digest"
         },
         {
             "type": "hyperlink",
