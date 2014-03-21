@@ -10,13 +10,13 @@
         }
     },
     "descriptionSection": {
-        "description": "## VersionOne CodeStream solution for version control systems\n\n* A new way to connect to your preferred version control tools\n* Flexibility to support multiple version control tools without point-to-point integrations\n* Simply activate it and VersionOne takes care of the rest\n* Simultaneous code check in support"
+        "description": "## VersionOne CodeStream solution for version control systems\n\n* A new way to connect to your preferred version control tools\n* Flexibility to support multiple version control tools without installing on-premise, point-to-point integrations \n* Simply activate the hosted service and VersionOne takes care of the rest\n* Aggregate summaries from multiple repositories in a single digest"
     },
     "linksSection": [
         {
             "type": "hyperlink",
             "title": "Start using CodeStream",
-            "href": "http://www.v1host.com/codestream/"
+            "href": "http://codestream.v1host.com/"
         },
         {
             "type": "hyperlink",
@@ -30,8 +30,8 @@
         },
         {
             "type": "source",
-            "title": "Codevelop CodeStream or CodeStream Plugins",
-            "href": "https://github.com/versionone/VersionOne.CommitService"
+            "title": "Contribute to CodeStream",
+            "href": "https://github.com/versionone/VersionOne.CommitService/blob/master/CONTRIBUTING.md"
         }
     ],
     "updatesSection": {
