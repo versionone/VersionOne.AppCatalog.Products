@@ -16,12 +16,12 @@
         {
             "type": "hyperlink",
             "title": "Start using CodeStream",
-            "href": "https://codestream.v1host.com/"
+            "href": "http://appcatalogstage.azurewebsites.net/app/index.html#/Details/VersionOne.CodeStream"
         },
         {
             "type": "hyperlink",
             "title": "Find an existing digest on CodeStream",
-            "href": "https://codestream.v1host.com/digest"
+            "href": "http://appcatalogstage.azurewebsites.net/app/index.html#/Details/VersionOne.CodeStream"
         },
         {
             "type": "hyperlink",
