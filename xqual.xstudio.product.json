@@ -1,0 +1,52 @@
+{
+    "id": "XQual.XStudio.VersionOne",
+    "titleSection": {
+        "name": "XQual Integration of VersionOne in XStudio",
+        "shortDescription": "manage test plans, test campaigns, test execution, test reporting, and bug-tracking, while adding the practice of agile project management",
+        "pricing": "Paid",
+        "support": {
+            "text": "XQual",
+            "href": "http://www.xqual.com"
+        }
+    },
+    "descriptionSection": {
+        "description": "Integrating VersionOne and XStudio helps you leverage your existing tool chain by integrating a complete Test Management solution in your agile processes. VersionOne's Stories and Defects (or any other issue type) can be integrated both in XStudio's Requirements and Bug-tracking management modules. You can link your XStudio's System Under Tests with VersionOne's Stories, VersionOne's Stories with either XStudio's Specifications or Tests, and XStudio's failed tests with VersionOne's Defects. All in one, this makes a completely integrated traceability matrix that will allow you to track the impact of any item on the others. VersionOne's items are dynamically/real-time retrieved, filtered following your own configuration's rules and displayed in XStudio's interface. No data is duplicated only the links are stored in XStudio's database."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne integration at bug-tracking level",
+            "href": "http://www.xqual.com/documentation/install/install.html#Connector_bugtracking_versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne integration at requirement level",
+            "href": "http://www.xqual.com/documentation/install/install.html#Connector_requirement_versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about XStudio",
+            "href": "http://www.xqual.com/products/xstudio.html"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About XQual",
+            "href": "http://www.xqual.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2014-04-25T00:00:00.000Z",
+                "description": "Spring 2014",
+                "version": "1.0",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
