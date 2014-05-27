@@ -1,0 +1,57 @@
+{
+    "id": "Tasktop.VersionOne.ServiceNow",
+    "titleSection": {
+        "name": "Tasktop Sync for VersionOne and ServiceNow Integration",
+        "shortDescription": "Synchronize help desk cases to agile workitems.",
+        "pricing": "Paid",
+        "support": {
+            "text": "Tasktop",
+            "href": "http://www.tasktop.com/"
+        }
+    },
+    "descriptionSection": {
+        "description": "Integrating VersionOne and ServiceNow helps you leverage your existing tool chain and reach more people. Link support cases to agile workitems. This link enables development teams to understand real customer needs and for support desk to track engineering work through to delivery."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About Tasktop Sync",
+            "href": "http://www.tasktop.com/sync"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.tasktop.com/connectors/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the ServiceNow Connector",
+            "href": "http://www.tasktop.com/connectors/servicenow/sync"
+        },
+        {
+            "type": "documentation",
+            "title": "Tasktop Sync Datasheet",
+            "href": "http://tasktop.com/sites/default/files/documents/TasktopSync-DataSheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about Tasktop",
+            "href": "http://www.tasktop.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2015-04-02T00:00:00.000Z",
+                "description": "Tasktop Sync 3.5",
+                "version": "3.5",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
