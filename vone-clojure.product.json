@@ -22,6 +22,11 @@
             "type": "documentation",
             "title": "Blog: Custom reporting of VersionOne data in Clojure",
             "href": "http://timothypratley.blogspot.com/2014/02/custom-reporting-of-versionone-data-in.html"
+        },
+        {
+            "type": "documentation",
+            "title": "Blog: Custom reporting of VersionOne data in Clojure: The implementation",
+            "href": "http://timothypratley.blogspot.com/2014/02/custom-reporting-of-versionone-data-in_27.html"
         }
 
     ],
