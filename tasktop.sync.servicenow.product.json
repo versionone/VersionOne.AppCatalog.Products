@@ -2,7 +2,7 @@
     "id": "Tasktop.VersionOne.ServiceNow",
     "titleSection": {
         "name": "Tasktop Sync for VersionOne and ServiceNow Integration",
-        "shortDescription": "Synchronize help desk cases to agile workitems.",
+        "shortDescription": "Synchronize customer support cases to agile workitems.",
         "pricing": "Paid",
         "support": {
             "text": "Tasktop",
