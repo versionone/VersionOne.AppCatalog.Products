@@ -1,0 +1,57 @@
+{
+    "id": "Tasktop.VersionOne.Borland.StarTeam",
+    "titleSection": {
+        "name": "Tasktop Sync for VersionOne and Borland StarTeam Integration",
+        "shortDescription": "Connect project management, development, and QA to ensure participants have access to the data they need within their primary tool.",
+        "pricing": "Paid",
+        "support": {
+            "text": "Tasktop",
+            "href": "http://www.tasktop.com/"
+        }
+    },
+    "descriptionSection": {
+        "description": "Integration between VersionOne and StarTeam connects project management, development, and QA in heterogeneous IT environments by providing instant data synchronization between the systems. With Sync, organizations can ensure each stakeholder has access to the data that they need within their primary tool while providing visibility and comprehensive reporting across systems."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About Tasktop Sync",
+            "href": "http://www.tasktop.com/sync"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.tasktop.com/connectors/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the Borland StarTeam Connector",
+            "href": "http://tasktop.com/connectors/borland-starteam"
+        },
+        {
+            "type": "documentation",
+            "title": "Tasktop Sync Datasheet",
+            "href": "http://tasktop.com/sites/default/files/documents/TasktopSync-DataSheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about Tasktop",
+            "href": "http://www.tasktop.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
