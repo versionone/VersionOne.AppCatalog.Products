@@ -1,0 +1,57 @@
+{
+    "id": "OpsHub.VersionOne.Visure",
+    "titleSection": {
+        "name": "OpsHub Integration Manager for VersionOne and Visure Integration",
+        "shortDescription": "leverage existing requirements documentation and traceability, while adding the practice of agile project management",
+        "pricing": "Paid",
+        "support": {
+            "text": "OpsHub",
+            "href": "http://www.opshub.com/main/"
+        }
+    },
+    "descriptionSection": {
+        "description": "Integrating VersionOne and Visure helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of requirements so that teams can leverage existing requirements documentation and traceability, while adding the practice of agile project management."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About OpsHub Integration Manager",
+            "href": "http://www.opshub.com/main/index.php/products/oim"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the Visure Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/visure"
+        },
+        {
+            "type": "documentation",
+            "title": "OpsHub Integration Manager Datasheet",
+            "href": "http://opshub.com/Resources/Datasheets/OpsHubOverviewDatasheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about OpsHub",
+            "href": "http://opshub.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
