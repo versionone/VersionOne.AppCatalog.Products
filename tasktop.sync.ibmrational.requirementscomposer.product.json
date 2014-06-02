@@ -1,0 +1,57 @@
+{
+    "id": "Tasktop.VersionOne.IBMRational.RequirementsComposer",
+    "titleSection": {
+        "name": "Tasktop Sync for VersionOne and IBM/Rational Requirements Composer Integration",
+        "shortDescription": "Leverage existing requirements documentation and traceability, while adding the practice of agile project management",
+        "pricing": "Paid",
+        "support": {
+            "text": "Tasktop",
+            "href": "http://www.tasktop.com/"
+        }
+    },
+    "descriptionSection": {
+        "description": "Integrating VersionOne and IBM/Rational Requirements Composer helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of requirements so that teams can leverage existing requirements documentation and traceability, while adding the practice of agile project management."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About Tasktop Sync",
+            "href": "http://www.tasktop.com/sync"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.tasktop.com/connectors/versionone"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the IBM/Rational Requirements Composer Connector",
+            "href": "http://tasktop.com/connectors/ibm-rrc/sync"
+        },
+        {
+            "type": "documentation",
+            "title": "Tasktop Sync Datasheet",
+            "href": "http://tasktop.com/sites/default/files/documents/TasktopSync-DataSheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about Tasktop",
+            "href": "http://www.tasktop.com/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "Spring 2013",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
