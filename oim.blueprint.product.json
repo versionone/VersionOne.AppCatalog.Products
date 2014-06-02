@@ -1,7 +1,7 @@
 {
-    "id": "OpsHub.VersionOne.Accompa",
+    "id": "OpsHub.VersionOne.Blueprint",
     "titleSection": {
-        "name": "OpsHub Integration Manager for VersionOne and Accompa Integration",
+        "name": "OpsHub Integration Manager for VersionOne and Blueprint Integration",
         "shortDescription": "leverage existing requirements documentation and traceability, while adding the practice of agile project management",
         "pricing": "Paid",
         "support": {
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "Integrating VersionOne and Accompa helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of requirements so that teams can leverage existing requirements documentation and traceability, while adding the practice of agile project management."
+        "description": "Integrating VersionOne and Blueprint helps you leverage your existing tool chain and reach more people. This integration helps manage overlap between tools with a two-way flow of requirements so that teams can leverage existing requirements documentation and traceability, while adding the practice of agile project management."
     },
     "linksSection": [
         {
@@ -25,8 +25,8 @@
         },
         {
             "type": "hyperlink",
-            "title": "About the Accompa Connector",
-            "href": "http://www.opshub.com/main/index.php/alm-systems/accompa"
+            "title": "About the Blueprint Connector",
+            "href": "http://www.opshub.com/main/index.php/alm-systems/blueprint"
         },
         {
             "type": "documentation",
