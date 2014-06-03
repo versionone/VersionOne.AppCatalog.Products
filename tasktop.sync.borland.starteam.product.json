@@ -42,9 +42,9 @@
     "updatesSection": {
         "updates": [
             {
-                "date": "2013-03-20T00:00:00.000Z",
-                "description": "Spring 2013",
-                "version": "5.3",
+                "date": "2015-04-02T00:00:00.000Z",
+                "description": "Tasktop Sync 3.5",
+                "version": "3.5",
                 "qualityBand": "commercial"
             }
         ],
