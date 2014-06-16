@@ -1,0 +1,51 @@
+{
+    "id": "Tasktop.VersionOne.CA.Clarity.Agile",
+    "titleSection": {
+        "name": "Tasktop Sync for VersionOne and CA Clarity Agile Integration",
+        "shortDescription": "Migrate existing agile project backlogs to VersionOne.",
+        "pricing": "Paid",
+        "support": {
+            "text": "Tasktop",
+            "href": "http://www.tasktop.com/"
+        }
+    },
+    "descriptionSection": {
+        "description": "Integrating VersionOne and CA Clarity Agile lets you leverage your existing agile project backlogs in the migration to VersionOne."
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About Tasktop Sync",
+            "href": "http://www.tasktop.com/sync"
+        },
+        {
+            "type": "hyperlink",
+            "title": "About the VersionOne Connector",
+            "href": "http://www.tasktop.com/connectors/versionone"
+        },
+        {
+            "type": "documentation",
+            "title": "Tasktop Sync Datasheet",
+            "href": "http://tasktop.com/sites/default/files/documents/TasktopSync-DataSheet.pdf"
+        },
+        {
+            "type": "hyperlink",
+            "title": "Learn more about Tasktop",
+            "href": "http://www.tasktop.com/"
+        }    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2015-04-02T00:00:00.000Z",
+                "description": "Tasktop Sync 3.5",
+                "version": "3.5",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
