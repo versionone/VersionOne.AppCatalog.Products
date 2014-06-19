@@ -31,8 +31,29 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2014-04-02T00:00:00.000Z",
+                "description": "Tasktop released Tasktop Sync 3.5",
+                "version": "3.5",
+                "qualityBand": "product"
+            },            
+            {
+                "date": "2013-03-20T00:00:00.000Z",
+                "description": "OpsHub released OpsHub Integration Manager 5.3",
+                "version": "5.3",
+                "qualityBand": "product"
+            },
+            {
+                "date": "2012-05-15T00:00:00.000Z",
+                "description": "VersionOne released an update to the open-source integration",
+                "version": "8.3.2042",
+                "qualityBand": "product"
+            }
         ],
         "qualityBands": {
+            "product": {
+                "shortDescription": "This product is described in another entry."
+            }            
         }
     },
     "mediaSection": [
