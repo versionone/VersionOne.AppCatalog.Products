@@ -1,0 +1,38 @@
+{
+    "id": "Quotium.Seeker.VersionOne",
+    "titleSection": {
+        "name": "Quotium Seeker Integration for VersionOne",
+        "shortDescription": "Open defects directly in VersionOne based on the findings from a security test.",
+        "pricing": "Free",
+        "support": {
+            "text": "Quotium",
+            "href": "http://www.quotium.com/"
+        }
+    },
+    "descriptionSection": {
+        "description": "Quotium Seeker has the ability to open defects directly in VersionOne based on the findings from a test. In an agile environment, it is important to be able to manage the different aspects of the project from one central location. The ability to integrate the vulnerabilities found by Seeker with the application life cycle reduces the learning curve and miscommunication between the development and DevOps teams. This allows the process of security integration to be streamlined with the minimum of friction and costs."
+    },
+    "linksSection": [
+        {
+            "type": "link",
+            "title": "About the Quotium/VersionOne Partnership",
+            "href": "http://www.quotium.com/about/partnership-integration-2/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2014-08-01T00:00:00.000Z",
+                "description": "Summer 2014",
+                "version": "1.0.0",
+                "releaseNotes": "Initial release.",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
