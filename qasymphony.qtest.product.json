@@ -3,7 +3,7 @@
     "titleSection": {
         "name": "QASymphony qTest Integration for VersionOne",
         "shortDescription": "Create new defects and trace defects back to executed test runs.",
-        "pricing": "Free with any qTest subscription, which begin at $29/user/month",
+        "pricing": "Free with any qTest subscription",
         "support": {
             "text": "QASymphony",
             "href": "http://support.qasymphony.com/home"
