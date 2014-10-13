@@ -3,7 +3,7 @@
     "titleSection": {
         "name": "QASymphony qTest eXplorer Integration for VersionOne",
         "shortDescription": "Create new defects and share detailed steps to reproduce.",
-        "pricing": "Free with qTest Enterprise, pay for stand-alone or as qTest Pro add-on",
+        "pricing": "Free with qTest Enterprise",
         "support": {
             "text": "QASymphony",
             "href": "http://support.qasymphony.com/home"
