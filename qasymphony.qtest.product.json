@@ -6,7 +6,7 @@
         "pricing": "Free with any qTest subscription",
         "support": {
             "text": "QASymphony",
-            "href": "http://support.qasymphony.com/home"
+            "href": "http://www.qasymphony.com/"
         }
     },
     "descriptionSection": {
@@ -17,12 +17,7 @@
             "type": "hyperlink",
             "title": "About qTest",
             "href": "http://www.qasymphony.com/qtest.html"
-        },
-        {
-            "type": "hyperlink",
-            "title": "Integration Description",
-            "href": "http://www.qasymphony.com/qtest-versionone.html"
-        }        
+        }
     ],
     "updatesSection": {
         "updates": [

@@ -6,7 +6,7 @@
         "pricing": "Free with qTest Enterprise",
         "support": {
             "text": "QASymphony",
-            "href": "http://support.qasymphony.com/home"
+            "href": "http://www.qasymphony.com/"
         }
     },
     "descriptionSection": {
@@ -17,11 +17,6 @@
             "type": "hyperlink",
             "title": "About qTest eXplorer",
             "href": "http://www.qasymphony.com/platform/exploratory-testing.html"
-        },
-        {
-            "type": "hyperlink",
-            "title": "Integration Annoucement",
-            "href": "http://www.qasymphony.com/qasymphony-to-partner-with-versionone-to-help-teams-speed-agile-adoption-via-qa-collaboration.html"
         }
     ],
     "updatesSection": {
