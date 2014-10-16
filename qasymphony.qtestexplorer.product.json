@@ -22,7 +22,7 @@
     "updatesSection": {
         "updates": [
             {
-                "date": "2014-10-13T00:00:00.000Z",
+                "date": "2014-10-16T00:00:00.000Z",
                 "description": "Fall 2014\n\n* Changed product name from qTrace to qTest eXplorer",
                 "version": "2014",
                 "qualityBand": "commercial"
