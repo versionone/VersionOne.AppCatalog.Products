@@ -1,7 +1,7 @@
 {
     "id": "VersionOne.Integration.VSTFS",
     "titleSection": {
-        "name": "VersionOne Integration for Team Foundation Server",
+        "name": "VersionOne Integration for TFS",
         "shortDescription": "Links VersionOne Workitems to TFS Check-ins and Builds.",
         "pricing": "Free",
         "support": {
@@ -30,9 +30,19 @@
         },
         {
             "type": "source",
-            "title": "GitHub Project for Source Code and Issues",
-            "href": "https://github.com/versionone/VersionOne.Integration.VSTFS"
+            "title": "GitHub Project for TFS Core Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Core"
         },
+        {
+            "type": "source",
+            "title": "GitHub Project for TFS Listener Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Listener"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for TFS Policy (VS2012) Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Policy.VS2012"
+        },		
         {
             "type": "license",
             "title": "Modified BSD (3-clause) License",
