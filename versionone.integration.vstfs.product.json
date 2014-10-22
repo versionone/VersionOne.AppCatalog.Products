@@ -21,7 +21,7 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://versionone.github.io/VersionOne.Integration.VSTFS"
+            "href": "http://versionone.github.io/VersionOne.Integration.TFS.Core/"
         },
         {
             "type": "documentation",
