@@ -2,7 +2,7 @@
     "id": "VersionOne.Integration.Eclipse",
     "titleSection": {
         "name": "VersionOne Integration for Eclipse",
-        "shortDescription": "view and update VersionOne work items directly from your IDE",
+        "shortDescription": "View and update VersionOne work items directly from the Eclipse IDE.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "VersionOne Integration for Eclipse extends the Eclipse IDE by providing a view that allows users to view and update VersionOne Stories, Defects, Task, and Test. The integration provides access workitems own by the configured user, or any other workitem in an active sprint/iteration. This allows Eclipse users to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
+        "description": "VersionOne Integration for Eclipse extends the Eclipse IDE by providing a view that allows you to view and update VersionOne Stories, Defects, Task, and Test. The integration provides access to workitems owned by the configured user, or any other workitem in an active sprint/iteration. This allows you to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
     },
     "linksSection": [
         {
