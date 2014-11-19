@@ -1,0 +1,61 @@
+{
+    "id": "VersionOne.Integration.ElectricCommander",
+	"titleSection": {
+		"name": "VersionOne Integration for ElectricCommander",
+		"shortDescription": "Link agile workitems to tangible, working software in the form of builds.",
+		"pricing": "Free",
+        "support": {
+			"text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "The VersionOne Integration for ElectricCommander creates a record of ElectricCommander builds in VersionOne, so the development teams can quickly view builds associated with a story or defects. This visibility is useful when identifying what build to use for verification or when generating release notes."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/ElectricCommanderPlugin.zip"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://versionone.github.io/VersionOne.Integration.ElectricCommander/"
+        }
+    ],
+    "updatesSection": {
+	    "updates": [
+            {
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/ElectricCommanderPlugin.zip",
+                "qualityBand": "mature",
+                "releaseNotes": "Fixed log parsing for EC 4.0",
+                "version": "112",
+                "description": "Spring 2012",
+                "date": "2012-03-06T00:00:00.000Z"
+            },
+            {
+                "qualityBand": "mature",
+                "releaseNotes": "Initial Release",
+                "version": "101",
+                "description": "Summer 2011",
+                "date": "2011-07-01T00:00:00.000Z"
+            }
+        ],
+        "qualityBands": {
+            "mature": {
+                "href": "https://github.com/versionone/VersionOne.Integration.ElectricCommander/blob/master/CONTRIBUTING.md#mature",
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes."
+            },
+            "sapling": {
+                "href": "https://github.com/versionone/VersionOne.Integration.ElectricCommander/blob/master/CONTRIBUTING.md#sapling",
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes."
+            },
+            "seed": {
+                "href": "https://github.com/versionone/VersionOne.Integration.ElectricCommander/blob/master/CONTRIBUTING.md#seed",
+                "shortDescription": "The initial idea of a product. May not be stable code."
+            }
+        }
+    },
+	"mediaSection": []
+}
