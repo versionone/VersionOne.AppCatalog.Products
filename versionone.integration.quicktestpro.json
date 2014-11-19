@@ -2,7 +2,7 @@
     "id": "VersionOne.Integration.QuickTestPro",
     "titleSection": {
         "name": "VersionOne Integration for HP Quick Test Professional",
-        "shortDescription": "import the results of tests defined HP's Quick Test Professional (QTP) into VersionOne.",
+        "shortDescription": "Imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "VersionOne Integration for HP Quick Test Professional imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne. The results of an individual QTP test can be linked to a Test Artifact in VersionOne, so that development, and you organization, will receive quick feedback on which tests are passing and failing. VersionOne finds most customers who want integration with QuickTest Pro (QTP) also use HP Quality Center (QC). They use the integration between QTP and QC, then integrate QC with VersionOne. Therefore, customers have effective VersionOne and QTP integration via the existing V1QC integration. As such, there is not sufficient value in this integration to continue updating it against new versions of QTP and we have decided to sunset this integration. The last version of QTP that has been tested with the integration is QTP 10.0. Source code will remain available so customers may apply their own development efforts or hire VersionOne services as a custom development engagement."
+        "description": "The VersionOne Integration for HP Quick Test Professional imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne. The results of an individual QTP test can be linked to a Test Artifact in VersionOne, so that development, and you organization, will receive quick feedback on which tests are passing and failing. VersionOne finds most customers who want integration with QuickTest Pro (QTP) also use HP Quality Center (QC). They use the integration between QTP and QC, then integrate QC with VersionOne. Therefore, customers have effective VersionOne and QTP integration via the existing V1QC integration. As such, there is not sufficient value in this integration to continue updating it against new versions of QTP and we have decided to sunset this integration. The last version of QTP that has been tested with the integration is QTP 10.0. Source code will remain available so customers may apply their own development efforts or hire VersionOne services as a custom development engagement."
     },
     "linksSection": [
         {
@@ -21,7 +21,7 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://legacy.community.versionone.com/sdk/DetailedDocumentation/QTP/index.html"
+            "href": "http://versionone.github.io/VersionOne.Integration.QuickTestPro/"
         }
     ],
     "updatesSection": {
