@@ -1,0 +1,76 @@
+{
+    "id": "VersionOne.Integration.FitNesse",
+    "titleSection": {
+        "name": "VersionOne Integration for FitNesse",
+        "shortDescription": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
+        "pricing": "Free",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "The VersionOne Integration for FitNesse imports FitNesse test results into VersionOne, making the latest test results more visible across the an organization. The results can be recorded at two different levels of granularity—project and test. The aggregate results for a suite of tests in FitNesse can be linked to a project in VersionOne, so that everyone can see the health of their project from a testing standpoint from within VersionOne. The results of an individual FitNesse acceptance test can be linked to a Test in VersionOne, so that development team members receive quick feedback on which tests are passing and failing."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1FitIntegration.8.3.zip"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://versionone.github.io/VersionOne.Integration.FitNesse/"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2012-05-15T00:00:00.000Z",
+                "description": "Spring 2012",
+                "version": "2008",
+                "releaseNotes": "Fixed: Test.Parent.AffectedByDefects no longer a valid attribute in 12.0",
+                "qualityBand": "mature",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1FitIntegration.8.3.zip"
+            },
+            {
+                "date": "2011-07-01T00:00:00.000Z",
+                "description": "Summer 2011",
+                "version": "1462",
+                "releaseNotes": " * Added: Support for connecting to VersionOne through a proxy. \n * Added: Configuration Utility contains help on the various configuration options to enable quicker setup and configuration. \n * Added: Configuration Utility supports a minimum poll interval of one minute for testing. It is not recommended that poll intervals remain this low in a production instance. \n * Update: Source code project was dependent on .NET 3.5. Now source code project depends on the latest .NET SDK. \n * Updated: Integration depends on Log4Net \n * Updated: Poll time interval defaults to 30 minutes \n *Fixed: Configuration Utility allows editing of the VersionOne credential fields when Windows Integrated Authentication is enabled. This enables configuring the integrations to connect to VersionOne as a user other than the local service account when the VersionOne instance is configured for Windows integrated authentication.",
+                "qualityBand": "mature"
+            },
+            {
+                "date": "2010-08-10T00:00:00.000Z",
+                "description": "Summer 2010",
+                "version": "872",
+                "releaseNotes": " * Added GUI Tool for configuration \n * Updated Documentation",
+                "qualityBand": "mature"
+            },
+            {
+                "date": "2009-05-27T00:00:00.000Z",
+                "description": "Spring 2009",
+                "version": "462",
+                "releaseNotes": " * Removed dependency on the older APIClient library. Integration now depends on APIClient library from SDK \n * Added support for Fitnesse 20050913",
+                "qualityBand": "mature"
+            }
+        ],
+        "qualityBands": {
+            "seed": {
+                "shortDescription": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.FitNesse/blob/master/CONTRIBUTING.md#seed"
+            },
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.FitNesse/blob/master/CONTRIBUTING.md#sapling"
+            },
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.FitNesse/blob/master/CONTRIBUTING.md#mature"
+            }
+        }
+    },
+    "mediaSection": [
+    ]
+}
