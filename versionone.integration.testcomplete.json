@@ -21,7 +21,7 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://legacy.community.versionone.com/sdk/DetailedDocumentation/TestComplete/index.html"
+            "href": "http://versionone.github.io/VersionOne.Integration.TestComplete/"
         }
     ],
     "updatesSection": {
