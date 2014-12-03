@@ -2,7 +2,7 @@
     "id": "VersionOne.SDK.Java.APIClient",
     "titleSection": {
         "name": "VersionOne Java SDK",
-        "shortDescription": "A library for custom Java development against the VersionOne Development Platform's RESTful API.",
+        "shortDescription": "A library for custom Java development with the VersionOne REST API.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
