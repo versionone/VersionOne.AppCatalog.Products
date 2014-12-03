@@ -50,7 +50,7 @@
                 "date": "2014-12-03T00:00:00.000Z",
                 "description": "Fall 2014",
                 "version": "13.0.0.2",
-                "releaseNotes": " * Added: V1APIConnector.setUserAgentHeader method for setting custom user-agent string \n * Updated and tested on JVM 1.7",
+                "releaseNotes": " * Added: V1APIConnector.setUserAgentHeader method for custom user-agent string \n * Updated and tested on JVM 1.7",
                 "qualityBand": "mature",
                 "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-13.0.2.zip"
             },
