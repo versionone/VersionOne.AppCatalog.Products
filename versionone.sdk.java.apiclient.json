@@ -47,7 +47,7 @@
     "updatesSection": {
         "updates": [
 		    {
-                "date": "2014-12-03T00:00:00.000Z",
+                "date": "2014-12-04T00:00:00.000Z",
                 "description": "Fall 2014",
                 "version": "13.0.0.2",
                 "releaseNotes": " * Added: V1APIConnector.setUserAgentHeader method for custom user-agent string \n * Updated: Recompiled and tested with JVM 1.7",
