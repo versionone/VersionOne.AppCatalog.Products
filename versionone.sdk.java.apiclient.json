@@ -21,16 +21,11 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://versionone.github.io/VersionOne.SDK.Java.APIClient/index.html"
-        },
-        {
-            "type": "documentation",
-            "title": "README",
             "href": "https://github.com/versionone/VersionOne.SDK.Java.APIClient/blob/master/README.md"
         },
         {
             "type": "documentation",
-            "title": "JavaDoc",
+            "title": "API Documentation (JavaDocs)",
             "href": "http://versionone.github.io/VersionOne.SDK.Java.APIClient/apidocs/index.html"
         },
         {
