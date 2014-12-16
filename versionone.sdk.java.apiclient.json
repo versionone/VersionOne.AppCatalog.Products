@@ -2,7 +2,7 @@
     "id": "VersionOne.SDK.Java.APIClient",
     "titleSection": {
         "name": "VersionOne Java SDK",
-        "shortDescription": "A library for custom Java development with the VersionOne REST API.",
+        "shortDescription": "A library for Java development with the VersionOne REST API.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -15,7 +15,7 @@
     "linksSection": [
         {
             "type": "download",
-            "title": "Java SDK on Maven Central",
+            "title": "Java SDK in Maven Central",
             "href": "http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22VersionOne.SDK.Java.APIClient%22"
         },
         {
@@ -55,7 +55,7 @@
                 "version": "12.0.0.302",
                 "releaseNotes": " * Fixed: Epic can have Tests as children. \n * Fixed: Epic.Risk is a Number, not a List Value.",
                 "qualityBand": "mature",
-                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.JavaSDK-12.0.zip"
+                "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-12.0.zip"
             },
             {
                 "date": "2012-05-11T00:00:00.000Z",
