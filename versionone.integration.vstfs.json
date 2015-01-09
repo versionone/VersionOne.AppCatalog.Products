@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Integration.VSTFS_4.0.0.475.zip"
+            "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.1.0.zip"
         },
         {
             "type": "documentation",
@@ -26,7 +26,7 @@
         {
             "type": "documentation",
             "title": "README",
-            "href": "https://github.com/versionone/VersionOne.Integration.VSTFS/blob/master/README.md"
+            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Core/blob/master/README.md"
         },
         {
             "type": "source",
@@ -38,26 +38,39 @@
             "title": "GitHub Project for TFS Listener Source Code and Issues",
             "href": "https://github.com/versionone/VersionOne.Integration.TFS.Listener"
         },
+		{
+            "type": "source",
+            "title": "GitHub Project for TFS Policy (VS2013) Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Policy.VS2013"
+        },
         {
             "type": "source",
             "title": "GitHub Project for TFS Policy (VS2012) Source Code and Issues",
             "href": "https://github.com/versionone/VersionOne.Integration.TFS.Policy.VS2012"
-        },		
+        },	
         {
             "type": "license",
             "title": "Modified BSD (3-clause) License",
-            "href": "https://github.com/versionone/VersionOne.Integration.VSTFS/blob/master/LICENSE.md"
+            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Core/blob/master/LICENSE.md"
         }
     ],
     "updatesSection": {
         "updates": [
             {
+                "date": "2015-01-10T00:00:00.000Z",
+                "description": "Winter 2015",
+                "version": "4.0.1.0",
+                "releaseNotes": "Added: Added: VersionOne Policy for Visual Studio 3013\n* Added: TFS Listener runs in its own IIS AppPool\n* Updated: Requires .NET Framework 4.5.1\n* Fixed: Excessive build synchronization logging\n* Fixed: VersionOne Policy makes excessive API calls\n* Fixed: TFS Listener Config Tool does not correctly save Windows Integrated Authentication credentials",
+                "qualityBand": "sapling",
+                "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.1.0.zip"
+            },
+			{
                 "date": "2014-05-16T00:00:00.000Z",
                 "description": "Spring 2014",
                 "version": "4.0.0.475",
                 "releaseNotes": "Added: Listener now works with TFS 2013",
                 "qualityBand": "sapling",
-                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Integration.VSTFS_4.0.0.475.zip"
+                "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.VSTFS_4.0.0.475.zip"
             },
             {
                 "date": "2012-11-01T00:00:00.000Z",
