@@ -60,7 +60,7 @@
                 "date": "2015-01-10T00:00:00.000Z",
                 "description": "Winter 2015",
                 "version": "4.0.1.0",
-                "releaseNotes": "Added: Added: VersionOne Policy for Visual Studio 3013\n* Added: TFS Listener runs in its own IIS AppPool\n* Updated: Requires .NET Framework 4.5.1\n* Fixed: Excessive build synchronization logging\n* Fixed: VersionOne Policy makes excessive API calls\n* Fixed: TFS Listener Config Tool does not correctly save Windows Integrated Authentication credentials",
+                "releaseNotes": "Added: VersionOne Policy for Visual Studio 2013\n* Added: TFS Listener runs in its own IIS AppPool\n* Updated: Requires .NET Framework 4.5.1\n* Fixed: Excessive build synchronization logging\n* Fixed: VersionOne Policy makes excessive API calls\n* Fixed: TFS Listener Config Tool does not correctly save Windows Integrated Authentication credentials",
                 "qualityBand": "sapling",
                 "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.1.0.zip"
             },
