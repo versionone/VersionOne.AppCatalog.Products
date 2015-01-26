@@ -27,12 +27,12 @@
     "updatesSection": {
         "updates": [
             {
-                "date": "",
+                "date": "2013-07-03T00:00:00.000Z",
                 "description": "",
-                "version": "",
+                "version": "1.0",
                 "releaseNotes": "",
-                "qualityBand": "",
-                "downloadUrl": ""
+                "qualityBand": "mature",
+                "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/V1TortoiseSVN.1.0.15015.40.zip"
             }
         ],
         "qualityBands": {
