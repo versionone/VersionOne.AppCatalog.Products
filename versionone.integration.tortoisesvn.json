@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Integration for TortoiseSVN helps you add Workitem IDs into TortoiseSVN check-in popup by showing a window which lists Stories, Defects, Tasks, and Tests assigned to you. It provides quick access to the workitems' IDs to add to the check-in comment to be read by the <a href='http://appcatalog.versionone.com/VersionOne.Integration.Subversion'>VersionOne Integration for Subversion</a>."
+        "description": "The VersionOne Integration for TortoiseSVN adds VersionOne Workitem IDs into a TortoiseSVN check-in popup window, which shows a list of Stories, Defects, Tasks, and Tests assigned to you. It provides quick access to the workitem IDs to add to the check-in comment to be read by the VersionOne Integration for Subversion."
     },
     "linksSection": [
         {
