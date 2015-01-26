@@ -25,5 +25,29 @@
         }
     ],
     "updatesSection": {
+        "updates": [
+            {
+                "date": "",
+                "description": "",
+                "version": "",
+                "releaseNotes": "",
+                "qualityBand": "",
+                "downloadUrl": ""
+            }
+        ],
+        "qualityBands": {
+            "seed": {
+                "shortDescription": "The initial idea of a product. No working code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.TortoiseSVN/blob/master/CONTRIBUTING.md#seed"
+            },
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.TortoiseSVN/blob/master/CONTRIBUTING.md#sapling"
+            },
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.TortoiseSVN/blob/master/CONTRIBUTING.md#mature"
+            }
+        }
     }
 }
