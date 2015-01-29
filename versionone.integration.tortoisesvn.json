@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "https://v1platform.blob.core.windows.net/downloads/V1TortoiseSVN.1.0.15015.40.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/V1TortoiseSVN-1.1.zip"
         },
         {
             "type": "documentation",
@@ -26,6 +26,14 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-01-30T00:00:00.000Z",
+                "description": "Winter 2015",
+                "version": "1.1",
+                "releaseNotes": " * Updated: Recompiled with .NET Framework 4.5.1\n * Updated: Removed iteration filter",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/V1TortoiseSVN-1.1.zip"
+            },		
             {
                 "date": "2013-07-03T00:00:00.000Z",
                 "description": "",
