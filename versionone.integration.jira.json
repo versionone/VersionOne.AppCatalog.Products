@@ -16,23 +16,33 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1JiraIntegration.8.3.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/V1JiraIntegration.8.3.zip"
         },
         {
             "type": "documentation",
             "title": "Documentation",
             "href": "http://versionone.github.io/VersionOne.Integration.JIRA"
-        }
+        },
+		{
+			"type": "source",
+			"title": "GitHub Project for Source Code and Issues",
+			"href": "https://github.com/versionone/VersionOne.Integration.JIRA"
+		},
+		{
+			"type": "license",
+			"title": "Modified BSD (3 clause) License",
+			"href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/LICENSE.md"
+		}			
     ],
     "updatesSection": {
         "updates": [
             {
                 "date": "2012-08-31T00:00:00.000Z",
                 "description": "Summer 2012",
-                "version": "2107",
+                "version": "8.3",
                 "releaseNotes": " * Added: Support for JIRA 5.1. \n * Added: Logging ServiceHost Diagnostics on startup. \n * Added: Logging VersionOne Connection Diagnostics on startup.",
                 "qualityBand": "mature",
-                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1JiraIntegration.8.3.zip"
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/V1JiraIntegration.8.3.zip"
             },
             {
                 "date": "2012-05-16T00:00:00.000Z",
