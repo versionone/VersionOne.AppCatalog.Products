@@ -2,11 +2,11 @@
   "id": "VersionOne.Integration.Bugzilla",
   "titleSection": {
     "name": "VersionOne Integration for Bugzilla",
-    "shortDescription": "Triage defects and include them in the planning process to balance new work and maintenance.",
+    "shortDescription": "Creates defects in VersionOne based on bugs in Bugzilla.",
     "pricing": "Free",
     "support": {
       "text": "VersionOne",
-      "href": "http:\/\/support.versionone.com\/home"
+      "href": "http://support.versionone.com/home"
     }
   },
   "descriptionSection": {
@@ -16,7 +16,7 @@
     {
       "type": "download",
       "title": "Download Latest Stable Build",
-      "href": "http://v1platform.blob.core.windows.net/downloads/V1BugzillaIntegration.8.3.zip"
+      "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.zip"
     },
     {
       "type": "documentation",
@@ -37,12 +37,20 @@
   "updatesSection": {
     "updates": [
       {
+        "date": "2015-02-18T00:00:00.000Z",
+        "description": "Winter 2015",
+        "version": "8.4",
+        "releaseNotes": "Added: Support for Bugzilla 4.4",
+        "qualityBand": "mature",
+        "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.zip"
+      },	
+      {
         "date": "2012-05-15T00:00:00.000Z",
         "description": "Spring 2012",
-        "version": "2042",
+        "version": "8.3",
         "releaseNotes": "Added: Support for Bugzilla 4.2",
         "qualityBand": "mature",
-        "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/V1BugzillaIntegration.8.3.zip"
+        "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.3.zip"
       },
       {
         "date": "2012-03-06T00:00:00.000Z",
