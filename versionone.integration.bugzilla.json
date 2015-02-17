@@ -40,7 +40,7 @@
         "date": "2015-02-18T00:00:00.000Z",
         "description": "Winter 2015",
         "version": "8.4",
-        "releaseNotes": "Added: Support for Bugzilla 4.4",
+        "releaseNotes": "Added: Support for Bugzilla 4.4 (up to 4.4.2)",
         "qualityBand": "mature",
         "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.zip"
       },	
