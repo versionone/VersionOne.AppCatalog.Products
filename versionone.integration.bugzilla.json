@@ -40,7 +40,7 @@
         "date": "2015-02-18T00:00:00.000Z",
         "description": "Winter 2015",
         "version": "8.4",
-        "releaseNotes": "Added: Support for Bugzilla 4.4 (up to 4.4.2)\n Updated: Compiled with .NET Framework 4.5.1",
+        "releaseNotes": " * Added: Support for Bugzilla 4.4 (up to 4.4.2) \n * Updated: Compiled with .NET Framework 4.5.1",
         "qualityBand": "mature",
         "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.zip"
       },	
@@ -48,7 +48,7 @@
         "date": "2012-05-15T00:00:00.000Z",
         "description": "Spring 2012",
         "version": "8.3",
-        "releaseNotes": "Added: Support for Bugzilla 4.2",
+        "releaseNotes": " * Added: Support for Bugzilla 4.2",
         "qualityBand": "mature",
         "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.3.zip"
       },
