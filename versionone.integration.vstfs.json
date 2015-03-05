@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.1.0.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.2.0.zip"
         },
         {
             "type": "documentation",
@@ -40,13 +40,13 @@
         },
 		{
             "type": "source",
-            "title": "GitHub Project for TFS Policy (VS2013) Source Code and Issues",
-            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Policy.VS2013"
+            "title": "GitHub Project for TFS Policy Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Policy"
         },
         {
             "type": "source",
-            "title": "GitHub Project for TFS Policy (VS2012) Source Code and Issues",
-            "href": "https://github.com/versionone/VersionOne.Integration.TFS.Policy.VS2012"
+            "title": "GitHub Project for TFS Server Connector Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.TFS.ServerConnector"
         },	
         {
             "type": "license",
@@ -56,6 +56,14 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-03-06T00:00:00.000Z",
+                "description": "Winter 2015",
+                "version": "4.0.2.0",
+                "releaseNotes": "* Fixed: TFS Listener supports using a proxy\n* Added: Test Events diagnostics in TFS Listener Configuration tool",
+                "qualityBand": "sapling",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.2.0.zip"
+            },		
             {
                 "date": "2015-01-10T00:00:00.000Z",
                 "description": "Winter 2015",
