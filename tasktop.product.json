@@ -44,5 +44,7 @@
                 "shortDescription": "The product is stable and supported."
             }
         }
-    }
+    },
+    "mediaSection": [
+    ]	
 }
