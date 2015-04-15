@@ -1,32 +1,22 @@
 {
     "id": "Tasktop.Dev.VersionOne",
     "titleSection": {
-        "name": "Tasktop Dev Connector for VersionOne",
-        "shortDescription": "View and update VersionOne work items directly from your IDE.",
-        "pricing": "Paid",
+        "name": "Tasktop Dev for VersionOne",
+        "shortDescription": "View and update VersionOne workitems directly from your Visual Studio or Eclipse IDE.",
+        "pricing": "Free",
         "support": {
             "text": "Tasktop",
-            "href": "https://tasktop.zendesk.com/home"
+            "href": "https://www.tasktop.com"
         }
     },
     "descriptionSection": {
-        "description": "The Tasktop Dev Connector for VersionOne integrates VersionOne's agile planning and project management platform with any Tasktop-enabled Eclipse-based IDE. Through integration with Tasktop Dev Pro, the VersionOne Connector also provides a standalone rich client application with offline access to VersionOne stories, defects and tasks."
+        "description": "Tasktop Dev for VersionOne integrates VersionOne's agile planning and project management platform with Visual Studio and Eclipse IDEs. This integration provides developers with the ability to create and manage VersionOne Epics, Stories, Defects, Tasks, and Tests (including effort tracking) all within the context of their IDE."
     },
     "linksSection": [
         {
             "type": "hyperlink",
-            "title": "About Tasktop Dev",
-            "href": "http://www.tasktop.com/dev"
-        },
-        {
-            "type": "hyperlink",
-            "title": "About the VersionOne Connector",
-            "href": "http://www.tasktop.com/connectors/versionone"
-        },
-        {
-            "type": "documentation",
-            "title": "Tasktop Dev Datasheet",
-            "href": "http://www.tasktop.com/pdfs/resources/tutorials/quickrefs/Tasktop%20Dev%20-%20Data%20Sheet.pdf"
+            "title": "Learn about and download Tasktop Dev for VersionOne",
+            "href": "http://www.tasktop.com/connectors/versionone/dev"
         },
         {
             "type": "hyperlink",
@@ -36,6 +26,12 @@
     ],
     "updatesSection": {
         "updates": [
+		    {
+                "date": "2015-04-16T00:00:00.000Z",
+                "description": "Spring 2015",
+                "version": "5.3",
+                "qualityBand": "commercial"
+            },
             {
                 "date": "2013-03-20T00:00:00.000Z",
                 "description": "Spring 2013",
@@ -48,14 +44,5 @@
                 "shortDescription": "The product is stable and supported."
             }
         }
-    },
-    "mediaSection": [
-        {
-            "title": "Tasktop Dev VersionOne Connector Screencast",
-            "caption": "View and update VersionOne work items directly from your IDE.",
-            "mimetype": "video/x-flv",
-            "href": "http://www.tasktop.com/resources/videos/versionone/connector/",
-            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
-        }
-    ]
+    }
 }
