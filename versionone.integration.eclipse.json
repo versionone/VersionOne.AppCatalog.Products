@@ -26,17 +26,17 @@
         {
             "type": "documentation",
             "title": "README",
-            "href": "https://github.com/versionone/VersionOne.Client.Eclipse/blob/master/README.md"
+            "href": "https://github.com/versionone/VersionOne.Integration.Eclipse/blob/master/README.md"
         },
         {
             "type": "source",
             "title": "GitHub Project for Source Code and Issues",
-            "href": "https://github.com/versionone/VersionOne.Client.Eclipse"
+            "href": "https://github.com/versionone/VersionOne.Integration.Eclipse"
         },
         {
             "type": "license",
             "title": "Modified BSD (3 clause) License",
-            "href": "https://github.com/versionone/VersionOne.Client.Eclipse/blob/master/LICENSE.md"
+            "href": "https://github.com/versionone/VersionOne.Integration.Eclipse/blob/master/LICENSE.md"
         }		
     ],
     "updatesSection": {
