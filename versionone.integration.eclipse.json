@@ -22,7 +22,22 @@
             "type": "documentation",
             "title": "Documentation",
             "href": "http://versionone.github.io/VersionOne.Integration.Eclipse/"
-        }
+        },
+        {
+            "type": "documentation",
+            "title": "README",
+            "href": "https://github.com/versionone/VersionOne.Client.Eclipse/blob/master/README.md"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Client.Eclipse"
+        },
+        {
+            "type": "license",
+            "title": "Modified BSD (3 clause) License",
+            "href": "https://github.com/versionone/VersionOne.Client.Eclipse/blob/master/LICENSE.md"
+        }		
     ],
     "updatesSection": {
         "updates": [
