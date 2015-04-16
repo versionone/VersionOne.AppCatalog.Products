@@ -42,6 +42,12 @@
     "updatesSection": {
         "updates": [
             {
+                "date": "2015-04-23T12:00:00.000Z",
+                "description": "Spring 2015",
+                "version": "Sunset",
+                "releaseNotes": "* See [Tasktop Dev for VersionOne](http://appcatalog.versionone.com/Tasktop.Dev.VersionOne)"
+            },		
+            {
                 "date": "2014-05-13T12:00:00.000Z",
                 "description": "Spring 2014",
                 "version": "9.0.1.144",
