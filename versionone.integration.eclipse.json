@@ -2,7 +2,7 @@
     "id": "VersionOne.Integration.Eclipse",
     "titleSection": {
         "name": "VersionOne Integration for Eclipse",
-        "shortDescription": "View and update VersionOne work items directly from the Eclipse IDE.",
+        "shortDescription": "View and update VersionOne workitems directly from Eclipse.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",

@@ -2,7 +2,7 @@
     "id": "VersionOne.Client.VisualStudio",
     "titleSection": {
         "name": "VersionOne Integration for Visual Studio",
-        "shortDescription": "View and update VersionOne workitems directly from Visual Studio",
+        "shortDescription": "View and update VersionOne workitems directly from Visual Studio.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
