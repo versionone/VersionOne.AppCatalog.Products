@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "VersionOne Integration for Eclipse extends the Eclipse IDE by providing a view that allows you to view and update VersionOne Stories, Defects, Task, and Test. The integration provides access to workitems owned by the configured user, or any other workitem in an active sprint/iteration. This allows you to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
+        "description": "**This integration has been sunset as of the Spring 2015 release of VersionOne. Please see [Tasktop Dev for VersionOne](http://appcatalog.versionone.com/Tasktop.Dev.VersionOne) for the new integration with Visual Studio.**\n\nVersionOne Integration for Eclipse extends the Eclipse IDE by providing a view that allows you to view and update VersionOne Stories, Defects, Task, and Test. The integration provides access to workitems owned by the configured user, or any other workitem in an active sprint/iteration. This allows you to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
     },
     "linksSection": [
         {
@@ -26,6 +26,12 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-04-23T12:00:00.000Z",
+                "description": "Spring 2015",
+                "version": "Sunset",
+                "releaseNotes": "* See [Tasktop Dev for VersionOne](http://appcatalog.versionone.com/Tasktop.Dev.VersionOne)"
+            },			
             {
                 "date": "2011-07-01T00:00:00.000Z",
                 "description": "Summer 2011",
