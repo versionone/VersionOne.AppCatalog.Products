@@ -20,6 +20,11 @@
         },
         {
             "type": "hyperlink",
+            "title": "Get support for Tasktop Dev for VersionOne",
+            "href": "https://tasktop.com/support"
+        },		
+        {
+            "type": "hyperlink",
             "title": "Learn more about Tasktop",
             "href": "http://www.tasktop.com/"
         }
@@ -27,9 +32,9 @@
     "updatesSection": {
         "updates": [
 		    {
-                "date": "2015-04-16T00:00:00.000Z",
+                "date": "2015-04-23T00:00:00.000Z",
                 "description": "Spring 2015",
-                "version": "???",
+                "version": "",
                 "qualityBand": "commercial"
             },
             {
