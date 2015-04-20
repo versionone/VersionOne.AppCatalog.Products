@@ -49,8 +49,8 @@
             "title": "Tasktop Dev",
             "caption": "VersionOne workitems in Tasktop Dev",
             "mimetype": "image/jpeg",
-            "href": "https://github.com/versionone/VersionOne.AppCatalog.Products/blob/master/images/tasktop.dev.png",
-            "thumbhref": "https://github.com/versionone/VersionOne.AppCatalog.Products/blob/master/images/tasktop.dev.png"
+            "href": "http://v1platform.blob.core.windows.net/images/tasktop.dev.png",
+            "thumbhref": "http://v1platform.blob.core.windows.net/images/tasktop.dev.png"
         }	
     ]	
 }
