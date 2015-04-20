@@ -20,6 +20,11 @@
         },
         {
             "type": "hyperlink",
+            "title": "Installation guide for Tasktop Dev for VersionOne",
+            "href": "https://dev-support.tasktop.com/customer/portal/articles/1953058-tasktop-dev-for-versionone-installation-instructions"
+        },
+        {
+            "type": "hyperlink",
             "title": "Get support for Tasktop Dev for VersionOne",
             "href": "https://tasktop.com/support"
         },		
