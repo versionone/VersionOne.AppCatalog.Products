@@ -37,7 +37,7 @@
     "updatesSection": {
         "updates": [
 		    {
-                "date": "2015-04-23T00:00:00.000Z",
+                "date": "2015-04-22T00:00:00.000Z",
                 "description": "* Replaces the native VersionOne integrations for Visual Studio and Eclipse",
                 "version": "Spring 2015",
                 "qualityBand": "commercial"
