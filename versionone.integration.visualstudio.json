@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "**This integration has been sunset as of the Spring 2015 release of VersionOne. Please see [Tasktop Dev for VersionOne](http://appcatalog.versionone.com/Tasktop.Dev.VersionOne) for the new integration with Visual Studio.**\n\nThe VersionOne Integration for Visual Studio extends Microsoft's Visual Studio IDE by providing ability for viewing and updating VersionOne Stories, Defects, Tasks, and Tests. The integration provides access to workitems owned by the configured user, or any other workitem in an active sprint/iteration. This allows Visual Studio users to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
+        "description": "**This integration has been sunset as of the Spring 2015 release of VersionOne. Please see [Tasktop Dev for VersionOne](http://appcatalog.versionone.com/Tasktop.Dev.VersionOne) for an alternative IDE integration.**\n\nThe VersionOne Integration for Visual Studio extends Microsoft's Visual Studio IDE by providing ability for viewing and updating VersionOne Stories, Defects, Tasks, and Tests. The integration provides access to workitems owned by the configured user, or any other workitem in an active sprint/iteration. This allows Visual Studio users to Signup, Track, and Close VersionOne workitems without needing to leave the IDE."
     },
     "linksSection": [
         {
