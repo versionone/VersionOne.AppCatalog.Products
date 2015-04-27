@@ -1,0 +1,86 @@
+{
+    "id": "VersionOne.SDK.NET.ObjectModel",
+    "titleSection": {
+        "name": "VersionOne SDK.NET Object Model Integration",
+        "shortDescription": "The ObjectModel is suitable for fine-grained access, such as creating new VersionOne assets.",
+        "pricing": "Free",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "The ObjectModel library provide a strongly-typed model on top of the VersionOne SDK.NET API Client library. This allows developers to easily and quickly develop VersionOne integrations and complementary applications/utilities using domain objects (Project, Story, Iteration, etc) instead of more abstract objects (Asset, Attribute). The ObjectModel is suitable for fine-grained access, such as creating new VersionOne assets."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Stable library in the NuGet Gallery",
+            "href": "http://nuget.org/packages/VersionOne.SDK.ObjectModel"
+        },
+        {
+            "type": "download",
+            "title": "Continuous Integration library in the VersionOne MyGet Gallery",
+            "href": "https://www.myget.org/gallery/versionone"
+        },
+        {
+            "type": "documentation",
+            "title": "README",
+            "href": "https://github.com/versionone/VersionOne.SDK.NET.ObjectModel/blob/master/README.md"
+        },
+        {
+            "type": "documentation",
+            "title": "Wiki",
+            "href": "https://github.com/versionone/VersionOne.SDK.NET.ObjectModel/wiki"
+        },
+        {
+            "type": "source",
+            "title": "GithHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.SDK.NET.ObjectModel"
+        },
+        {
+            "type": "license",
+            "title": "Modified BSD (3 clause) License",
+            "href": "https://github.com/versionone/VersionOne.SDK.NET.ObjectModel/blob/master/LICENSE.md"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-08-06T00:00:00.000Z",
+                "description": "Summer 2013",
+                "version": "13.0.0.815",
+                "releaseNotes": "Changed: Conversation and Expression assets reflect changes in core API.",
+                "qualityBand": "mature"
+            },
+            {
+                "date": "2013-01-15T00:00:00.000Z",
+                "description": "Winter 2013",
+                "version": "12.3.211.0",
+                "releaseNotes": "Doc and testing updates.",
+                "qualityBand": "mature"
+            },
+            {
+                "date": "2013-08-06T00:00:00.000Z",
+                "description": "Summer 2013",
+                "version": "12.3.145.0",
+                "releaseNotes": "Move distribution to NuGet.",
+                "qualityBand": "mature"
+            }
+        ],
+        "qualityBands": {
+            "seed": {
+                "shortDescription": "The initial idea of a product. No working code.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#seed"
+            },
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#sapling"
+            },
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/V1TFS/blob/master/CONTRIBUTING.md#mature"
+            }
+        }
+    }
+}
