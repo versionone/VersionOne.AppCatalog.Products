@@ -50,8 +50,7 @@
                 "date": "2015-04-23T00:00:00.000Z",
                 "description": "Spring 2015",
                 "version": "Deprecated",
-                "releaseNotes": " * See [VersionOne Java SDK](http://appcatalog.versionone.com/VersionOne.SDK.Java.APIClient)",
-                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.JavaSDK-12.0.zip"
+                "releaseNotes": " * See [VersionOne Java SDK](http://appcatalog.versionone.com/VersionOne.SDK.Java.APIClient)"
             },		
             {
                 "date": "2012-05-31T00:00:00.000Z",
