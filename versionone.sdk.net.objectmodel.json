@@ -47,6 +47,12 @@
     "updatesSection": {
         "updates": [
             {
+                "date": "2015-04-23T00:00:00.000Z",
+                "description": "Spring 2015",
+                "version": "Deprecated",
+                "releaseNotes": " * See [VersionOne .NET SDK](http://appcatalog.versionone.com/VersionOne.SDK.NET.APIClient)"
+            },		
+            {
                 "date": "2013-08-06T00:00:00.000Z",
                 "description": "Summer 2013",
                 "version": "13.0.0.815",
