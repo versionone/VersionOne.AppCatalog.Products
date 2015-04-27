@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "**The VersionOne Java Object Model has been deprecated as of the Spring 2015 release of VersionOne and is no longer supported by VersionOne. It is now open-sourced and supported by the development community. Please see [VersionOne Java SDK](http://appcatalog.versionone.com/VersionOne.SDK.Java.APIClient) for an alternative API library.**"
+        "description": "The VersionOne Java Object Model has been deprecated as of the Spring 2015 release of VersionOne and is no longer supported by VersionOne. It is now open-sourced and supported by the development community. Please see [VersionOne Java SDK](http://appcatalog.versionone.com/VersionOne.SDK.Java.APIClient) for an alternative API library."
     },
     "linksSection": [
         {
