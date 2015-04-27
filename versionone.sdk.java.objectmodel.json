@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "**The VersionOne Java Object Model has been deprecated as of the Spring 2015 release of VersionOne and is no longer supported by VersionOne. However it is now open-sourced and supported by the development community. Please see [VersionOne Java SDK](http://appcatalog.versionone.com/VersionOne.SDK.Java.APIClient) for an alternative API library.**\n\nFor developers who have an itch that VersionOne doesn't scratch, the VersionOne SDK.Java is a free, community-driven, open-source toolkit written in Java that accelerates software development of tools that tailor VersionOne to better fit with new practices and other tools. Unlike direct use of the REST API, the VersionOne SDK.Java provides a framework for application development on the JVM stack and tools to make development of those applications fast and easy. The framework and tools are driven from experience developing code to solve real problems."
+        "description": "**The VersionOne Java Object Model has been deprecated as of the Spring 2015 release of VersionOne and is no longer supported. It is now open-sourced and supported by the development community. Please see [VersionOne Java SDK](http://appcatalog.versionone.com/VersionOne.SDK.Java.APIClient) for an alternative API library.**\n\nFor developers who have an itch that VersionOne doesn't scratch, the VersionOne SDK.Java is a free, community-driven, open-source toolkit written in Java that accelerates software development of tools that tailor VersionOne to better fit with new practices and other tools. Unlike direct use of the REST API, the VersionOne SDK.Java provides a framework for application development on the JVM stack and tools to make development of those applications fast and easy. The framework and tools are driven from experience developing code to solve real problems."
     },
     "linksSection": [
         {
@@ -51,7 +51,7 @@
                 "description": "Spring 2015",
                 "version": "Deprecated",
                 "releaseNotes": " * See [VersionOne Java SDK](http://appcatalog.versionone.com/VersionOne.SDK.Java.APIClient)",
-                "qualityBand": "mature",
+                "qualityBand": "",
                 "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.JavaSDK-12.0.zip"
             },		
             {
