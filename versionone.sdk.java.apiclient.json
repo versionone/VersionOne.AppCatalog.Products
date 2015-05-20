@@ -19,9 +19,14 @@
             "href": "http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22VersionOne.SDK.Java.APIClient%22"
         },
         {
+            "type": "download",
+            "title": "Java SDK as downloadable ZIP",
+            "href": ""
+        },		
+        {
             "type": "documentation",
-            "title": "Documentation",
-            "href": "https://github.com/versionone/VersionOne.SDK.Java.APIClient/blob/master/README.md"
+            "title": "Documentation with Code Samples",
+            "href": "https://community.versionone.com/Developers/Developer-Library/Documentation/Java_SDK"
         },
         {
             "type": "documentation",
@@ -42,6 +47,14 @@
     "updatesSection": {
         "updates": [
 		    {
+                "date": "2015-22-05T00:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "15.0.0.0",
+                "releaseNotes": " * Added V1Connector class\n * Deprecated all other connector classes\n * Added support for access tokens\n * Added MetaModel to Services class\n * Added support for Localization API\n * Added support for Query API\n * Updated: Recompiled and tested with JVM 1.8\n * Moved documentation to VersionOne Developer Library",
+                "qualityBand": "mature",
+                "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-15.0.0.zip"
+            },
+			{
                 "date": "2014-12-06T00:00:00.000Z",
                 "description": "Fall 2014",
                 "version": "13.0.0.2",
