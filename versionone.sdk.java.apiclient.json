@@ -47,7 +47,7 @@
     "updatesSection": {
         "updates": [
 		    {
-                "date": "2015-22-05T00:00:00.000Z",
+                "date": "2015-05-22T00:00:00.000Z",
                 "description": "Summer 2015",
                 "version": "15.0.0.0",
                 "releaseNotes": " * Added V1Connector class\n * Deprecated all other connector classes\n * Added support for access tokens\n * Added MetaModel to Services class\n * Added support for Localization API\n * Added support for Query API\n * Updated: Recompiled and tested with JVM 1.8\n * Moved documentation to VersionOne Developer Library",
