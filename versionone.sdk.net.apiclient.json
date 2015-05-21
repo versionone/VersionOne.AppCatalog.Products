@@ -1,7 +1,7 @@
 {
     "id": "VersionOne.SDK.NET.APIClient",
     "titleSection": {
-        "name": "VersionOne .NET.SDK",
+        "name": "VersionOne .NET SDK",
         "shortDescription": "A library for .NET development with the VersionOne REST API.",
         "pricing": "Free",
         "support": {
@@ -10,28 +10,23 @@
         }
     },
     "descriptionSection": {
-        "description": "The APIClient provides access to the Core API without concern for the underlying RESTful API or the HTTP/XML plumbing. Through the APIClient, developers can query for simple or complex sets of information, update the information, and execute system-defined operations. The APIClient is best suited for course-grained and bulk access."
+        "description": "The VersionOne .NET SDK is a free and open-source library that accelerates software development of applications that integrate with VersionOne. The SDK serves as a wrapper to the VersionOne REST API, eliminating the need to code the infrastructure necessary for direct handling of HTTP requests and responses."
     },
     "linksSection": [
         {
             "type": "download",
-            "title": "Stable library in the NuGet Gallery",
+            "title": ".NET SDK in NuGet Gallery",
             "href": "http://nuget.org/packages/VersionOne.SDK.APIClient"
         },
         {
             "type": "download",
-            "title": "Continuous Integration library in the VersionOne MyGet Gallery",
-            "href": "https://www.myget.org/gallery/versionone"
-        },
+            "title": ".NET SDK as downloadable ZIP",
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.0.0.0-RELEASE.zip"
+        },			
         {
             "type": "documentation",
-            "title": "README",
-            "href": "https://github.com/versionone/VersionOne.SDK.NET.APIClient/blob/master/README.md"
-        },
-        {
-            "type": "documentation",
-            "title": "Wiki",
-            "href": "https://github.com/versionone/VersionOne.SDK.NET.APIClient/wiki"
+            "title": "Documentation with Code Samples",
+            "href": "https://community.versionone.com/Developers/Developer-Library/Documentation/.NET_SDK"
         },
         {
             "type": "source",
@@ -46,7 +41,14 @@
     ],
     "updatesSection": {
         "updates": [
-            {
+		    {
+                "date": "2015-05-22T00:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "15.0.0.0",
+                "releaseNotes": " * Added V1Connector class \n * Deprecated all other connector classes \n * Added support for access tokens \n * Added MetaModel to Services class \n * Added support for Localization API \n * Added support for Query API \n * Recompiled and tested with .NET Framework 4.5.1\n * Moved documentation to VersionOne Developer Library",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.0.0.0-RELEASE.zip"
+            },			{
                 "date": "2014-03-26T00:00:00.000Z",
                 "description": "Spring 2014",
                 "version": "14.1.1.274",
