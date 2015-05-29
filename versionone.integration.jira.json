@@ -1,7 +1,7 @@
 {
     "id": "VersionOne.Integration.JIRA",
     "titleSection": {
-        "name": "VersionOne Integration for JIRA",
+        "name": "VersionOne IssueSync for JIRA",
         "shortDescription": "Triage defects and include them in the planning process to balance new work and maintenance.",
         "pricing": "Free",
         "support": {
@@ -10,13 +10,13 @@
         }
     },
     "descriptionSection": {
-        "description": "VersionOne Integration for JIRA creates defects in VersionOne based on issues in JIRA. Using this integration your organization can manage and triage issues reported by customers and promote them to VersionOne once you determine a fix is necessary."
+        "description": "VersionOne IssueSync for JIRA creates defects in VersionOne based on issues in JIRA. Using this integration your organization can manage and triage issues reported by customers and promote them to VersionOne once you determine a fix is necessary."
     },
     "linksSection": [
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/V1JiraIntegration.8.3.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_8.4.0.0_RELEASE.zip"
         },
         {
             "type": "documentation",
@@ -37,9 +37,17 @@
     "updatesSection": {
         "updates": [
             {
+                "date": "2015-05-30T00:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "8.4.0.0",
+                "releaseNotes": " * Added: Support for JIRA 6. \n * Added: Support for VersionOne Access Tokens. \n * Updated: Switched from XML-RPC to REST API for JIRA access. \n * Updated: Now targets .NET Framework 4.5.1.",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_8.4.0.0_RELEASE.zip"
+            },
+			{
                 "date": "2012-08-31T00:00:00.000Z",
                 "description": "Summer 2012",
-                "version": "8.3",
+                "version": "8.3.0.0",
                 "releaseNotes": " * Added: Support for JIRA 5.1. \n * Added: Logging ServiceHost Diagnostics on startup. \n * Added: Logging VersionOne Connection Diagnostics on startup.",
                 "qualityBand": "mature",
                 "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/V1JiraIntegration.8.3.zip"
