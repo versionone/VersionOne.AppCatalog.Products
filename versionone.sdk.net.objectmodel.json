@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne .NET Object Model has been deprecated as of the Spring 2015 release of VersionOne and is no longer supported by VersionOne. It is now open-sourced and supported by the development community. Please see [VersionOne .NET SDK](http://appcatalog.versionone.com/VersionOne.SDK.NET.APIClient) for an alternative API library."
+        "description": "**The VersionOne .NET Object Model has been deprecated as of the Spring 2015 release of VersionOne and is no longer supported by VersionOne.**\n\nIt is now open-sourced and supported by the development community.\n\nPlease see [VersionOne .NET SDK](http://appcatalog.versionone.com/VersionOne.SDK.NET.APIClient) for an alternative API library."
     },
     "linksSection": [
         {
