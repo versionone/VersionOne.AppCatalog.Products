@@ -16,7 +16,7 @@
     {
       "type": "download",
       "title": "Download Latest Stable Build",
-      "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.2.0.zip"
+      "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.3.0.zip"
     },
     {
       "type": "documentation",
@@ -37,6 +37,14 @@
   "updatesSection": {
     "updates": [
       {
+        "date": "2015-06-05T00:00:00.000Z",
+        "description": "Spring 2015",
+        "version": "8.4.3",
+        "releaseNotes": " * Fixed: Config tool exception when switching to Bugzilla configurations",
+        "qualityBand": "mature",
+        "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.3.0.zip"
+      },
+	  {
         "date": "2015-04-18T00:00:00.000Z",
         "description": "Spring 2015",
         "version": "8.4.2",
