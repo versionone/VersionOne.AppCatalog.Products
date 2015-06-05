@@ -5,34 +5,55 @@
         "shortDescription": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source",
+            "href": "https://github.com/versionone/VersionOne.Integration.TestComplete"
         }
     },
     "descriptionSection": {
-        "description": "This package includes the TestComplete Integration binaries and documentation for installation, configuration and usage. This integration was last tested against TestComplete 7.0. Since then, the TestComplete's interface to tests has changed from file-based access to an SDK. Therefore the effort to update this integration is similar to a rewrite. Balancing the cost against limited demand, we cannot justify the effort and have decided to sunset this integration. Source code will remain available so customers may apply their own development efforts or hire VersionOne services as a custom development engagement. Similar to QTP/QC, customers can make use of integration between TestComplete and ALMComplete/QAComplete, then from ALMComplete/QAComplete to VersionOne, via OpsHub Integration Manager. For more information see: http://www.opshub.com/main/index.php/alm-systems/smartbear"
+        "description": "**This integration has been sunset as of the Spring 2014 release of VersionOne.**\n\nThis integration was last tested against TestComplete 7.0. Since then, TestComplete's interface to tests has changed from file-based access to an SDK. Therefore the effort to update this integration is similar to a rewrite. Balancing the cost against limited demand, we cannot justify the effort and have decided to sunset this integration. Source code will remain available so customers may apply their own development efforts or hire VersionOne Services as a custom development engagement. Similar to QTP/QC, customers can make use of integration between TestComplete and ALMComplete/QAComplete, then from ALMComplete/QAComplete to VersionOne, via OpsHub Integration Manager. For more information see: http://www.opshub.com/main/index.php/alm-systems/smartbear"
     },
     "linksSection": [
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1TestCompleteIntegration.9.0.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/V1TestCompleteIntegration.9.0.zip"
         },
         {
             "type": "documentation",
             "title": "Documentation",
             "href": "http://versionone.github.io/VersionOne.Integration.TestComplete/"
-        }
+        },
+        {
+            "type": "documentation",
+            "title": "README",
+            "href": "https://github.com/versionone/VersionOne.Integration.TestComplete/blob/master/README.md"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.TestComplete"
+        },
+        {
+            "type": "license",
+            "title": "Modified BSD (3 clause) License",
+            "href": "https://github.com/versionone/VersionOne.Integration.TestComplete/blob/master/LICENSE.md"
+        }		
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-06-06T12:00:00.000Z",
+                "description": "Spring 2014",
+                "version": "Deprecated",
+                "releaseNotes": ""
+            },		
             {
                 "date": "2011-07-01T00:00:00.000Z",
                 "description": "Summer 2011",
                 "version": "1462",
                 "releaseNotes": " * Added: Support for connecting to VersionOne through a proxy. \n * Added: Configuration Utility contains help on the various configuration options to enable quicker setup and configuration. \n * Added: Configuration Utility supports a minimum poll interval of one minute for testing. It is not recommended that poll intervals remain this low in a production instance. \n * Update: Source code project was dependent on .NET 3.5. Now source code project depends on the latest .NET SDK. \n * Updated: Integration depends on Log4Net \n * Updated: Poll time interval defaults to 30 minutes \n * Fixed: Configuration Utility allows editing of the VersionOne credential fields when Windows Integrated Authentication is enabled. This enables configuring the integrations to connect to VersionOne as a user other than the local service account when the VersionOne instance is configured for Windows integrated authentication.",
                 "qualityBand": "mature",
-                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1TestCompleteIntegration.9.0.zip"
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/V1TestCompleteIntegration.9.0.zip"
             },
             {
                 "date": "2010-08-10T00:00:00.000Z",
