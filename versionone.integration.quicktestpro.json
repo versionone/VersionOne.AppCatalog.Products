@@ -5,34 +5,55 @@
         "shortDescription": "Imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source",
+            "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro"
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Integration for HP Quick Test Professional imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne. The results of an individual QTP test can be linked to a Test Artifact in VersionOne, so that development, and you organization, will receive quick feedback on which tests are passing and failing. VersionOne finds most customers who want integration with QuickTest Pro (QTP) also use HP Quality Center (QC). They use the integration between QTP and QC, then integrate QC with VersionOne. Therefore, customers have effective VersionOne and QTP integration via the existing V1QC integration. As such, there is not sufficient value in this integration to continue updating it against new versions of QTP and we have decided to sunset this integration. The last version of QTP that has been tested with the integration is QTP 10.0. Source code will remain available so customers may apply their own development efforts or hire VersionOne services as a custom development engagement."
+        "description": "**This integration was deprecated in the Spring 2014 release of VersionOne.**\n\nThe VersionOne Integration for HP Quick Test Professional imports the results of tests defined HP's Quick Test Professional (QTP) into VersionOne. The results of an individual QTP test can be linked to a Test Artifact in VersionOne, so that development, and you organization, will receive quick feedback on which tests are passing and failing. VersionOne finds most customers who want integration with QuickTest Pro (QTP) also use HP Quality Center (QC). They use the integration between QTP and QC, then integrate QC with VersionOne. Therefore, customers have effective VersionOne and QTP integration via the existing V1QC integration. As such, there is not sufficient value in this integration to continue updating it against new versions of QTP and we have decided to sunset this integration. The last version of QTP that has been tested with the integration is QTP 10.0. Source code will remain available so customers may apply their own development efforts or hire VersionOne services as a custom development engagement."
     },
     "linksSection": [
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1QTPIntegration.8.3.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/V1QTPIntegration.8.3.zip"
         },
         {
             "type": "documentation",
             "title": "Documentation",
             "href": "http://versionone.github.io/VersionOne.Integration.QuickTestPro/"
-        }
+        },
+        {
+            "type": "documentation",
+            "title": "README",
+            "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro/blob/master/README.md"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro"
+        },
+        {
+            "type": "license",
+            "title": "Modified BSD (3 clause) License",
+            "href": "https://github.com/versionone/VersionOne.Integration.QuickTestPro/blob/master/LICENSE.md"
+        }			
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2014-04-01T12:00:00.000Z",
+                "description": "Spring 2014",
+                "version": "Deprecated",
+                "releaseNotes": ""
+            },		
             {
                 "date": "2011-07-01T00:00:00.000Z",
                 "description": "Summer 2011",
                 "version": "1462",
                 "releaseNotes": " * Added: Support for connecting to VersionOne through a proxy. \n * Added: Configuration Utility contains help on the various configuration options to enable quicker setup and configuration. \n * Added: Configuration Utility supports a minimum poll interval of one minute for testing. It is not recommended that poll intervals remain this low in a production instance. \n * Update: Source code project was dependent on .NET 3.5. Now source code project depends on the latest .NET SDK. \n * Updated: Integration depends on Log4Net \n * Updated: Poll time interval defaults to 30 minutes \n * Fixed: Configuration Utility allows editing of the VersionOne credential fields when Windows Integrated Authentication is enabled. This enables configuring the integrations to connect to VersionOne as a user other than the local service account when the VersionOne instance is configured for Windows integrated authentication.",
                 "qualityBand": "mature",
-                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1QTPIntegration.8.3.zip"
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/V1QTPIntegration.8.3.zip"
             },
             {
                 "date": "2010-09-10T00:00:00.000Z",
