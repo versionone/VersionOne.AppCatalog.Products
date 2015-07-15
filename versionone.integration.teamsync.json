@@ -1,7 +1,7 @@
 {
     "id": "VersionOne.Integration.TeamSync",
     "titleSection": {
-        "name": "VersionOne TeamSync&trade;",
+        "name": "VersionOne TeamSync",
         "shortDescription": "Synchronize features, backlog workitems, estimates, and effort with external team level agile management tools.",
         "pricing": "Free",
         "support": {
