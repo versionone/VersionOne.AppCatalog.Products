@@ -1,0 +1,69 @@
+{
+    "id": "VersionOne.Integration.TeamSync",
+    "titleSection": {
+        "name": "VersionOne TeamSync",
+        "shortDescription": "Synchronize backlog workitems and effort with other agile project management tools.",
+        "pricing": "Free",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "VersionOne TeamSync is an integration that provides portfolio and program leaders with visibility into the work that their teams are doing without disrupting the teams' current agile processes. TeamSync is designed from the ground up to allow VersionOne to coexist with other agile team tools while providing accurate and near-time rollup of the features that the agile teams are working on, including their backlog workitems, estimates, statuses, and effort. \n Using TeamSync, organizations can effectively plan their product releases and features in VersionOne, elaborate those features into backlog workitems in their external team tool, then as the team executes those backlogs items within their team tool, rollup the status and effort on those workitems as the teams progress through their agile iterations."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.TeamSync_1.0_RELEASE.zip"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "https://community.versionone.com/01Staging_Area/Acey-Staging/TeamSync"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2015-07-22T00:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "1.0",
+                "releaseNotes": " * Initial release with JIRA connector.",
+                "qualityBand": "sapling",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.TeamSync_1.0_RELEASE.zip"
+            }
+        ],
+        "qualityBands": {
+            "seed": {
+                "shortDescription": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#seed"
+            },
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#sapling"
+            },
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.JIRA/blob/master/CONTRIBUTING.md#mature"
+            }
+        }
+    },
+    "mediaSection": [
+        {
+            "title": "Configuring TeamSync",
+            "caption": "Install and configure TeamSync",
+            "mimetype": "video/x-flv",
+            "href": "http://www.versionone.tv.s3.amazonaws.com/JIRA/JIRA.flv",
+            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        },
+        {
+            "title": "Using TeamSync",
+            "caption": "Use TeamSync for team tool synchronization",
+            "mimetype": "video/x-flv",
+            "href": "http://www.versionone.tv.s3.amazonaws.com/JIRAConfigurationIntegration/JIRAConfigurationIntegration.flv",
+            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+        }
+    ]
+}
