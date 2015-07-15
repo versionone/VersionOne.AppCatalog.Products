@@ -50,7 +50,7 @@
                 "date": "2015-07-16T00:00:00.000Z",
                 "description": "Summer 2015",
                 "version": "15.1.0",
-                "releaseNotes": "* Added V1Connector.UseOAuthEndpoints method\n * Deprecated V1Connector.UseEndpoint method\n * Added SaveAttachment/GetAttachment methods to Services class\n * Added SaveEmbeddedImage/GetEmbeddedImage methods to Services class\n * Deprecated IAttachments interface and Attachments class",
+                "releaseNotes": " * Added V1Connector.UseOAuthEndpoints method\n * Deprecated V1Connector.UseEndpoint method\n * Added SaveAttachment/GetAttachment methods to Services class\n * Added SaveEmbeddedImage/GetEmbeddedImage methods to Services class\n * Deprecated IAttachments interface and Attachments class",
                 "qualityBand": "mature",
                 "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-15.1.0.zip"
             },
