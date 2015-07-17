@@ -5,12 +5,12 @@
         "shortDescription": "Triage defects and include them in the planning process to balance new work and maintenance.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source",
+            "href": "https://github.com/versionone/VersionOne.Integration.ClearQuest"
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Integration for ClearQuest allows you to triage defects and include them in the planning process to balance new work and maintenance. Leverage existing automated workflows and defect reporting, while adding the practice of agile project management. This integration creates defects in VersionOne based on defects in ClearQuest. Using this integration your organization can manage and triage defects reported by customers and promote them to VersionOne once you determine a fix is necessary. Once the integraion is installed and configured, ClearQuest users can assign defects to VersionOne and they appear as Defects in the VersionOne repository. When the VersionOne defect is closed, the integration updates the ClearQuest repository to relfect this change."
+        "description": "**This integration was deprecated in the Summer 2015 release of VersionOne.**\n\nThe VersionOne Integration for ClearQuest allows you to triage defects and include them in the planning process to balance new work and maintenance. Leverage existing automated workflows and defect reporting, while adding the practice of agile project management. This integration creates defects in VersionOne based on defects in ClearQuest. Using this integration your organization can manage and triage defects reported by customers and promote them to VersionOne once you determine a fix is necessary. Once the integraion is installed and configured, ClearQuest users can assign defects to VersionOne and they appear as Defects in the VersionOne repository. When the VersionOne defect is closed, the integration updates the ClearQuest repository to relfect this change."
     },
     "linksSection": [
         {
@@ -22,11 +22,32 @@
             "type": "documentation",
             "title": "Documentation",
             "href": "http://versionone.github.io/VersionOne.Integration.ClearQuest/"
-        }
+        },
+        {
+            "type": "documentation",
+            "title": "README",
+            "href": "https://github.com/versionone/VersionOne.Integration.ClearQuest/blob/master/README.md"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.ClearQuest"
+        },
+        {
+            "type": "license",
+            "title": "Modified BSD (3 clause) License",
+            "href": "https://github.com/versionone/VersionOne.Integration.ClearQuest/blob/master/LICENSE.md"
+        }		
     ],
     "updatesSection": {
         "updates": [
             {
+                "date": "2015-07-17T12:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "Deprecated",
+                "releaseNotes": ""
+            },            
+			{
                 "date": "2012-03-06T00:00:00.000Z",
                 "description": "Spring 2012",
                 "version": "1993",
