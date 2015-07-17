@@ -5,12 +5,12 @@
         "shortDescription": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source",
+            "href": "https://github.com/versionone/VersionOne.Integration.FitNesse"
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Integration for FitNesse imports FitNesse test results into VersionOne, making the latest test results more visible across the an organization. The results can be recorded at two different levels of granularity—project and test. The aggregate results for a suite of tests in FitNesse can be linked to a project in VersionOne, so that everyone can see the health of their project from a testing standpoint from within VersionOne. The results of an individual FitNesse acceptance test can be linked to a Test in VersionOne, so that development team members receive quick feedback on which tests are passing and failing."
+        "description": "**This integration was deprecated in the Summer 2015 release of VersionOne.**\n\nThe VersionOne Integration for FitNesse imports FitNesse test results into VersionOne, making the latest test results more visible across the an organization. The results can be recorded at two different levels of granularity—project and test. The aggregate results for a suite of tests in FitNesse can be linked to a project in VersionOne, so that everyone can see the health of their project from a testing standpoint from within VersionOne. The results of an individual FitNesse acceptance test can be linked to a Test in VersionOne, so that development team members receive quick feedback on which tests are passing and failing."
     },
     "linksSection": [
         {
@@ -22,10 +22,31 @@
             "type": "documentation",
             "title": "Documentation",
             "href": "http://versionone.github.io/VersionOne.Integration.FitNesse/"
-        }
+        },
+        {
+            "type": "documentation",
+            "title": "README",
+            "href": "https://github.com/versionone/VersionOne.Integration.FitNesse/blob/master/README.md"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.FitNesse"
+        },
+        {
+            "type": "license",
+            "title": "Modified BSD (3 clause) License",
+            "href": "https://github.com/versionone/VersionOne.Integration.FitNesse/blob/master/LICENSE.md"
+        }			
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-07-17T12:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "Deprecated",
+                "releaseNotes": ""
+            },  		
             {
                 "date": "2012-05-15T00:00:00.000Z",
                 "description": "Spring 2012",
