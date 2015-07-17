@@ -1,7 +1,7 @@
 {
     "id": "VersionOne.Integration.FitNesse",
     "titleSection": {
-        "name": "VersionOne Integration for FitNesse",
+        "name": "VersionOne Integration for Fitnesse",
         "shortDescription": "Monitor the quality of your projects more easily by making the latest test results visible in VersionOne.",
         "pricing": "Free",
         "support": {
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "**This integration was deprecated in the Summer 2015 release of VersionOne.**\n\nThe VersionOne Integration for FitNesse imports FitNesse test results into VersionOne, making the latest test results more visible across the an organization. The results can be recorded at two different levels of granularity—project and test. The aggregate results for a suite of tests in FitNesse can be linked to a project in VersionOne, so that everyone can see the health of their project from a testing standpoint from within VersionOne. The results of an individual FitNesse acceptance test can be linked to a Test in VersionOne, so that development team members receive quick feedback on which tests are passing and failing."
+        "description": "**This integration was deprecated in the Summer 2015 release of VersionOne.**\n\nThe VersionOne Integration for Fitnesse imports Fitnesse test results into VersionOne, making the latest test results more visible across the an organization. The results can be recorded at two different levels of granularity—project and test. The aggregate results for a suite of tests in Fitnesse can be linked to a project in VersionOne, so that everyone can see the health of their project from a testing standpoint from within VersionOne. The results of an individual Fitnesse acceptance test can be linked to a Test in VersionOne, so that development team members receive quick feedback on which tests are passing and failing."
     },
     "linksSection": [
         {
