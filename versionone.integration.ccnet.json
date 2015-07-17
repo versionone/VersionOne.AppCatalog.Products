@@ -5,12 +5,12 @@
         "shortDescription": "Link agile workitems to tangible, working software in the form of builds from CruiseControl.NET.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source",
+            "href": "https://github.com/versionone/VersionOne.Integration.CCNet"
         }
     },
     "descriptionSection": {
-        "description": "Link agile workitems to tangible, working software in the form of builds. This enables teams to measure progress in terms of working software and to identify problems sooner. This publisher creates a record of CruiseControl.NET builds in VersionOne, so the development teams can quickly view builds associated with a story or defect. This visibility is useful when identifying what build to use for verification or when generating release notes. "
+        "description": "**This integration was deprecated in the Summer 2015 release of VersionOne.**\n\nLink agile workitems to tangible, working software in the form of builds. This enables teams to measure progress in terms of working software and to identify problems sooner. This publisher creates a record of CruiseControl.NET builds in VersionOne, so the development teams can quickly view builds associated with a story or defect. This visibility is useful when identifying what build to use for verification or when generating release notes. "
     },
     "linksSection": [
         {
@@ -41,6 +41,12 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-07-17T12:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "Deprecated",
+                "releaseNotes": ""
+            },		
             {
                 "date": "2013-07-24T17:00:00.000Z",
                 "description": "Summer 2013",
