@@ -5,12 +5,12 @@
         "shortDescription": "Link agile workitems to tangible, working software in the form of builds in CruiseControl.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source",
+            "href": "https://github.com/versionone/VersionOne.Integration.CruiseControl"
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne CruiseControl publisher creates a record of CruiseControl builds in VersionOne, so the development teams can quickly view builds associated with a story or defects. This visibility is useful when identifying what build to use for verification or when generating release notes."
+        "description": "**This integration was deprecated in the Summer 2015 release of VersionOne.**\n\nThe VersionOne CruiseControl publisher creates a record of CruiseControl builds in VersionOne, so the development teams can quickly view builds associated with a story or defects. This visibility is useful when identifying what build to use for verification or when generating release notes."
     },
     "linksSection": [
         {
@@ -26,21 +26,27 @@
         {
             "type": "documentation",
             "title": "README",
-            "href": "https://github.com/versionone/VersionOne.Integration.Jenkins/blob/master/README.md"
+            "href": "https://github.com/versionone/VersionOne.Integration.CruiseControl/blob/master/README.md"
         },
         {
             "type": "source",
             "title": "GitHub Project for Source Code and Issues",
-            "href": "https://github.com/versionone/VersionOne.Integration.Jenkins"
+            "href": "https://github.com/versionone/VersionOne.Integration.CruiseControl"
         },
         {
             "type": "license",
             "title": "Modified BSD (3 clause) License",
-            "href": "https://github.com/versionone/VersionOne.Integration.Jenkins/blob/master/LICENSE.md"
+            "href": "https://github.com/versionone/VersionOne.Integration.CruiseControl/blob/master/LICENSE.md"
         }
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-07-17T12:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "Deprecated",
+                "releaseNotes": ""
+            },  		
             {
                 "date": "2011-07-01T00:00:00.000Z",
                 "description": "Summer 2011",
