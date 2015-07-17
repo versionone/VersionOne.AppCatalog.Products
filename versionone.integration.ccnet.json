@@ -1,0 +1,86 @@
+{
+    "id": "VersionOne.Integration.CCNet",
+    "titleSection": {
+        "name": "VersionOne Integration for CruiseControl.NET",
+        "shortDescription": "Link agile workitems to tangible, working software in the form of builds from CruiseControl.NET.",
+        "pricing": "Free",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "Link agile workitems to tangible, working software in the form of builds. This enables teams to measure progress in terms of working software and to identify problems sooner. This publisher creates a record of CruiseControl.NET builds in VersionOne, so the development teams can quickly view builds associated with a story or defect. This visibility is useful when identifying what build to use for verification or when generating release notes. "
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/ccnet.VersionOnePublisher.plugin16-8.1.zip"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://versionone.github.io/VersionOne.Integration.CCNet/"
+        },
+        {
+            "type": "documentation",
+            "title": "README",
+            "href": "https://github.com/versionone/VersionOne.Integration.CCNet/blob/master/README.md"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.CCNet"
+        },
+        {
+            "type": "license",
+            "title": "Modified BSD (3 clause) License",
+            "href": "https://github.com/versionone/VersionOne.Integration.CCNet/blob/master/LICENSE.md"
+        }        
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-07-24T17:00:00.000Z",
+                "description": "Summer 2013",
+                "version": "9.0.0.50",
+                "releaseNotes": "Updated VersionOne SDK libraries.",
+                "qualityBand": "mature",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Integration.CCNet_9.0.0.50.zip"
+            },
+            {
+                "date": "2011-07-01T00:00:00.000Z",
+                "description": "Summer 2011",
+                "version": "8.1.0.47",
+                "releaseNotes": " * Added: Support for connecting to VersionOne through a proxy.\n * Added: Support for CruiseControl.NET 1.6.",
+                "qualityBand": "mature",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/ccnet.VersionOnePublisher.plugin16-8.1.zip"
+            },
+            {
+                "date": "2009-05-27T00:00:00.000Z",
+                "description": "Summer 2009",
+                "version": "31",
+                "releaseNotes": "Verified against 1.4.3.4023",
+                "qualityBand": "mature",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/ccnet.VersionOnePublisher.plugin-8.1.zip"
+            }
+        ],
+        "qualityBands": {
+            "seed": {
+                "shortDescription": "The initial idea of a product. May not be stable code.",
+                "href": "https://github.com/versionone/VersionOne.Integration.CCNet/blob/master/CONTRIBUTING.md#seed"
+            },
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.CCNet/blob/master/CONTRIBUTING.md#sapling"
+            },
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/VersionOne.Integration.CCNet/blob/master/CONTRIBUTING.md#mature"
+            }
+        }
+    },
+    "mediaSection": [
+    ]
+}
