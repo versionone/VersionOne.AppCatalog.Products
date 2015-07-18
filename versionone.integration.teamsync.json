@@ -29,8 +29,8 @@
             {
                 "date": "2015-07-22T00:00:00.000Z",
                 "description": "Summer 2015",
-                "version": "1.0",
-                "releaseNotes": " * Initial release with JIRA connector.",
+                "version": "1.0.0.0",
+                "releaseNotes": " * Initial release with JIRA 6 connector.",
                 "qualityBand": "sapling",
                 "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0-RELEASE.msi"
             }
