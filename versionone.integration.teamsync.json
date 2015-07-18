@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.TeamSync_1.0_RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0-RELEASE.msi"
         },
         {
             "type": "documentation",
@@ -32,7 +32,7 @@
                 "version": "1.0",
                 "releaseNotes": " * Initial release with JIRA connector.",
                 "qualityBand": "sapling",
-                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.TeamSync_1.0_RELEASE.zip"
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0-RELEASE.msi"
             }
         ],
         "qualityBands": {
