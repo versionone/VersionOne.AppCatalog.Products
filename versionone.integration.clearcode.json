@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The ClearCode integration for VersionOne automatically associates commit data with VersionOne workitems based on ClearCode's pipeline execution. It additionally modifies workitem status automatically upon pipeline execution in ClearCode.\n\n## Benefits\n\n * Allows ClearCode users to quickly find which VersionOne workitems are deployed to a specific environment\n * Allows VersionOne users to use built-in reports t o show completed stories, fixed defects, and new defects within any given environment\n * Informs VersionOne users when to test stories by automatically changing their status\n * Allows VersionOne users to quickly find when a specific feature is fully deployed to an environment\n * Compatible with Version One Hosted and On-Premise"
+        "description": "The ClearCode integration for VersionOne automatically associates commit data with VersionOne workitems based on ClearCode's pipeline execution. It additionally modifies workitem status automatically upon pipeline execution in ClearCode.\n Benefits\n\n * Allows ClearCode users to quickly find which VersionOne workitems are deployed to a specific environment\n * Allows VersionOne users to use built-in reports t o show completed stories, fixed defects, and new defects within any given environment\n * Informs VersionOne users when to test stories by automatically changing their status\n * Allows VersionOne users to quickly find when a specific feature is fully deployed to an environment\n * Compatible with Version One Hosted and On-Premise"
     },
     "linksSection": [
         {
