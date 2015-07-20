@@ -16,7 +16,11 @@
         {
             "type": "hyperlink",
             "title": "About ClearCode",
-            "href": "http://www.clearcodelabs.com"
+            "href": "http://www.clearcodelabs.com",
+
+            "type": "hyperlink",
+            "title": "ClearCode Docs: VersionOne Integration",
+            "href": "http://docs.clearcodelabs.com/docs/start/?gettingstarted/versionone.html"
         }
     ],
     "updatesSection": {
