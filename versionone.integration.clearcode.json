@@ -1,0 +1,37 @@
+{
+    "id": "VersionOne.Integration.ClearCode",
+    "titleSection": {
+        "name": "QASymphony qTest Integration for VersionOne",
+        "shortDescription": "Create new defects and trace defects back to executed test runs.",
+        "pricing": "Free with any qTest subscription",
+        "support": {
+            "text": "QASymphony",
+            "href": "http://www.qasymphony.com/"
+        }
+    },
+    "descriptionSection": {
+        "description": "The qTest integration for VersionOne is a test management solution that allows you to manage your manual, exploratory, and automated testing in a single location, providing a complete view of your testing coverage and progress.\n\n## Benefits\n\n * Is simple to set up – get integrated in 15 minutes or less\n * Allows qTest users to submit Defects directly from qTest to VersionOne\n * Retrieves Stories from VersionOne into qTest\n * Provides a full circle of traceability from VersionOne Stories -> qTest test case -> qTest test run -> VersionOne Defect with links from VersionOne objects -> linked qTest objects\n * Accommodates customized fields on VersionOne Stories and Defects\n * Compatible with Version One Hosted and On-Premise"
+    },
+    "linksSection": [
+        {
+            "type": "hyperlink",
+            "title": "About qTest",
+            "href": "http://www.qasymphony.com/qtest.html"
+        }
+    ],
+    "updatesSection": {
+        "updates": [
+		    {
+                "date": "2014-10-16T00:00:00.000Z",
+                "description": "Fall 2014",
+                "version": "2014",
+                "qualityBand": "commercial"
+            }
+        ],
+        "qualityBands": {
+            "commercial": {
+                "shortDescription": "The product is stable and supported."
+            }
+        }
+    }
+}
