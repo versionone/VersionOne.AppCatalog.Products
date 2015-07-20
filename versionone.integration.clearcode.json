@@ -2,7 +2,7 @@
     "id": "VersionOne.Integration.ClearCode",
     "titleSection": {
         "name": "VersionOne Integration for ClearCode",
-        "shortDescription": "Seamlessly connect VersionOne Epics, Stories, and Defects with ClearCode's software delivery orchestration capabilities.  Initiate automated processes easily by changing an item's status in VersionOne.  Dynamically move items across storyboards in VersionOne with automation.  Track any work item through the phases of Development, Testing and Release, including detailed automation logs, and even which Environments contain which work items.",
+        "shortDescription": "Automatically associate workitems with commits and modify workitem status in VersionOne based on pipeline execution in ClearCode.",
         "pricing": "Free with ClearCode subscription",
         "support": {
             "text": "ClearCode",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The ClearCode integration for VersionOne automatically interfaces with multiple source code repositories, associating all commit data with VersionOne workitems.  Source code commits as well as other defined triggers can initiate ClearCode software delivery pipeline execution or other automation. Additionally, workitem status can be automatically updated by automation in ClearCode.\n\n## Benefits\n\n * Allows ClearCode users to quickly find which VersionOne workitems are deployed to a specific environment\n * Allows VersionOne users to use built-in reports t o show completed stories, fixed defects, and new defects within any given environment\n * Informs VersionOne users when to test stories by automatically changing their status\n * Allows VersionOne users to quickly find when a specific feature is fully deployed to an environment\n * Compatible with Version One Hosted and On-Premise"
+        "description": "Seamlessly connect VersionOne Epics, Stories, and Defects with ClearCode's software delivery orchestration capabilities./n The ClearCode integration for VersionOne allows users to initiate automated processes easily by changing an item's status in VersionOne. Dynamically move items across storyboards in VersionOne with automation.  Track any work item through the phases of Development, Testing and Release, including detailed automation logs, and even which Environments contain which work items./n The ClearCode integration for VersionOne automatically interfaces with multiple source code repositories, associating all commit data with VersionOne workitems. Additionally, workitem status can be automatically updated by automation in ClearCode.\n\n## Benefits\n\n * Allows ClearCode users to quickly find which VersionOne workitems are deployed to a specific environment\n * Allows VersionOne users to use built-in reports t o show completed stories, fixed defects, and new defects within any given environment\n * Informs VersionOne users when to test stories by automatically changing their status\n * Allows VersionOne users to quickly find when a specific feature is fully deployed to an environment\n * Compatible with Version One Hosted and On-Premise"
     },
     "linksSection": [
         {
