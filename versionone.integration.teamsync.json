@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0-RELEASE.msi"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0.msi"
         },
         {
             "type": "documentation",
@@ -32,7 +32,7 @@
                 "version": "1.0.0.0",
                 "releaseNotes": " * Initial release with JIRA 6 connector.",
                 "qualityBand": "sapling",
-                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0-RELEASE.msi"
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0.msi"
             }
         ],
         "qualityBands": {
@@ -52,7 +52,7 @@
     },
     "mediaSection": [
         {
-            "title": "Configuring TeamSync",
+            "title": "Installing and Configuring TeamSync",
             "caption": "Install and configure TeamSync",
             "mimetype": "video/x-flv",
             "href": "http://www.versionone.tv.s3.amazonaws.com/JIRA/JIRA.flv",
