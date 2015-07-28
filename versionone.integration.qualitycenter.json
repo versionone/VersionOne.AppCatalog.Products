@@ -1,8 +1,8 @@
 {
     "id": "VersionOne.Integration.QualityCenter",
     "titleSection": {
-        "name": "VersionOne Integration for HP Quality Center",
-        "shortDescription": "include acceptance tests from stories in test plans and triage defects for inclusion in agile planning",
+        "name": "VersionOne Integration for HP-ALM",
+        "shortDescription": "Include acceptance tests from stories in test plans and triage defects for inclusion in agile planning.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Integration for HP Quality Center provides a two-way flow of information for tests and defects. The flow of test data makes it possible to monitor the quality of your projects more easily by making the latest test results visible in VersionOne. Teams can leverage existing test plans and test reporting, while creating new tests based on current user stories/backlog items. This integration will send tests from VersionOne to Quality Center and update test pass/fail results from Quality Center to VersionOne. \n The flow of defect data makes it possible to triage defects and include them in the planning process to balance new work and maintenance. You can leverage existing automated workflows and defect reporting in HP Quality Center, while adding the practice of agile project management. This integration will send specified defects from Quality Center to VersionOne and update defect status from VersionOne to Quality Center."
+        "description": "The VersionOne Integration for HP-ALM provides a two-way flow of information for tests and defects. The flow of test data makes it possible to monitor the quality of your projects more easily by making the latest test results visible in VersionOne. Teams can leverage existing test plans and test reporting, while creating new tests based on current user stories/backlog items. This integration will send tests from VersionOne to HP-ALM and update test pass/fail results from HP-ALM to VersionOne. \n The flow of defect data makes it possible to triage defects and include them in the planning process to balance new work and maintenance. You can leverage existing automated workflows and defect reporting in HP-ALM, while adding the practice of agile project management. This integration will send specified defects from HP-ALM to VersionOne and update defect status from VersionOne to HP-ALM."
     },
     "linksSection": [
         {
@@ -21,17 +21,17 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://versionone.github.io/VersionOne.Integration.QualityCenter/index.html"
+            "href": "http://versionone.github.io/VersionOne.Integration.HPALM/index.html"
         },
         {
             "type": "source",
             "title": "GitHub Project for Source Code and Issues",
-            "href": "https://github.com/versionone/VersionOne.Integration.QualityCenter"
+            "href": "https://github.com/versionone/VersionOne.Integration.HPALM"
         },		
         {
             "type": "license",
             "title": "Modified BSD (3-clause) License",
-            "href": "https://github.com/versionone/VersionOne.Integration.QualityCenter/blob/master/LICENSE.md"
+            "href": "https://github.com/versionone/VersionOne.Integration.HPALM/blob/master/LICENSE.md"
         }        
     ],
     "updatesSection": {
@@ -104,15 +104,15 @@
         "qualityBands": {
             "seed": {
                 "shortDescription": "The initial idea of a product. May not be stable code.",
-                "href": "https://github.com/versionone/VersionOne.Integration.QualityCenter/blob/master/CONTRIBUTING.md#seed"
+                "href": "https://github.com/versionone/VersionOne.Integration.HPALM/blob/master/CONTRIBUTING.md#seed"
             },
             "sapling": {
                 "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
-                "href": "https://github.com/versionone/VersionOne.Integration.QualityCenter/blob/master/CONTRIBUTING.md#sapling"
+                "href": "https://github.com/versionone/VersionOne.Integration.HPALM/blob/master/CONTRIBUTING.md#sapling"
             },
             "mature": {
                 "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
-                "href": "https://github.com/versionone/VersionOne.Integration.QualityCenter/blob/master/CONTRIBUTING.md#mature"
+                "href": "https://github.com/versionone/VersionOne.Integration.HPALM/blob/master/CONTRIBUTING.md#mature"
             }
         }
     },
