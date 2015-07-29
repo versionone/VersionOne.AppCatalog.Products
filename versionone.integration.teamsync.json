@@ -72,8 +72,8 @@
             "title": "Installing and Configuring TeamSync",
             "caption": "Install and configure TeamSync",
             "mimetype": "video/x-flv",
-            "href": "http://www.versionone.tv.s3.amazonaws.com/JIRA/JIRA.flv",
-            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+            "href": "http://v1platform.blob.core.windows.net/videos/installing_teamsync.mp4",
+            "thumbhref": "http://v1platform.blob.core.windows.net/videos/installing_teamsync_First_Frame.png"
         },
         {
             "title": "Using TeamSync",
