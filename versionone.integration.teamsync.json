@@ -14,11 +14,6 @@
     },
     "linksSection": [
         {
-            "type": "download",
-            "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0.msi"
-        },
-        {
             "type": "documentation",
             "title": "Documentation",
             "href": "https://community.versionone.com/01Staging_Area/Acey-Staging/TeamSync"
@@ -31,7 +26,7 @@
 		        {
             "type": "video",
             "title": "Video: Using TeamSync for JIRA",
-            "href": "https://community.versionone.com/01Staging_Area/Acey-Staging/TeamSync"
+            "href": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing.mp4"
         }
     ],
     "updatesSection": {
@@ -41,8 +36,7 @@
                 "description": "Summer 2015",
                 "version": "1.0.0.0",
                 "releaseNotes": " * Initial release with JIRA connector.",
-                "qualityBand": "sapling",
-                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.TeamSync.Installer_1.0.0.0.msi"
+                "qualityBand": "sapling"
             }
         ],
         "qualityBands": {
@@ -79,8 +73,8 @@
             "title": "Using TeamSync",
             "caption": "Use TeamSync for team tool synchronization",
             "mimetype": "video/x-flv",
-            "href": "http://www.versionone.tv.s3.amazonaws.com/JIRAConfigurationIntegration/JIRAConfigurationIntegration.flv",
-            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+            "href": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing.mp4",
+            "thumbhref": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing_First_Frame.png"
         }
     ]
 }
