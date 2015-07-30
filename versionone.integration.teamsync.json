@@ -18,14 +18,9 @@
             "title": "Documentation",
             "href": "https://community.versionone.com/01Staging_Area/Acey-Staging/TeamSync"
         },
-        {
+		{
             "type": "video",
-            "title": "Video: Installing and Configuring TeamSync",
-            "href": "http://v1platform.blob.core.windows.net/videos/installing_teamsync.mp4"
-        },
-		        {
-            "type": "video",
-            "title": "Video: Using TeamSync for JIRA",
+            "title": "Video: TeamSync for JIRA",
             "href": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing.mp4"
         }
     ],
@@ -56,22 +51,8 @@
     },
     "mediaSection": [
         {
-            "title": "TeamSycn",
-            "caption": "TeamSync Workflow",
-            "mimetype": "image/jpeg",
-            "href": "http://v1platform.blob.core.windows.net/images/TeamSyncLifeCycle.png",
-            "thumbhref": "http://v1platform.blob.core.windows.net/images/TeamSyncLifeCycle.png"
-        },
-		{
-            "title": "Installing and Configuring TeamSync",
-            "caption": "Install and configure TeamSync",
-            "mimetype": "video/x-flv",
-            "href": "http://v1platform.blob.core.windows.net/videos/installing_teamsync.mp4",
-            "thumbhref": "http://v1platform.blob.core.windows.net/videos/installing_teamsync_First_Frame.png"
-        },
-        {
-            "title": "Using TeamSync",
-            "caption": "Use TeamSync for team tool synchronization",
+            "title": "TeamSync for JIRA",
+            "caption": "Use TeamSync to synchronize data with JIRA.",
             "mimetype": "video/x-flv",
             "href": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing.mp4",
             "thumbhref": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing_First_Frame.png"
