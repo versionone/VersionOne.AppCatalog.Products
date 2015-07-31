@@ -21,7 +21,7 @@
 		{
             "type": "video",
             "title": "Video: Using TeamSync for JIRA",
-            "href": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing.mp4"
+            "href": "https://vimeo.com/agilemadeeasier/review/134981299/fc95de3d18"
         }
     ],
     "updatesSection": {
@@ -54,7 +54,7 @@
             "title": "Using TeamSync for JIRA",
             "caption": "Use TeamSync to synchronize data with JIRA.",
             "mimetype": "video/x-flv",
-            "href": "https://vimeo.com/agilemadeeasier/review/134981299/fc95de3d18",
+            "href": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing.mp4",
             "thumbhref": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing_First_Frame.png"
         }
     ]
