@@ -32,7 +32,7 @@
     "updatesSection": {
         "updates": [
             {
-                "date": "2015-07-31T00:00:00.000Z",
+                "date": "2015-08-01T00:00:00.000Z",
                 "description": "Summer 2015",
                 "version": "1.0.0.0",
                 "releaseNotes": " * Initial release with JIRA connector.",
