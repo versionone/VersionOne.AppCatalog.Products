@@ -2,20 +2,25 @@
     "id": "VersionOne.Integration.TeamSync",
     "titleSection": {
         "name": "VersionOne TeamSync",
-        "shortDescription": "Synchronize features, backlog items, estimates, and effort with external team level agile management tools.",
-        "pricing": "Contact your VersionOne account representative.",
+        "shortDescription": "Synchronize features, workitems, estimates, and effort with VersionOne and external team level agile management tools.",
+        "pricing": "Please contact your VersionOne account representative.",
         "support": {
             "text": "VersionOne",
             "href": "http://support.versionone.com/home"
         }
     },
     "descriptionSection": {
-        "description": "VersionOne TeamSync&trade; is an integration that provides portfolio and program leaders with visibility into the work that their teams are doing without disrupting the teams' current agile processes. TeamSync is designed from the ground up to allow VersionOne to coexist with other agile team tools while providing accurate and near-time rollup of the features that the teams are working on, including their features, backlog items, estimates, statuses, and effort. \n\n Using TeamSync, organizations can effectively plan their product releases and features in VersionOne, elaborate those features into a backlog of workitems in their external team tool, then as the team executes those workitems within their team tool, roll-up the status and effort on those workitems as the teams progress through their agile iterations. \n\n Key features of TeamSync include: \n\n * Synchronize multiple team tools into a single VersionOne instance \n * Synchronize multiple projects per team tool instance \n * Specify the VersionOne Portfolio Item level to send as features to the team tool \n * Maintains workitem status in near-time \n * Aggregates workitem estimates and worklogs to the portfolio and program levels in VersionOne \n * Simple installation and configuration "
+        "description": "VersionOne TeamSync&trade; is an integration that provides portfolio and program managers with visibility into the work that their teams are doing without disrupting the teams' current agile processes. TeamSync is designed from the ground up to allow VersionOne to coexist with other agile team tools while providing accurate and near-time roll up of the features that the teams are working on, including their features, backlog items, estimates, statuses, and effort. \n\n Using TeamSync, organizations can effectively plan their product releases and features in VersionOne, elaborate those features into a backlog of workitems in VersionOne or their external team tool, then as the team executes those workitems, roll-up the status and effort on those workitems as the teams progress through their agile iterations. \n\n Key features of TeamSync include: \n\n * Synchronize multiple team tools into a single VersionOne instance \n * Synchronize multiple projects per team tool instance \n * Specify the VersionOne Portfolio Item level to send as features to the team tool \n * Maintains workitem status in near-time \n * Aggregates workitem estimates and worklogs to the portfolio and program levels in VersionOne \n * Simple installation and configuration "
     },
     "linksSection": [
         {
             "type": "documentation",
-            "title": "Documentation",
+            "title": "TeamSync Datasheet",
+            "href": "https://versionone.com/TeamSync"
+        },	
+        {
+            "type": "documentation",
+            "title": "TeamSync Documentation",
             "href": "https://community.versionone.com/01Staging_Area/Acey-Staging/TeamSync"
         },
 		{
@@ -27,7 +32,7 @@
     "updatesSection": {
         "updates": [
             {
-                "date": "2015-08-03T00:00:00.000Z",
+                "date": "2015-07-31T00:00:00.000Z",
                 "description": "Summer 2015",
                 "version": "1.0.0.0",
                 "releaseNotes": " * Initial release with JIRA connector.",
