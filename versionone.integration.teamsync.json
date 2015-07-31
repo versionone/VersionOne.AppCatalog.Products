@@ -15,11 +15,6 @@
     "linksSection": [
         {
             "type": "documentation",
-            "title": "TeamSync Datasheet",
-            "href": "https://versionone.com/TeamSync"
-        },	
-        {
-            "type": "documentation",
             "title": "TeamSync Documentation",
             "href": "https://community.versionone.com/01Staging_Area/Acey-Staging/TeamSync"
         },
