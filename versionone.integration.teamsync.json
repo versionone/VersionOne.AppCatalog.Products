@@ -3,7 +3,7 @@
     "titleSection": {
         "name": "VersionOne TeamSync",
         "shortDescription": "Synchronize features, workitems, estimates, and effort with VersionOne and external team level agile management tools.",
-        "pricing": "Please contact your VersionOne account representative.",
+        "pricing": "Contact your VersionOne account representative.",
         "support": {
             "text": "VersionOne",
             "href": "http://support.versionone.com/home"
@@ -56,7 +56,7 @@
     },
     "mediaSection": [
         {
-            "title": "TeamSync for JIRA",
+            "title": "Using TeamSync for JIRA",
             "caption": "Use TeamSync to synchronize data with JIRA.",
             "mimetype": "video/x-flv",
             "href": "http://v1platform.blob.core.windows.net/videos/teamsync_marketing.mp4",
