@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.2.0.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.3.0.zip"
         },
         {
             "type": "documentation",
@@ -56,6 +56,14 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-08-14T00:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "4.0.3.0",
+                "releaseNotes": "* Fixed: Configuring policy in VS2012",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Tfs_4.0.3.0.zip"
+            },		
             {
                 "date": "2015-03-06T00:00:00.000Z",
                 "description": "Winter 2015",
