@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": "Java SDK as downloadable ZIP",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-15.1.0.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-15.1.1.zip"
         },		
         {
             "type": "documentation",
@@ -46,6 +46,14 @@
     ],
     "updatesSection": {
         "updates": [
+		    {
+                "date": "2015-08-13T00:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "15.1.1",
+                "releaseNotes": " * Fixed URL encoding for query filter operators",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-15.1.1.zip"
+            },		
 		    {
                 "date": "2015-07-16T00:00:00.000Z",
                 "description": "Summer 2015",
