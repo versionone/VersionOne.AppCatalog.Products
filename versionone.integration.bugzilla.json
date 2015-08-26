@@ -16,7 +16,7 @@
     {
       "type": "download",
       "title": "Download Latest Stable Build",
-      "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.3.0.zip"
+      "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.4.0.zip"
     },
     {
       "type": "documentation",
@@ -36,6 +36,14 @@
   ],  
   "updatesSection": {
     "updates": [
+      {
+        "date": "2015-08-27T00:00:00.000Z",
+        "description": "Summer 2015",
+        "version": "8.4.4",
+        "releaseNotes": " * Fixed: Error in V1.pm file resulting in fucntion not found message",
+        "qualityBand": "mature",
+        "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_8.4.4.0.zip"
+      },	
       {
         "date": "2015-06-05T00:00:00.000Z",
         "description": "Spring 2015",
