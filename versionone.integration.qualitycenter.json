@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.QualityCenter_8.3.0.2117.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.HPALM_8.4.0.0_RELEASE.zip"
         },
         {
             "type": "documentation",
@@ -36,6 +36,14 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2015-09-03T00:00:00.000Z",
+                "description": "Summer 2015",
+                "version": "8.4.0.0",
+                "releaseNotes": " * Added: Support for HP-ALM 11.5, 12.0, 12.2 \n * Added: Support for SAML SSO via access tokens \n * Updated: Uses HP-ALM REST API instead COM OTA \n * Deprecated: Support for HP-ALM 11.0 and earlier",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.HPALM_8.4.0.0_RELEASE.zip"
+            },		
             {
                 "date": "2012-11-01T00:00:00.000Z",
                 "description": "Winter 2012",
