@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": "Java SDK as downloadable ZIP",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-15.1.1.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-15.2.0.zip"
         },		
         {
             "type": "documentation",
@@ -46,6 +46,14 @@
     ],
     "updatesSection": {
         "updates": [
+			{
+                "date": "2016-03-14T00:00:00.000Z",
+                "description": "Spring 2016",
+                "version": "15.2.0",
+                "releaseNotes": " * Fixed attachment support to properly use InputStream",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-15.2.0.zip"
+            },
 		    {
                 "date": "2015-08-14T00:00:00.000Z",
                 "description": "Summer 2015",
