@@ -5,12 +5,11 @@
 		"shortDescription": "Link agile workitems to tangible, working software in the form of builds.",
 		"pricing": "Free",
         "support": {
-			"text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+			"text": "Open Source Community",
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne Integration for ElectricCommander creates a record of ElectricCommander builds in VersionOne, so the development teams can quickly view builds associated with a story or defects. This visibility is useful when identifying what build to use for verification or when generating release notes."
+        "description": "As of Spring 2016 this integration was set to sunset status, the source is available below for extending this integration.**\n\nThe VersionOne Integration for ElectricCommander creates a record of ElectricCommander builds in VersionOne, so the development teams can quickly view builds associated with a story or defects. This visibility is useful when identifying what build to use for verification or when generating release notes."
     },
     "linksSection": [
         {
@@ -26,6 +25,11 @@
     ],
     "updatesSection": {
 	    "updates": [
+            {
+                "date": "2016-04-22T12:00:00.000Z",
+                "description": "Spring 2016",
+                "version": "Sunset",
+            },
             {
                 "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/ElectricCommanderPlugin.zip",
                 "qualityBand": "mature",
