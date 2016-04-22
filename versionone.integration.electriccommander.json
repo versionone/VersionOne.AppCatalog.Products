@@ -6,6 +6,7 @@
 		"pricing": "Free",
         "support": {
 			"text": "Open Source Community"
+			"href": "https://github.com/versionone/VersionOne.AppCatalog.Products/issues"
         }
     },
     "descriptionSection": {
