@@ -5,12 +5,12 @@
         "shortDescription": "Link agile workitems to tangible, working software in the form of builds.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source Community",
+            "href": "http://stackoverflow.com/questions"
         }
     },
     "descriptionSection": {
-        "description": "VersionOne Integration for TeamCity helps developers link agile workitems to tangible, working software in the form of builds. This enables teams to measure progress in terms of working software and to identify problems sooner. This publisher creates a record of TeamCity builds in VersionOne, so the development teams can quickly view builds associated with a story or defect. This visibility is useful when identifying what build to use for verification or when generating release notes."
+        "description": "As of Spring 2016 this integration was set to sunset status, the source is available below for extending this integration.** \n For support please submit a question to Stack Overflow using the tag versionone-teamcity \n \n VersionOne Integration for TeamCity helps developers link agile workitems to tangible, working software in the form of builds. This enables teams to measure progress in terms of working software and to identify problems sooner. This publisher creates a record of TeamCity builds in VersionOne, so the development teams can quickly view builds associated with a story or defect. This visibility is useful when identifying what build to use for verification or when generating release notes."
     },
     "linksSection": [
         {
@@ -26,6 +26,11 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2016-04-25T12:00:00.000Z",
+                "description": "Spring 2016",
+                "version": "Sunset"
+            },
             {
                 "date": "2012-05-15T00:00:00.000Z",
                 "description": "Spring 2012",
