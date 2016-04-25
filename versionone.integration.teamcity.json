@@ -22,6 +22,11 @@
             "type": "documentation",
             "title": "Documentation",
             "href": "http://versionone.github.io/VersionOne.Integration.TeamCity"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.TeamCity"
         }
     ],
     "updatesSection": {
