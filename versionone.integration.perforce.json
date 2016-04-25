@@ -5,12 +5,12 @@
         "shortDescription": "View code changes for a story or defect quickly by integrating VersionOne with your source code manager.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source Community",
+            "href": "http://stackoverflow.com/questions"
         }
     },
     "descriptionSection": {
-        "description": "VersionOne Integration for Perforce creates a record of Perforce changesets in VersionOne, so the development team can quickly view all of the code changes for a story or defect. This visibility can be useful when tracking down defects or performing code reviews."
+        "description": "As of Spring 2016 this integration was set to sunset status, the source is available below for extending this integration.** \n For support please submit a question to Stack Overflow using the tag versionone-perforce \n \n VersionOne Integration for Perforce creates a record of Perforce changesets in VersionOne, so the development team can quickly view all of the code changes for a story or defect. This visibility can be useful when tracking down defects or performing code reviews."
     },
     "linksSection": [
         {
@@ -22,10 +22,20 @@
             "type": "documentation",
             "title": "Documentation",
             "href": "http://versionone.github.io/VersionOne.Integration.Perforce/"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Integration.Perforce"
         }
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2016-04-25T12:00:00.000Z",
+                "description": "Spring 2016",
+                "version": "Sunset"
+            },
             {
                 "date": "2012-11-01T00:00:00.000Z",
                 "description": "Winter 2012",
