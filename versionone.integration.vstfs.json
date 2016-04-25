@@ -5,12 +5,12 @@
         "shortDescription": "Links VersionOne Workitems to TFS Check-ins and Builds.",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source Community",
+            "href": "http://stackoverflow.com/questions"
         }
     },
     "descriptionSection": {
-        "description": "VersionOne Integration for Team Foundation Server (TFS) links VersionOne Workitems to TFS Check-ins and Builds. The link from Workitems to Check-ins makes it easier to track down the source of a defect and perform code reviews. The link from Workitems to Builds enables teams to measure progress in terms of working software and to identify problems sooner. Using the links from Workitems to Builds, the VersionOne BuildRun Report can help determine an appropriate build for release and can be the starting point for release notes."
+        "description": "As of Spring 2016 this integration was set to sunset status, the source is available below for extending this integration.** \n For support please submit a question to Stack Overflow using the tag versionone-tfs \n CommitStream also supports TFS VSTS, for more information see the link below. \n VersionOne Integration for Team Foundation Server (TFS) links VersionOne Workitems to TFS Check-ins and Builds. The link from Workitems to Check-ins makes it easier to track down the source of a defect and perform code reviews. The link from Workitems to Builds enables teams to measure progress in terms of working software and to identify problems sooner. Using the links from Workitems to Builds, the VersionOne BuildRun Report can help determine an appropriate build for release and can be the starting point for release notes."
     },
     "linksSection": [
         {
@@ -52,10 +52,20 @@
             "type": "license",
             "title": "Modified BSD (3-clause) License",
             "href": "https://github.com/versionone/VersionOne.Integration.TFS.Core/blob/master/LICENSE.md"
+        },
+                {
+            "type": "documentation",
+            "title": "CommitStream Information",
+            "href": "http://community.versionone.com/Help-Center/Administration/Using_CommitStream"
         }
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2016-04-25T12:00:00.000Z",
+                "description": "Spring 2016",
+                "version": "Sunset"
+            },
             {
                 "date": "2015-08-14T00:00:00.000Z",
                 "description": "Summer 2015",
