@@ -1,5 +1,5 @@
 {
-    "id": "VersionOne.Integration.Salesforce",
+    "id": "VersionOne.Integration.CaseConnect",
     "titleSection": {
         "name": "VersionOne Integration for Salesforce",
         "shortDescription": "Link VersionOne Defects with salesforce.com Cases",
