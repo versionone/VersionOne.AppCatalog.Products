@@ -42,7 +42,7 @@
     "updatesSection": {
         "updates": [
 		{
-                "date": "2016-06-14T00:00:00.000Z",
+                "date": "2016-06-15T00:00:00.000Z",
                 "description": "Summer 2016",
                 "version": "15.2.0.0",
                 "releaseNotes": " * Updated Services constructor to allow preloading Meta or passing your own IMetaModel",
