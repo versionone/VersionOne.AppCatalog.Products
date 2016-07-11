@@ -45,7 +45,7 @@
                 "date": "2016-07-11T00:00:00.000Z",
                 "description": "Summer 2016",
                 "version": "11.0",
-                "releaseNotes": "Tested Against Jenkins 1.651.2 and 2.7.\n Fixed: Multiple Repos Not Creating Changesets for Subversion.",
+                "releaseNotes": " * Tested Against Jenkins 1.651.2 and 2.7.\n * Fixed: Multiple Repos Not Creating Changesets for Subversion.",
                 "qualityBand": "mature",
                 "downloadUrl": "https://s3.amazonaws.com/platform.versionone.com/downloads/VersionOne.Integration.Jenkins.11.0.hpi.zip"
             },
