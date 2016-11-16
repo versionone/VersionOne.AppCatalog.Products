@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": ".NET SDK as downloadable ZIP",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.0.0-RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.2.0-RELEASE.zip"
         },			
         {
             "type": "documentation",
@@ -41,7 +41,23 @@
     ],
     "updatesSection": {
         "updates": [
-		{
+        	{
+                "date": "2016-11-16T00:00:00.000Z",
+                "description": "Summer 2016",
+                "version": "15.2.1.0",
+                "releaseNotes": " * Improved Request/Response logging",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.2.0-RELEASE.zip"
+            },
+        	{
+                "date": "2016-11-03T00:00:00.000Z",
+                "description": "Summer 2016",
+                "version": "15.2.1.0",
+                "releaseNotes": " * Fixed logging issues",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.1.0-RELEASE.zip"
+            },
+			{
                 "date": "2016-06-15T00:00:00.000Z",
                 "description": "Summer 2016",
                 "version": "15.2.0.0",
@@ -49,7 +65,7 @@
                 "qualityBand": "mature",
                 "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.0.0-RELEASE.zip"
             },        	
-		{
+			{
                 "date": "2015-07-16T00:00:00.000Z",
                 "description": "Summer 2015",
                 "version": "15.1.0.0",
