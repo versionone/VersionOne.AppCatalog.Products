@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": ".NET SDK as downloadable ZIP",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.2.0-RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.3.0-RELEASE.zip"
         },			
         {
             "type": "documentation",
@@ -42,6 +42,14 @@
     "updatesSection": {
         "updates": [
         	{
+                "date": "2016-12-06T00:00:00.000Z",
+                "description": "Fall 2016",
+                "version": "15.2.3.0",
+                "releaseNotes": " * Added Guid attribute type support",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.3.0-RELEASE.zip"
+            },
+            {
                 "date": "2016-11-16T00:00:00.000Z",
                 "description": "Fall 2016",
                 "version": "15.2.2.0",
