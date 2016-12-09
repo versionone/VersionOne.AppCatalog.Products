@@ -39,7 +39,7 @@
 	          {
         "date": "2016-12-09T00:00:00.000Z",
         "description": "Winter 2016 - V5.0 and Above",
-        "version": "8.4.4",
+        "version": "9.0.4",
         "releaseNotes": " * Updated to use the new Bugzilla REST Endpoint",
         "qualityBand": "mature",
         "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/C:/Octopus/Applications/AppCatalog/BugzillaV1Integration/9.0.4.130_2/target/VersionOne.Integration.Bugzilla_9.0.4.130.zip"
