@@ -16,12 +16,12 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_8.4.0.0_RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.0.0.0_RELEASE.zip"
         },
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://versionone.github.io/VersionOne.Integration.JIRA"
+            "href": "https://community.versionone.com/VersionOne_Connect/Supported_Integrations/VersionOne_IssueSync_for_JIRA"
         },
 		{
 			"type": "source",
@@ -36,6 +36,14 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2016-12-22T00:00:00.000Z",
+                "description": "Winter 2016",
+                "version": "9.0.0.0",
+                "releaseNotes": " * Added: Support for JIRA 7. \n * Removed: Support for OAuth and Basic Auth.",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.0.0.0_RELEASE.zip"
+            },
             {
                 "date": "2015-05-30T00:00:00.000Z",
                 "description": "Summer 2015",
