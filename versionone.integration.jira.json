@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.0.0.0_RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.1.0.0_RELEASE.zip"
         },
         {
             "type": "documentation",
@@ -36,6 +36,14 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2017-01-15T00:00:00.000Z",
+                "description": "Winter 2016",
+                "version": "9.1.0.0",
+                "releaseNotes": " * Added: Support for Custom Multi-Select Field. \n * Only One Select is Supported.",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.1.0.0_RELEASE.zip"
+            },
             {
                 "date": "2016-12-22T00:00:00.000Z",
                 "description": "Winter 2016",
