@@ -166,11 +166,11 @@
   },
   "mediaSection": [
     {
-      "title": "Bugzilla Integration",
-      "caption": "Triage defects and include them in the planning process to balance new work and maintenance",
-      "mimetype": "video\/x-flv",
-      "href": "http:\/\/www.versionone.tv.s3.amazonaws.com\/Bugzilla\/Bugzilla.flv",
-      "thumbhref": "http:\/\/community.versionone.com\/attachments\/imagefolder\/gettingstarted\/video.png"
+      	"title": "Bugzilla Integration",
+      	"caption": "Triage defects and include them in the planning process to balance new work and maintenance",
+      	"mimetype": "video\/x-flv",
+	"href": "https:\/\/vimeo.com\/40887818"
+      	"thumbhref": "http:\/\/community.versionone.com\/attachments\/imagefolder\/gettingstarted\/video.png"
     }
   ]
 }
