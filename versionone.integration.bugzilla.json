@@ -16,7 +16,7 @@
     {
       "type": "download",
       "title": "Download Latest Stable Build",
-      "href": "http://v1platform.blob.core.windows.net/downloads/C:/Octopus/Applications/AppCatalog/BugzillaV1Integration/9.0.4.130_2/target/VersionOne.Integration.Bugzilla_9.0.4.130.zip"
+      "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.1.0.163.zip"
     },
     {
       "type": "documentation",
@@ -36,13 +36,21 @@
   ],  
   "updatesSection": {
     "updates": [
-	          {
+      {
+        "date": "2017-06-16T00:00:00.000Z",
+        "description": "Spring 2017 - V5.0 and Above",
+        "version": "9.0.4",
+        "releaseNotes": " * Updated to work properly when using Windows Integrated Auth in VersionOne",
+        "qualityBand": "mature",
+        "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.1.0.163.zip"
+      },	    
+      {
         "date": "2016-12-09T00:00:00.000Z",
         "description": "Winter 2016 - V5.0 and Above",
         "version": "9.0.4",
         "releaseNotes": " * Updated to use the new Bugzilla REST Endpoint",
         "qualityBand": "mature",
-        "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/C:/Octopus/Applications/AppCatalog/BugzillaV1Integration/9.0.4.130_2/target/VersionOne.Integration.Bugzilla_9.0.4.130.zip"
+        "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.0.4.130.zip"
       },
       {
         "date": "2015-08-27T00:00:00.000Z",
