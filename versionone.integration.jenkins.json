@@ -45,7 +45,7 @@
                 "date": "2017-06-23T00:00:00.000Z",
                 "description": "Summer 2017",
                 "version": "11.1.0",
-                "releaseNotes": " * Tested Against Jenkins 2.46.3.\n * Updated to work properly when using Windows Integrated Auth in VersionOne",
+                "releaseNotes": " * Tested Against Jenkins 2.46.3\n * Updated to work properly when using Windows Integrated Auth in VersionOne",
                 "qualityBand": "mature",
                 "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Jenkins.11.1.hpi.zip"
             },            
