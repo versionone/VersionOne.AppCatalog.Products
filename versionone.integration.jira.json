@@ -16,7 +16,7 @@
         {
             "type": "download",
             "title": "Download Latest Stable Build",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.2.0.0_RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.2.1.0_RELEASE.zip"
         },
         {
             "type": "documentation",
@@ -36,7 +36,15 @@
     ],
     "updatesSection": {
         "updates": [
-            {
+	    {
+		"date": "2017-09-21T00:00:00.000Z",
+		"description": "Fall 2017",
+		"version": "9.2.1.0",
+		"releaseNotes": " * Updated to work properly when paging using the Jira API",
+		"qualityBand": "mature",
+		"downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.2.1.0_RELEASE.zip"
+	    },
+		{
                 "date": "2017-06-17T00:00:00.000Z",
                 "description": "Spring 2017",
                 "version": "9.2.0.0",
