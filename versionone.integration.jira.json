@@ -40,7 +40,7 @@
 		"date": "2017-09-21T00:00:00.000Z",
 		"description": "Fall 2017",
 		"version": "9.2.1.0",
-		"releaseNotes": " * Updated to work properly when paging using the Jira API",
+		"releaseNotes": " * Updated to use pages properly with the Jira API",
 		"qualityBand": "mature",
 		"downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.JIRA_9.2.1.0_RELEASE.zip"
 	    },
