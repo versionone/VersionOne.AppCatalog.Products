@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": ".NET SDK as downloadable ZIP",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.2.3.0-RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.3.0.0-RELEASE.zip"
         },			
         {
             "type": "documentation",
@@ -41,7 +41,15 @@
     ],
     "updatesSection": {
         "updates": [
-        	{
+            {
+                "date": "2017-12-19T00:00:00.000Z",
+                "description": "Fall 2017",
+                "version": "15.3.0.0",
+                "releaseNotes": " * Added support for non-relational Multi-Value attributes (supports TaggedWith attribute for modify tags)\n * Fixed issue to double-up single quotes in where clause URLs for server-side parsing",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.3.0.0-RELEASE.zip"
+            },		
+            {
                 "date": "2016-12-06T00:00:00.000Z",
                 "description": "Fall 2016",
                 "version": "15.2.3.0",
