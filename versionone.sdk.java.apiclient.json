@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": "Java SDK as downloadable ZIP",
-            "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-16.0.0.zip"
+            "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-16.1.0.zip"
         },		
         {
             "type": "documentation",
@@ -46,6 +46,14 @@
     ],
     "updatesSection": {
         "updates": [
+	   	{
+                "date": "2018-04-12T00:00:00.000Z",
+                "description": "Spring 2018",
+                "version": "16.0.1",
+                "releaseNotes": " * Added support for non-relational Multi-Value attributes (supports TaggedWith attribute for modify tags)",
+                "qualityBand": "mature",
+        	"downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-16.1.0.zip"
+            },
 	   	{
                 "date": "2016-12-29T00:00:00.000Z",
                 "description": "Winter 2016",
