@@ -49,7 +49,7 @@
 	   	{
                 "date": "2018-04-12T00:00:00.000Z",
                 "description": "Spring 2018",
-                "version": "16.0.1",
+                "version": "16.1.0",
                 "releaseNotes": " * Added support for non-relational Multi-Value attributes (supports TaggedWith attribute)",
                 "qualityBand": "mature",
         	"downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-16.1.0.zip"
