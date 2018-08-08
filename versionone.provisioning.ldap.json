@@ -5,8 +5,8 @@
         "shortDescription": "Provision VersionOne Members from LDAP",
         "pricing": "Free",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source Community",
+            "href": "http://stackoverflow.com/questions"
         }
     },
     "descriptionSection": {
