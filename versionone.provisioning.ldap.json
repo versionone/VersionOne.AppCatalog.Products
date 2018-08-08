@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": "Download Latest Early Access Build",
-            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Provisioning.LDAP_1.1.0.96.zip"
+            "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Provisioning.LDAP_1.1.0.144.zip"
         },
         {
             "type": "documentation",
@@ -47,6 +47,14 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2018-08-09T10:00:00.000Z",
+                "description": "Summary 2018 Early Access",
+                "version": "1.1.0.144",
+                "releaseNotes": " * Modified directory group and user enumeration to work over LDAP (pmamut)\n * Added proper order to V1 users action list to prioritize deactivation of V1 users (raynard-delosreyes)",
+                "qualityBand": "seed",
+                "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Provisioning.LDAP_1.1.0.144.zip"
+            },
             {
                 "date": "2013-10-29T10:00:00.000Z",
                 "description": "Fall 2013 Early Access",
