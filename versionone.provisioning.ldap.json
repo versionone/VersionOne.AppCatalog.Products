@@ -1,0 +1,104 @@
+{
+    "id": "VersionOne.Provisioning.LDAPSync",
+    "titleSection": {
+        "name": "VersionOne Provisioning for LDAP",
+        "shortDescription": "Provision VersionOne Members from LDAP",
+        "pricing": "Free",
+        "support": {
+            "text": "VersionOne",
+            "href": "http://support.versionone.com/home"
+        }
+    },
+    "descriptionSection": {
+        "description": "The LDAP provisioning tool synchronizes the VersionOne Member list with users that belong to a specified LDAP group. The tool assumes that the list of users in the LDAP group is the master list, and adds or removes users from VersionOne accordingly. When users are added they are sent an email with VersionOne connection information and, if VersionOne is configured for VersionOne Authentication, a randomly generated password."
+    },
+    "linksSection": [
+        {
+            "type": "download",
+            "title": "Download Latest Stable Build",
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Provisioning.LDAP_1.0.3.87.zip"
+        },
+        {
+            "type": "download",
+            "title": "Download Latest Early Access Build",
+            "href": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Provisioning.LDAP_1.1.0.96.zip"
+        },
+        {
+            "type": "documentation",
+            "title": "Documentation",
+            "href": "http://versionone.github.io/VersionOne.Provisioning.LDAP/"
+        },
+        {
+            "type": "documentation",
+            "title": "README",
+            "href": "https://github.com/versionone/VersionOne.Provisioning.LDAP/blob/master/README.md"
+        },
+        {
+            "type": "source",
+            "title": "GitHub Project for Source Code and Issues",
+            "href": "https://github.com/versionone/VersionOne.Provisioning.LDAP"
+        },
+        {
+            "type": "license",
+            "title": "Modified BSD (3 clause) License",
+            "href": "https://github.com/versionone/VersionOne.Provisioning.LDAP/blob/master/LICENSE.md"
+        }
+
+    ],
+    "updatesSection": {
+        "updates": [
+            {
+                "date": "2013-10-29T10:00:00.000Z",
+                "description": "Fall 2013 Early Access",
+                "version": "1.1.0.96",
+                "releaseNotes": "Added: Allow LDAP group to include other groups",
+                "qualityBand": "seed",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Provisioning.LDAP_1.1.0.96.zip"
+            },
+            {
+                "date": "2013-07-17T21:00:00.000Z",
+                "description": "Summer 2013",
+                "version": "1.0.3.87",
+                "releaseNotes": " * Updated: .NET Framework 4.5\n * Updated: API Client library\n",
+                "qualityBand": "mature",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Provisioning.LDAP_1.0.3.87.zip"
+            },
+            {
+                "date": "2011-07-01T00:00:00.000Z",
+                "description": "Summer 2011",
+                "version": "1.0.2.62",
+                "releaseNotes": "Updated: Integration depends on the latest SDK",
+                "qualityBand": "mature",
+                "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/VersionOne.Provisioning.zip"
+            },
+            {
+                "date": "2010-12-06T00:00:00.000Z",
+                "description": "Winter 2010",
+                "version": "1.0.1.53",
+                "releaseNotes": "Fixed: VersionOne username matching should be case insensitive",
+                "qualityBand": "mature"
+            },
+            {
+                "date": "2010-08-10T00:00:00.000Z",
+                "description": "Summer 2010",
+                "version": "1.0.0.49",
+                "releaseNotes": "Initial Release",
+                "qualityBand": "mature"
+            }
+        ],
+        "qualityBands": {
+            "seed": {
+                "shortDescription": "Early access build. Use with caution.",
+                "href": "https://github.com/versionone/VersionOne.Provisioning.LDAP/blob/master/CONTRIBUTING.md#seed"
+            },
+            "sapling": {
+                "shortDescription": "The product is undergoing rapid growth. The code works but expect major changes.",
+                "href": "https://github.com/versionone/VersionOne.Provisioning.LDAP/blob/master/CONTRIBUTING.md#sapling"
+            },
+            "mature": {
+                "shortDescription": "The product is stable. The code will continue to evolve with minimum breaking changes.",
+                "href": "https://github.com/versionone/VersionOne.Provisioning.LDAP/blob/master/CONTRIBUTING.md#mature"
+            }
+        }
+    }
+}
