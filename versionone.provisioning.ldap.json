@@ -48,7 +48,7 @@
     "updatesSection": {
         "updates": [
             {
-                "date": "2018-08-09T10:00:00.000Z",
+                "date": "2018-08-08T12:00:00.000Z",
                 "description": "Summary 2018 Early Access",
                 "version": "1.1.0.144",
                 "releaseNotes": " * Modified directory group and user enumeration to work over LDAP (pmamut)\n * Added proper order to V1 users action list to prioritize deactivation of V1 users (raynard-delosreyes)",
