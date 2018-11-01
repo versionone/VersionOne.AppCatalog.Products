@@ -5,8 +5,8 @@
         "shortDescription": "Synchronize features, workitems, estimates, and effort with VersionOne and external team level agile management tools.",
         "pricing": "Contact your VersionOne account representative.",
         "support": {
-            "text": "VersionOne",
-            "href": "http://support.versionone.com/home"
+            "text": "Open Source Community Supported",
+            "href": "https://stackoverflow.com/questions"
         }
     },
     "descriptionSection": {
@@ -16,7 +16,7 @@
         {
             "type": "documentation",
             "title": "TeamSync Documentation",
-            "href": "https://community.versionone.com/Developers/Developer-Library/Integrations/TeamSync"
+            "href": "https://community.versionone.com/VersionOne_Connect/Community_Supported_Integrations/VersionOne_TeamSync_Integrations"
         },
 		{
             "type": "video",
@@ -26,6 +26,13 @@
     ],
     "updatesSection": {
         "updates": [
+	    {
+                "date": "2018-11-01T00:00:00.000Z",
+                "description": "Fall 2018",
+                "version": "1.1.0.0",
+                "releaseNotes": " * Made TeamSync Open Source.",
+                "qualityBand": "sapling"
+            },
             {
                 "date": "2015-08-01T00:00:00.000Z",
                 "description": "Summer 2015",
