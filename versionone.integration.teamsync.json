@@ -3,7 +3,7 @@
     "titleSection": {
         "name": "VersionOne TeamSync",
         "shortDescription": "Synchronize features, workitems, estimates, and effort with VersionOne and external team level agile management tools.",
-        "pricing": "Contact your VersionOne account representative.",
+        "pricing": "Free",
         "support": {
             "text": "Open Source Community Supported",
             "href": "https://stackoverflow.com/questions"
@@ -22,7 +22,12 @@
             "type": "video",
             "title": "Video: Using TeamSync for JIRA",
             "href": "https://vimeo.com/agilemadeeasier/review/134981299/fc95de3d18"
-        }
+        },
+		{
+			"type": "license",
+			"title": "Modified BSD (3 clause) License",
+			"href": "https://github.com/versionone/VersionOne.TeamSync/LICENSE.md"
+		}
     ],
     "updatesSection": {
         "updates": [
