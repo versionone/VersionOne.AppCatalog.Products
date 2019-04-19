@@ -16,6 +16,11 @@
     {
       "type": "download",
       "title": "Download Latest Stable Build",
+      "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.1.0.225.zip"
+    },
+    {
+      "type": "download",
+      "title": "Download Latest Stable Build",
       "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.1.0.163.zip"
     },
     {
@@ -36,6 +41,14 @@
   ],  
   "updatesSection": {
     "updates": [
+      {
+        "date": "2019-04-19T00:00:00.000Z",
+        "description": "Spring 2019 - V5.0 and Above",
+        "version": "9.1.0",
+        "releaseNotes": " * Added support for TLS 1.2",
+        "qualityBand": "mature",
+        "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.1.0.225.zip"
+      },
       {
         "date": "2017-06-17T00:00:00.000Z",
         "description": "Spring 2017 - V5.0 and Above",
