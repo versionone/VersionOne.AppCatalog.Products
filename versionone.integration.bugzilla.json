@@ -19,11 +19,6 @@
       "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.1.0.225.zip"
     },
     {
-      "type": "download",
-      "title": "Download Latest Stable Build",
-      "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.1.0.163.zip"
-    },
-    {
       "type": "documentation",
       "title": "Documentation",
       "href": "http://community.versionone.com/VersionOne_Connect/Supported_Integrations/VersionOne_Integration_for_Bugzilla_5.0_and_Above"
