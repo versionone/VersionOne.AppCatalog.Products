@@ -1,3 +1,6 @@
+# force connections to use TLS 1.2 (needed for community site Invoke 
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+
 param(
     [alias("t")]
     [string]$tasks = ''
