@@ -42,12 +42,12 @@
     "updatesSection": {
         "updates": [
             {
-                "date": "2017-12-19T00:00:00.000Z",
-                "description": "Fall 2017",
+                "date": "2020-10-01T00:00:00.000Z",
+                "description": "Fall 2020",
                 "version": "15.3.1.0",
                 "releaseNotes": " * Rebranded assets",
                 "qualityBand": "mature",
-                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.3.0.0-RELEASE.zip"
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.3.1.0-RELEASE.zip"
             },
             {
                 "date": "2017-12-19T00:00:00.000Z",
