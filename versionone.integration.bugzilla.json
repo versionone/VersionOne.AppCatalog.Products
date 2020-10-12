@@ -16,7 +16,7 @@
     {
       "type": "download",
       "title": "Download Latest Stable Build",
-      "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.2.0.226.zip"
+      "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.2.0.264.zip"
     },
     {
       "type": "documentation",
@@ -36,6 +36,14 @@
   ],  
   "updatesSection": {
     "updates": [
+      {
+        "date": "2020-10-12T00:00:00.000Z",
+        "description": "Fall 2020",
+        "version": "9.2.0.264",
+        "releaseNotes": " * Rebranded assets",
+        "qualityBand": "mature",
+        "downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.Integration.Bugzilla_9.2.0.264.zip"
+      },
       {
         "date": "2019-04-19T00:00:00.000Z",
         "description": "Spring 2019 - V5.0 and Above",
