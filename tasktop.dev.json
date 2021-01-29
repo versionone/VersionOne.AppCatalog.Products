@@ -15,19 +15,14 @@
     "linksSection": [
         {
             "type": "hyperlink",
-            "title": "Learn about and download Tasktop Dev for VersionOne",
-            "href": "http://tasktop.com/versionone-dev"
-        },
-        {
-            "type": "hyperlink",
-            "title": "Installation guide for Tasktop Dev for VersionOne",
-            "href": "https://dev-support.tasktop.com/customer/portal/articles/1953058-tasktop-dev-for-versionone-installation-instructions"
+            "title": "Download and install Tasktop Dev for VersionOne",
+            "href": "https://docs.tasktop.com/dev/tasktop-dev-for-versionone"
         },
         {
             "type": "hyperlink",
             "title": "Get support for Tasktop Dev for VersionOne",
             "href": "https://tasktop.com/support"
-        },		
+        },
         {
             "type": "hyperlink",
             "title": "Learn more about Tasktop",
@@ -56,6 +51,6 @@
             "mimetype": "image/jpeg",
             "href": "http://v1platform.blob.core.windows.net/images/tasktop.dev.png",
             "thumbhref": "http://v1platform.blob.core.windows.net/images/tasktop.dev.png"
-        }	
-    ]	
+        }
+    ]
 }
