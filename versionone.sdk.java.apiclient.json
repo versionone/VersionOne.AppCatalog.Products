@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": "Java SDK as downloadable ZIP",
-            "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-16.1.0.zip"
+            "href": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-16.1.3.zip"
         },		
         {
             "type": "documentation",
@@ -46,6 +46,22 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2021-03-19T00:00:00.000Z",
+                "description": "21.0",
+                "version": "16.1.3",
+                "releaseNotes": " * Specify charset encoding for V1Connector IO Streams",
+                "qualityBand": "mature",
+        	"downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-16.1.3.zip"
+            },
+            {
+                "date": "2020-10-07T00:00:00.000Z",
+                "description": "20.3",
+                "version": "16.1.2",
+                "releaseNotes": " * URL encoding fixes for Attributes.\n *Sophisticated attribute tokens were not properly URL encoded and lead to errors when issuing requests with selections or filters using these tokens. Work-arounds where encoding is done manually of the attribute token characters like [ are no longer needed.\n *UTF-8 will not be the default encoding of the body of post requests so there is proper support for unicode characters in Name and Description",
+                "qualityBand": "mature",
+        	"downloadUrl": "https://v1platform.blob.core.windows.net/downloads/VersionOne.JavaSDK-16.1.2.zip"
+            },
 	   	{
                 "date": "2018-04-12T00:00:00.000Z",
                 "description": "Spring 2018",
