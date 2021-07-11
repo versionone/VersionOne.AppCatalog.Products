@@ -2,7 +2,7 @@
     "id": "VersionOne.SDK.NET.APIClient",
     "titleSection": {
         "name": "VersionOne .NET SDK",
-        "shortDescription": "A library for .NET development with the VersionOne REST API.",
+        "shortDescription": "A library for .NET development with the VersionOne API endpoints (REST, Query, Bulk).",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -10,7 +10,7 @@
         }
     },
     "descriptionSection": {
-        "description": "The VersionOne .NET SDK is a free and open-source library that accelerates software development of applications that integrate with VersionOne. The SDK serves as a wrapper to the VersionOne REST API, eliminating the need to code the infrastructure necessary for direct handling of HTTP requests and responses."
+        "description": "The VersionOne .NET SDK is a free and open-source library that accelerates software development of applications that integrate with VersionOne. The SDK serves as a wrapper to the VersionOne API endpoints (REST, query,, eliminating the need to code the infrastructure necessary for direct handling of HTTP requests and responses."
     },
     "linksSection": [
         {
@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": ".NET SDK as downloadable ZIP",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_15.3.1.0-RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_21.1.1.0-RELEASE.zip"
         },			
         {
             "type": "documentation",
@@ -41,6 +41,14 @@
     ],
     "updatesSection": {
         "updates": [
+            {
+                "date": "2021-10-01T00:00:00.000Z",
+                "description": "Summer 2021",
+                "version": "21.1.0.0",
+                "releaseNotes": " * Added Fluent Query and support for Bulk API (api/asset)",
+                "qualityBand": "mature",
+                "downloadUrl": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_21.1.0.0-RELEASE.zip"
+            },
             {
                 "date": "2020-10-01T00:00:00.000Z",
                 "description": "Fall 2020",
