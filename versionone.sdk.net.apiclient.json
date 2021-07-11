@@ -21,7 +21,7 @@
         {
             "type": "download",
             "title": ".NET SDK as downloadable ZIP",
-            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_21.1.1.0-RELEASE.zip"
+            "href": "http://v1platform.blob.core.windows.net/downloads/VersionOne.SDK.NET.APIClient_21.1.0.0-RELEASE.zip"
         },			
         {
             "type": "documentation",
